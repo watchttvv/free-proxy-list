@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-10-29 20:20:03
+# 代理列表更新时间: 2025-10-29 20:40:03
 # 总计: 30 个代理
 
+socks5://5.75.204.244:8765 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
+socks5://5.75.196.237:8765 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://47.79.40.185:12462 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
 socks5://152.70.89.135:12442 [[机房] 韩国 首尔特别市 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://172.245.142.49:12346 [[家宽] 美国 德克萨斯州 奧斯汀 [T-Mobile USA, Inc.]]
@@ -29,5 +31,3 @@ socks5://5.39.250.177:8388 [[机房] 拉脱维亚 里加 里加 [Baykov Ilya Ser
 socks5://212.33.198.149:8384 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
 socks5://160.30.209.29:8185 [[机房] 中国 香港 香港 [Hong Kong Telecommunications (HKT) Limited Mass Internet]]
 socks5://156.255.1.102:6666 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [BitCommand LLC]]
-socks5://62.217.177.252:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [BEGET NET 107]]
-socks5://4.194.213.83:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [Microsoft Corporation]]
