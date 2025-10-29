@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-10-30 05:20:02
+# 代理列表更新时间: 2025-10-30 05:40:02
 # 总计: 30 个代理
 
+socks5://93.93.115.242:9999 [[机房] 西班牙 安达鲁西亚 拉利内亚德拉孔塞普西翁 [ARSYS INTERNET S.L.U.]]
+socks5://93.93.114.119:9999 [[机房] 西班牙 安达鲁西亚 拉利内亚德拉孔塞普西翁 [ARSYS INTERNET S.L.U.]]
+socks5://52.79.147.95:9999 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
 socks5://20.2.144.174:9998 [[机房] 中国 香港 香港 — 微软云 Azure [Microsoft Corporation]]
 socks5://62.220.117.36:9924 [[机房] 德国 黑森州 法兰克福 [CLOUDWEBMANAGE EU FR]]
 socks5://43.162.114.137:9909 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Julian Achter trading as Aluy]]
@@ -28,6 +31,3 @@ socks5://89.110.127.150:12286 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SER
 socks5://31.42.188.135:11013 [[机房] 印度尼西亚 雅加达 雅加达 [PT Cloud Hosting Indonesia]]
 socks5://49.51.68.112:11002 [[机房] 美国 加州 圣克拉拉 — 腾讯云 [Tencent cloud computing (Beijing) Co., Ltd.]]
 socks5://123.253.224.64:10999 [[机房] 中国 香港 香港 [NEWRUI LIMITED]]
-socks5://85.209.230.14:10801 [[机房] 中国 香港 香港 [SHINE TELECOM CO., LTD]]
-socks5://85.209.230.147:10801 [[机房] 中国 香港 香港 [SHINE TELECOM CO., LTD]]
-socks5://146.56.100.168:10801 [[机房] 韩国 江原道 春川市 — 甲骨文云 Oracle [Oracle Corporation]]
