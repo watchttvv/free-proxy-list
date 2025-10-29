@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2025-10-29 11:20:50
+# 代理列表更新时间: 2025-10-29 19:40:02
 # 总计: 30 个代理
 
+socks5://166.108.197.69:12308 [[机房] 新加坡 新加坡 新加坡 [Huawei-Cloud-SG]]
+socks5://185.105.90.184:12304 [[机房] 俄罗斯 莫斯科 莫斯科 [FIRST SERVER LIMITED]]
+socks5://89.110.127.150:12286 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
+socks5://31.172.64.154:8443 [[机房] 德国 [Artikel10 e.V.]]
 socks5://31.42.188.135:11013 [[机房] 印度尼西亚 雅加达 雅加达 [PT Cloud Hosting Indonesia]]
 socks5://49.51.68.112:11002 [[机房] 美国 加州 圣克拉拉 — 腾讯云 [Tencent cloud computing (Beijing) Co., Ltd.]]
 socks5://123.253.224.64:10999 [[机房] 中国 香港 香港 [NEWRUI LIMITED]]
@@ -27,7 +31,3 @@ socks5://62.217.177.252:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [BEGET NET 
 socks5://4.194.213.83:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [Microsoft Corporation]]
 socks5://4.194.19.223:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [Microsoft Corporation]]
 socks5://78.39.177.76:8070 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
-socks5://78.39.177.78:8070 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
-socks5://194.5.78.208:7443 [[机房] 波兰 马佐维亚省 華沙 [H2NEXUS LTD]]
-socks5://192.210.193.193:7443 [[机房] 美国 加州 洛杉矶 [HostPapa]]
-socks5://62.113.118.241:8058 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS Hosting]]
