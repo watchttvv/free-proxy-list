@@ -1,6 +1,12 @@
-# 代理列表更新时间: 2025-11-01 10:20:03
+# 代理列表更新时间: 2025-11-01 10:40:02
 # 总计: 30 个代理
 
+socks5://208.84.101.221:20001 [[家宽] 巴西 巴拉那州 [Mundial Telecomunicacao Ltda - ME]]
+socks5://208.84.101.84:20001 [[家宽] 巴西 圣保罗 [Claro NXT Telecomunicacoes Ltda]]
+socks5://199.127.61.58:20001 [[家宽] 印度 德里 新德里 [Mahanagar Telephone Nigam Limited]]
+socks5://192.166.82.2:20001 [[家宽] 阿根廷 布宜诺斯艾利斯 [Telecentro S.A. - Clientes Residenciales]]
+socks5://192.166.82.58:20001 [[家宽] 沙特阿拉伯 利雅得省 利雅德 [RYD 5G]]
+socks5://192.166.82.112:20001 [[机房] 土耳其 布尔萨省 布尔萨 [Tellcom Fiber Static]]
 socks5://154.64.230.253:19999 [[机房] 美国 加州 洛杉矶 [NetLab Global]]
 socks5://54.191.174.166:19530 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://144.24.51.233:5555 [[机房] 美国 亚利桑那州 凤凰城 — 甲骨文云 Oracle [Oracle Svenska AB]]
@@ -25,9 +31,3 @@ socks5://109.234.62.17:10101 [[家宽] 意大利 威尼托 帕多瓦 [Telecom It
 socks5://52.79.147.95:9999 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
 socks5://20.2.144.174:9998 [[机房] 中国 香港 香港 — 微软云 Azure [Microsoft Corporation]]
 socks5://62.220.117.36:9924 [[机房] 德国 黑森州 法兰克福 [CLOUDWEBMANAGE EU FR]]
-socks5://43.162.114.137:9909 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Julian Achter trading as Aluy]]
-socks5://78.141.222.76:9443 [[家宽] 英国 英格兰 [Customer Dynamic IPs]]
-socks5://138.199.163.143:9151 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Julian Achter trading as Aluy]]
-socks5://195.201.204.175:9101 [[机房] 德国 [Artikel10 e.V.]]
-socks5://31.97.140.35:9088 [[机房] 瑞士 巴塞尔城市州 巴塞尔 — BuyVM [BuyVM]]
-socks5://45.61.50.247:9055 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
