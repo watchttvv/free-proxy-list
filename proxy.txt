@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-02 20:20:02
+# 代理列表更新时间: 2025-11-02 20:40:03
 # 总计: 30 个代理
 
+socks5://185.139.228.219:9055 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://104.251.236.203:1234 [[机房] 中国 香港 香港 [INFINITE NETWORK LLC]]
 socks5://51.81.222.200:10808 [[家宽] 中国 香港 香港 [Hong Kong Telecommunications (HKT) Limited Mass Internet]]
 socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL PTE. LTD.]]
@@ -30,4 +31,3 @@ socks5://144.24.51.233:5555 [[机房] 美国 亚利桑那州 凤凰城 — 甲�
 socks5://5.8.248.115:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Podaon SIA]]
 socks5://194.135.105.137:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb, LLP]]
 socks5://43.129.80.138:18999 [[机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]]
-socks5://43.167.227.117:6666 [[机房] 日本 东京 东京 — 腾讯云 [ACEVILLE PTE.LTD.]]
