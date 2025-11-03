@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-11-03 09:20:13
+# 代理列表更新时间: 2025-11-03 09:40:03
 # 总计: 30 个代理
 
+socks5://185.123.53.225:30000 [[家宽] 西班牙 巴利亚里群岛 [PROPHASE ELECTRONICS S.L. - CLIENTES]]
+socks5://185.241.43.247:30000 [[机房] 中国 香港 香港 [BAGE CLOUD LLC]]
+socks5://175.182.175.106:30000 [[家宽] 中国 台湾 台北市 [New Century InfoComm Tech. Co., Ltd.]]
 socks5://185.139.228.219:9055 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://104.251.236.203:1234 [[机房] 中国 香港 香港 [INFINITE NETWORK LLC]]
 socks5://51.81.222.200:10808 [[家宽] 中国 香港 香港 [Hong Kong Telecommunications (HKT) Limited Mass Internet]]
@@ -28,6 +31,3 @@ socks5://192.166.82.112:20001 [[机房] 土耳其 布尔萨省 布尔萨 [Tellco
 socks5://154.64.230.253:19999 [[机房] 美国 加州 洛杉矶 [NetLab Global]]
 socks5://54.191.174.166:19530 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://144.24.51.233:5555 [[机房] 美国 亚利桑那州 凤凰城 — 甲骨文云 Oracle [Oracle Svenska AB]]
-socks5://5.8.248.115:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Podaon SIA]]
-socks5://194.135.105.137:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb, LLP]]
-socks5://43.129.80.138:18999 [[机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]]
