@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-11-04 03:00:04
+# 代理列表更新时间: 2025-11-04 03:20:02
 # 总计: 30 个代理
 
 socks5://176.215.11.52:80 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [JSC "ER-Telecom Holding" Yekaterinburg Branch]]
@@ -14,7 +14,6 @@ socks5://146.103.103.166:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SE
 socks5://185.230.143.206:10808 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://81.5.114.91:10808 [[机房] 德国 黑森州 法兰克福 [WAIcore Ltd]]
 socks5://193.42.125.156:10808 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
-socks5://109.120.150.69:1080 [[机房] 德国 黑森州 法兰克福 [Aeza International LTD]]
 socks5://212.192.31.241:20245 [[机房] 德国 黑森州 法兰克福 [Cloud Hosting Solutions, Limited.]]
 socks5://91.99.219.30:20221 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://95.163.153.116:20184 [[机房] 奥地利 奥地利州 维也纳 [AEZA NETWORK VIENNA]]
@@ -31,3 +30,4 @@ socks5://192.166.82.2:20001 [[家宽] 阿根廷 布宜诺斯艾利斯 [Telecentr
 socks5://192.166.82.58:20001 [[家宽] 沙特阿拉伯 利雅得省 利雅德 [RYD 5G]]
 socks5://192.166.82.112:20001 [[机房] 土耳其 布尔萨省 布尔萨 [Tellcom Fiber Static]]
 socks5://154.64.230.253:19999 [[机房] 美国 加州 洛杉矶 [NetLab Global]]
+socks5://54.191.174.166:19530 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊云 Aws [Amazon.com, Inc.]]
