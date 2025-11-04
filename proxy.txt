@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2025-11-04 10:20:02
+# 代理列表更新时间: 2025-11-04 10:40:03
 # 总计: 30 个代理
 
-socks5://59.115.184.75:8080 [[机房] 中国 台湾 板橋 [Data Communication Business Group,]]
+socks5://59.115.184.75:8080 [[家宽] 中国 台湾 板橋 [Data Communication Business Group,]]
 socks5://185.204.53.193:8080 [[机房] 保加利亚 索非亚首都区 索菲亚 [Hosting Provider EuroHoster Ltd.]]
 socks5://176.215.11.52:80 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [JSC "ER-Telecom Holding" Yekaterinburg Branch]]
 socks5://45.120.178.66:8080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [WorkTitans B.V.]]
