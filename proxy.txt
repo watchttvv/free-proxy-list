@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2025-11-05 17:20:02
+# 代理列表更新时间: 2025-11-05 17:40:02
 # 总计: 30 个代理
 
+socks5://185.105.90.184:12304 [[机房] 俄罗斯 莫斯科 莫斯科]
+socks5://174.138.120.54:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean]
+socks5://134.209.152.138:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean]
+socks5://94.182.103.182:3456 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner]
 socks5://51.250.51.242:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://128.0.134.217:10808 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [THEHOSTING]]
 socks5://128.0.134.217:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [T2 Russia IP Network (MSK)]]
@@ -27,7 +31,3 @@ socks5://175.182.175.106:30000 [[家宽] 中国 台湾 台北市 [New Century In
 socks5://185.139.228.219:9055 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://104.251.236.203:1234 [[机房] 中国 香港 香港 [INFINITE NETWORK LLC]]
 socks5://51.81.222.200:10808 [[家宽] 中国 香港 香港 [Hong Kong Telecommunications (HKT) Limited Mass Internet]]
-socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL PTE. LTD.]]
-socks5://146.103.103.166:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
-socks5://185.230.143.206:10808 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
-socks5://193.42.125.156:10808 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
