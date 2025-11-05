@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-05 12:00:03
+# 代理列表更新时间: 2025-11-05 12:20:03
 # 总计: 30 个代理
 
+socks5://52.76.141.200:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://151.243.213.105:10808 [[机房] 美国 加州 洛杉矶 [Multacom Corporation]]
 socks5://43.230.192.88:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://167.99.192.159:10808 [[机房] 英国 英格兰 伦敦 [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
@@ -30,4 +31,3 @@ socks5://78.40.193.120:20071 [[机房] 荷兰 南荷兰省 海牙 [SERVERS TECH 
 socks5://68.183.105.151:20023 [[家宽] 巴西 南里奥格兰德州 [Bless Telecomunicacoes Ltda]]
 socks5://192.166.82.89:20010 [[家宽] 巴西 南里奥格兰德州 [Fox Conect Provedor de Internet LTDA]]
 socks5://208.84.101.221:20001 [[家宽] 巴西 巴拉那州 [Mundial Telecomunicacao Ltda - ME]]
-socks5://208.84.101.84:20001 [[家宽] 巴西 圣保罗 [Claro NXT Telecomunicacoes Ltda]]
