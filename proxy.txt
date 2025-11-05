@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2025-11-05 11:40:02
+# 代理列表更新时间: 2025-11-05 12:00:03
 # 总计: 30 个代理
 
+socks5://151.243.213.105:10808 [[机房] 美国 加州 洛杉矶 [Multacom Corporation]]
+socks5://43.230.192.88:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://167.99.192.159:10808 [[机房] 英国 英格兰 伦敦 [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
+socks5://79.141.79.165:1080 [[机房] 俄罗斯 新西伯利亚州 新西伯利亚 [Selectel Network]]
 socks5://185.159.128.217:8080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [ZTV CORP LLC]]
 socks5://185.204.53.193:8080 [[机房] 保加利亚 索非亚首都区 索菲亚 [Hosting Provider EuroHoster Ltd.]]
 socks5://176.215.11.52:80 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [JSC "ER-Telecom Holding" Yekaterinburg Branch]]
@@ -27,7 +31,3 @@ socks5://68.183.105.151:20023 [[家宽] 巴西 南里奥格兰德州 [Bless Tele
 socks5://192.166.82.89:20010 [[家宽] 巴西 南里奥格兰德州 [Fox Conect Provedor de Internet LTDA]]
 socks5://208.84.101.221:20001 [[家宽] 巴西 巴拉那州 [Mundial Telecomunicacao Ltda - ME]]
 socks5://208.84.101.84:20001 [[家宽] 巴西 圣保罗 [Claro NXT Telecomunicacoes Ltda]]
-socks5://199.127.61.58:20001 [[家宽] 印度 德里 新德里 [Mahanagar Telephone Nigam Limited]]
-socks5://192.166.82.2:20001 [[家宽] 阿根廷 布宜诺斯艾利斯 [Telecentro S.A. - Clientes Residenciales]]
-socks5://192.166.82.58:20001 [[家宽] 沙特阿拉伯 利雅得省 利雅德 [RYD 5G]]
-socks5://192.166.82.112:20001 [[机房] 土耳其 布尔萨省 布尔萨 [Tellcom Fiber Static]]
