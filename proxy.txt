@@ -1,8 +1,8 @@
-# 代理列表更新时间: 2025-11-06 03:20:02
+# 代理列表更新时间: 2025-11-06 03:40:02
 # 总计: 30 个代理
 
 socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
-socks5://188.242.38.56:10808 [[机房] 芬兰 新地区 赫尔辛基 [FIRST SERVER LIMITED]]
+socks5://188.242.38.56:10808 [[家宽] 芬兰 新地区 赫尔辛基 [FIRST SERVER LIMITED]]
 socks5://34.84.10.155:1080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://167.71.70.78:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://124.122.71.117:1080 [[机房] 泰国 曼谷 曼谷 [True Internet Co., Ltd.]]
