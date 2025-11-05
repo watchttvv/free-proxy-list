@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-11-06 03:00:03
+# 代理列表更新时间: 2025-11-06 03:20:02
 # 总计: 30 个代理
 
+socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
+socks5://188.242.38.56:10808 [[机房] 芬兰 新地区 赫尔辛基 [FIRST SERVER LIMITED]]
 socks5://34.84.10.155:1080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://167.71.70.78:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://124.122.71.117:1080 [[机房] 泰国 曼谷 曼谷 [True Internet Co., Ltd.]]
@@ -29,5 +31,3 @@ socks5://185.204.53.193:8080 [[机房] 保加利亚 索非亚首都区 索菲亚
 socks5://176.215.11.52:80 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [JSC "ER-Telecom Holding" Yekaterinburg Branch]]
 socks5://45.120.178.66:8080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [WorkTitans B.V.]]
 socks5://185.123.53.225:30000 [[家宽] 西班牙 巴利亚里群岛 [PROPHASE ELECTRONICS S.L. - CLIENTES]]
-socks5://185.241.43.247:30000 [[机房] 中国 香港 香港 [BAGE CLOUD LLC]]
-socks5://175.182.175.106:30000 [[家宽] 中国 台湾 台北市 [New Century InfoComm Tech. Co., Ltd.]]
