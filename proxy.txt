@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-05 15:40:02
+# 代理列表更新时间: 2025-11-05 16:00:03
 # 总计: 30 个代理
 
+socks5://51.250.51.242:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://128.0.134.217:10808 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [THEHOSTING]]
 socks5://128.0.134.217:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [T2 Russia IP Network (MSK)]]
 socks5://138.124.59.107:10808 [[机房] 芬兰 新地区 赫尔辛基 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
@@ -30,4 +31,3 @@ socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL P
 socks5://146.103.103.166:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://185.230.143.206:10808 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://193.42.125.156:10808 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
-socks5://212.192.31.241:20245 [[机房] 德国 黑森州 法兰克福 [Cloud Hosting Solutions, Limited.]]
