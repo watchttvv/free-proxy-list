@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-06 00:20:03
+# 代理列表更新时间: 2025-11-06 00:40:02
 # 总计: 30 个代理
 
+socks5://124.122.71.117:1080 [[机房] 泰国 曼谷 曼谷 [True Internet Co., Ltd.]]
 socks5://185.105.90.184:12304 [[机房] 俄罗斯 莫斯科 莫斯科 [FIRST SERVER LIMITED]]
 socks5://174.138.120.54:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
 socks5://134.209.152.138:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
@@ -30,4 +31,3 @@ socks5://185.241.43.247:30000 [[机房] 中国 香港 香港 [BAGE CLOUD LLC]]
 socks5://175.182.175.106:30000 [[家宽] 中国 台湾 台北市 [New Century InfoComm Tech. Co., Ltd.]]
 socks5://185.139.228.219:9055 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://104.251.236.203:1234 [[机房] 中国 香港 香港 [INFINITE NETWORK LLC]]
-socks5://51.81.222.200:10808 [[家宽] 中国 香港 香港 [Hong Kong Telecommunications (HKT) Limited Mass Internet]]
