@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-11-06 05:20:03
+# 代理列表更新时间: 2025-11-06 05:40:04
 # 总计: 30 个代理
 
 socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
@@ -20,7 +20,6 @@ socks5://91.103.122.182:10808 [[机房] 中国 香港 香港 [HK AliceNetwork]]
 socks5://77.51.222.97:10808 [[机房] 美国 纽约州 纽约 [HOSTKEY]]
 socks5://14.233.135.96:1080 [[机房] 越南 [Vietnam Posts and Telecommunications Group]]
 socks5://168.253.92.93:10808 [[机房] 南非 豪登省 约翰内斯堡 [CMV]]
-socks5://156.238.254.61:1080 [[机房] 美国 加州 洛杉矶 [High Family Technology Co., Limited]]
 socks5://52.76.141.200:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://151.243.213.105:10808 [[机房] 美国 加州 洛杉矶 [Multacom Corporation]]
 socks5://43.230.192.88:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
@@ -31,3 +30,4 @@ socks5://185.204.53.193:8080 [[机房] 保加利亚 索非亚首都区 索菲亚
 socks5://176.215.11.52:80 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [JSC "ER-Telecom Holding" Yekaterinburg Branch]]
 socks5://45.120.178.66:8080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [WorkTitans B.V.]]
 socks5://185.123.53.225:30000 [[家宽] 西班牙 巴利亚里群岛 [PROPHASE ELECTRONICS S.L. - CLIENTES]]
+socks5://185.241.43.247:30000 [[机房] 中国 香港 香港 [BAGE CLOUD LLC]]
