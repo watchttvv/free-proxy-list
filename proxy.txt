@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-11-06 09:40:02
+# 代理列表更新时间: 2025-11-06 10:00:02
 # 总计: 30 个代理
 
 socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
@@ -11,7 +11,6 @@ socks5://174.138.120.54:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [
 socks5://134.209.152.138:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
 socks5://94.182.103.182:3456 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://51.250.51.242:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
-socks5://128.0.134.217:10808 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [THEHOSTING]]
 socks5://128.0.134.217:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [T2 Russia IP Network (MSK)]]
 socks5://138.124.59.107:10808 [[机房] 芬兰 新地区 赫尔辛基 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://138.124.31.209:10808 [[机房] 法国 法兰西岛大区 巴黎 [Baykov Ilya Sergeevich]]
@@ -31,3 +30,4 @@ socks5://176.215.11.52:80 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡
 socks5://45.120.178.66:8080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [WorkTitans B.V.]]
 socks5://185.123.53.225:30000 [[家宽] 西班牙 巴利亚里群岛 [PROPHASE ELECTRONICS S.L. - CLIENTES]]
 socks5://185.241.43.247:30000 [[机房] 中国 香港 香港 [BAGE CLOUD LLC]]
+socks5://175.182.175.106:30000 [[家宽] 中国 台湾 台北市 [New Century InfoComm Tech. Co., Ltd.]]
