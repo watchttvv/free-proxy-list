@@ -1,7 +1,6 @@
-# 代理列表更新时间: 2025-11-07 16:20:03
+# 代理列表更新时间: 2025-11-07 16:40:03
 # 总计: 30 个代理
 
-socks5://89.111.143.242:2080 [[机房] 荷兰 南荷兰省 鹿特丹 [AEZA NETWORK AMSTERDAM]]
 socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://34.84.10.155:1080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://167.71.70.78:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
@@ -31,3 +30,4 @@ socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL P
 socks5://146.103.103.166:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://185.230.143.206:10808 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://193.42.125.156:10808 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
+socks5://212.192.31.241:20245 [[机房] 德国 黑森州 法兰克福 [Cloud Hosting Solutions, Limited.]]
