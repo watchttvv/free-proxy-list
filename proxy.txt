@@ -1,9 +1,9 @@
-# 代理列表更新时间: 2025-11-07 18:00:02
+# 代理列表更新时间: 2025-11-07 18:20:02
 # 总计: 30 个代理
 
 socks5://8.211.151.44:3000 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
 socks5://95.165.79.203:2080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [Snowd Security OU]]
-socks5://95.165.72.6:2080 [[机房] 荷兰 德伦特省 梅珀尔 [SPACECORE SOLUTION LTD]]
+socks5://95.165.72.6:2080 [[家宽] 荷兰 德伦特省 梅珀尔 [SPACECORE SOLUTION LTD]]
 socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://34.84.10.155:1080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://167.71.70.78:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
