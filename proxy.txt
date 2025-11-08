@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-11-08 12:40:02
+# 代理列表更新时间: 2025-11-08 13:00:03
 # 总计: 30 个代理
 
+socks5://128.199.7.222:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
+socks5://128.199.10.186:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
+socks5://171.243.148.26:2080 [[机房] 越南 [Viettel Group]]
 socks5://18.162.164.36:10808 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://147.182.197.28:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://147.182.228.237:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
@@ -28,6 +31,3 @@ socks5://167.99.192.159:10808 [[机房] 英国 英格兰 伦敦 [GLOBAL CONNECTI
 socks5://79.141.79.165:1080 [[机房] 俄罗斯 新西伯利亚州 新西伯利亚 [Selectel Network]]
 socks5://185.159.128.217:8080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [ZTV CORP LLC]]
 socks5://185.204.53.193:8080 [[机房] 保加利亚 索非亚首都区 索菲亚 [Hosting Provider EuroHoster Ltd.]]
-socks5://45.120.178.66:8080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [WorkTitans B.V.]]
-socks5://185.123.53.225:30000 [[家宽] 西班牙 巴利亚里群岛 [PROPHASE ELECTRONICS S.L. - CLIENTES]]
-socks5://175.182.175.106:30000 [[家宽] 中国 台湾 台北市 [New Century InfoComm Tech. Co., Ltd.]]
