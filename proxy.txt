@@ -1,9 +1,12 @@
-# 代理列表更新时间: 2025-11-08 13:00:03
+# 代理列表更新时间: 2025-11-08 13:20:03
 # 总计: 30 个代理
 
+socks5://209.38.151.82:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
+socks5://209.38.141.105:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
+socks5://209.38.77.77:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://128.199.7.222:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://128.199.10.186:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
-socks5://171.243.148.26:2080 [[机房] 越南 [Viettel Group]]
+socks5://171.243.148.26:2080 [[家宽] 越南 [Viettel Group]]
 socks5://18.162.164.36:10808 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://147.182.197.28:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://147.182.228.237:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
@@ -13,7 +16,6 @@ socks5://37.114.55.169:10808 [[机房] 美国 加州 洛杉矶 [XNNET LIMITED]]
 socks5://113.30.189.21:3000 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CLOUDWEBMANAGE EU]]
 socks5://8.211.151.44:3000 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
 socks5://95.165.79.203:2080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [Snowd Security OU]]
-socks5://95.165.72.6:2080 [[家宽] 荷兰 德伦特省 梅珀尔 [SPACECORE SOLUTION LTD]]
 socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://34.84.10.155:1080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://167.71.70.78:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
@@ -29,5 +31,3 @@ socks5://168.253.92.93:10808 [[机房] 南非 豪登省 约翰内斯堡 [CMV]]
 socks5://52.76.141.200:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://167.99.192.159:10808 [[机房] 英国 英格兰 伦敦 [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
 socks5://79.141.79.165:1080 [[机房] 俄罗斯 新西伯利亚州 新西伯利亚 [Selectel Network]]
-socks5://185.159.128.217:8080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [ZTV CORP LLC]]
-socks5://185.204.53.193:8080 [[机房] 保加利亚 索非亚首都区 索菲亚 [Hosting Provider EuroHoster Ltd.]]
