@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-11-10 21:40:02
+# 代理列表更新时间: 2025-11-10 22:00:04
 # 总计: 30 个代理
 
+socks5://146.190.57.245:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
+socks5://87.242.118.172:2080 [[机房] 俄罗斯 莫斯科 莫斯科 ["Cloud Technologies" LLC trading as Cloud.ru]]
+socks5://46.229.107.2:2080 [[机房] 美国 南卡罗来纳州 费尔法克斯 [Internet Utilities NA LLC]]
 socks5://206.237.31.132:1080 [[机房] 中国 香港 香港 [VH Global Limited]]
 socks5://144.172.92.108:1080 [[机房] 美国 犹他州 奥格登 [RouterHosting LLC]]
 socks5://212.67.29.63:10808 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [SERVERS TECH FZCO]]
@@ -28,6 +31,3 @@ socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner
 socks5://34.84.10.155:1080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://167.71.70.78:10808 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://124.122.71.117:1080 [[机房] 泰国 曼谷 曼谷 [True Internet Co., Ltd.]]
-socks5://185.105.90.184:12304 [[机房] 俄罗斯 莫斯科 莫斯科 [FIRST SERVER LIMITED]]
-socks5://128.0.134.217:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [T2 Russia IP Network (MSK)]]
-socks5://138.124.31.209:10808 [[机房] 法国 法兰西岛大区 巴黎 [Baykov Ilya Sergeevich]]
