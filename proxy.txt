@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2025-11-11 10:40:02
+# 代理列表更新时间: 2025-11-11 11:00:03
 # 总计: 30 个代理
 
+socks5://157.180.121.252:40029 [[机房] 加拿大 安大略 亞積士 [Sympatico HSE]]
+socks5://69.30.207.133:40010 [[机房] 美国 明尼苏达州 罗切斯特 [Spectrum]]
+socks5://78.129.208.179:40010 [[机房] 英国 英格兰 谢菲尔德 [BTBROADBAND-AGG-56]]
+socks5://160.25.89.14:40010 [[机房] 泰国 曼谷 曼谷 [TOT Public Company Limited Bangkok]]
 socks5://103.122.3.6:40010 [[机房] 美国 俄亥俄州 [T-Mobile USA, Inc.]]
 socks5://103.122.3.46:40010 [[机房] 美国 田纳西州 [AT&T Internet Services]]
 socks5://159.54.186.167:40009 [[机房] 美国 加州 圣何塞 — 甲骨文云 Oracle [Oracle Corporation]]
@@ -27,7 +31,3 @@ socks5://213.35.126.34:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Orac
 socks5://213.35.110.181:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://213.35.110.67:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://109.122.197.81:10808 [[家宽] 德国 黑森州 法兰克福 [WAIcore Ltd]]
-socks5://147.182.197.28:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
-socks5://147.182.228.237:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
-socks5://185.126.80.247:10808 [[机房] 新加坡 新加坡 新加坡 [AKILE LTD]]
-socks5://37.114.55.169:10808 [[机房] 美国 加州 洛杉矶 [XNNET LIMITED]]
