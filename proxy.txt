@@ -1,12 +1,15 @@
-# 代理列表更新时间: 2025-11-11 10:20:02
+# 代理列表更新时间: 2025-11-11 10:40:02
 # 总计: 30 个代理
 
-socks5://99.145.65.91:40001 [[机房] 美国 佛罗里达州 卡特勒湾 [Comcast Cable Communications, LLC]]
-socks5://85.215.151.241:40001 [[机房] 英国 英格兰 伦敦 [Sky UK Limited]]
-socks5://45.67.219.179:40001 [[机房] 美国 加州 [AT&T Enterprises, LLC]]
-socks5://43.226.17.87:40001 [[机房] 西班牙 加泰罗尼亚 巴塞罗那 [Addresses IP for ADSL customers]]
-socks5://43.226.17.82:40001 [[机房] 西班牙 加泰罗尼亚 巴塞罗那 [Addresses IP for ADSL customers]]
-socks5://178.250.188.222:40001 [[机房] 美国 俄亥俄州 克利夫兰 [AT&T Enterprises, LLC]]
+socks5://103.122.3.6:40010 [[机房] 美国 俄亥俄州 [T-Mobile USA, Inc.]]
+socks5://103.122.3.46:40010 [[机房] 美国 田纳西州 [AT&T Internet Services]]
+socks5://159.54.186.167:40009 [[机房] 美国 加州 圣何塞 — 甲骨文云 Oracle [Oracle Corporation]]
+socks5://99.145.65.91:40001 [[家宽] 美国 佛罗里达州 卡特勒湾 [Comcast Cable Communications, LLC]]
+socks5://85.215.151.241:40001 [[家宽] 英国 英格兰 伦敦 [Sky UK Limited]]
+socks5://45.67.219.179:40001 [[家宽] 美国 加州 [AT&T Enterprises, LLC]]
+socks5://43.226.17.87:40001 [[家宽] 西班牙 加泰罗尼亚 巴塞罗那 [Addresses IP for ADSL customers]]
+socks5://43.226.17.82:40001 [[家宽] 西班牙 加泰罗尼亚 巴塞罗那 [Addresses IP for ADSL customers]]
+socks5://178.250.188.222:40001 [[家宽] 美国 俄亥俄州 克利夫兰 [AT&T Enterprises, LLC]]
 socks5://146.190.57.245:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://87.242.118.172:2080 [[家宽] 俄罗斯 莫斯科 莫斯科 ["Cloud Technologies" LLC trading as Cloud.ru]]
 socks5://206.237.31.132:1080 [[机房] 中国 香港 香港 [VH Global Limited]]
@@ -28,6 +31,3 @@ socks5://147.182.197.28:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOce
 socks5://147.182.228.237:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://185.126.80.247:10808 [[机房] 新加坡 新加坡 新加坡 [AKILE LTD]]
 socks5://37.114.55.169:10808 [[机房] 美国 加州 洛杉矶 [XNNET LIMITED]]
-socks5://113.30.189.21:3000 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CLOUDWEBMANAGE EU]]
-socks5://8.211.151.44:3000 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
-socks5://94.182.93.108:10808 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
