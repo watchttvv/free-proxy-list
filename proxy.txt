@@ -1,11 +1,8 @@
-# 代理列表更新时间: 2025-11-12 11:21:48
+# 代理列表更新时间: 2025-11-12 19:40:02
 # 总计: 30 个代理
 
-socks5://61.111.129.25:50001 [[机房] 韩国 首尔特别市 首尔特别市 [SK Telecom]]
-socks5://91.229.91.52:50000 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
-socks5://46.28.71.156:50000 [[机房] 西班牙 加泰罗尼亚 巴塞罗那 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
+socks5://107.173.50.105:50005 [[机房] 美国 纽约州 水牛城 — RackNerd [RackNerd LLC]]
 socks5://206.245.133.192:50000 [[机房] 芬兰 新地区 赫尔辛基 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
-socks5://185.119.17.42:50000 [[机房] 德国 北莱茵-威斯特法伦州 埃森 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://130.117.79.184:10808 [[机房] 荷兰 北荷兰省 哈勒姆 [Cogent Communications, LLC]]
 socks5://212.113.100.43:10808 [[机房] 德国 黑森州 法兰克福 — OVH [OVH GmbH]]
 socks5://175.126.168.172:40003 [[家宽] 德国 [DE D2VODAFONE 20220628]]
@@ -31,3 +28,6 @@ socks5://103.234.99.22:1080 [[机房] 中国 香港 香港 [FORTUNE DATA TECHNOL
 socks5://185.137.233.179:10808 [[机房] 德国 黑森州 法兰克福 [dataforest GmbH]]
 socks5://213.35.126.34:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Svenska AB]]
 socks5://213.35.110.181:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
+socks5://213.35.110.67:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
+socks5://109.122.197.81:10808 [[家宽] 德国 黑森州 法兰克福 [WAIcore Ltd]]
+socks5://147.182.197.28:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
