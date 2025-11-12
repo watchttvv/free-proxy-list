@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-12 22:00:03
+# 代理列表更新时间: 2025-11-12 22:20:02
 # 总计: 30 个代理
 
+socks5://8.217.151.134:1090 [[机房] 中国 香港 香港 — 阿里云 [Aliyun Computing Co.LTD]]
 socks5://46.28.71.156:50000 [[机房] 西班牙 加泰罗尼亚 巴塞罗那 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://185.119.17.42:50000 [[机房] 德国 北莱茵-威斯特法伦州 埃森 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://185.238.169.111:50080 [[机房] 荷兰 上艾瑟尔省 兹沃勒 [IROKO Networks Corporation]]
@@ -30,4 +31,3 @@ socks5://194.163.160.97:10808 [[机房] 法国 大东部大区 — Contabo [CONT
 socks5://103.234.99.22:1080 [[机房] 中国 香港 香港 [FORTUNE DATA TECHNOLOGY LIMITED]]
 socks5://185.137.233.179:10808 [[机房] 德国 黑森州 法兰克福 [dataforest GmbH]]
 socks5://213.35.126.34:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Svenska AB]]
-socks5://213.35.110.181:10808 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
