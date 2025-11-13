@@ -1,14 +1,14 @@
-# 代理列表更新时间: 2025-11-14 00:40:03
+# 代理列表更新时间: 2025-11-14 01:00:03
 # 总计: 30 个代理
 
-socks5://147.45.48.178:60030 [[机房] 美国 纽约州 纽约 [T-Mobile USA, Inc.]]
+socks5://147.45.48.178:60030 [[家宽] 美国 纽约州 纽约 [T-Mobile USA, Inc.]]
 socks5://185.248.101.52:60005 [[机房] 美国 加州 洛杉矶 [M247 Ltd Los Angeles]]
-socks5://82.25.63.17:60002 [[机房] 意大利 拉齐奥大区 罗马市 [NAS DHCP Pool Milano]]
+socks5://82.25.63.17:60002 [[家宽] 意大利 拉齐奥大区 罗马市 [NAS DHCP Pool Milano]]
 socks5://88.214.25.108:60002 [[机房] 法国 法兰西岛大区 巴黎 [BOUYGTEL ISP RETAIL]]
 socks5://45.204.208.22:60002 [[机房] 中国 香港 香港 [HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED]]
-socks5://167.148.195.58:60002 [[机房] 美国 路易斯安那州 [Spectrum]]
+socks5://167.148.195.58:60002 [[家宽] 美国 路易斯安那州 [Spectrum]]
 socks5://152.232.141.2:60002 [[机房] 英国 英格兰 羅姆福德 [Customer Dynamic IPs]]
-socks5://103.118.29.195:60002 [[机房] 韩国 首尔特别市 首尔特别市 [SK Broadband Co Ltd]]
+socks5://103.118.29.195:60002 [[家宽] 韩国 首尔特别市 首尔特别市 [SK Broadband Co Ltd]]
 socks5://51.79.151.205:60001 [[机房] 新加坡 新加坡 [MYREPUBLIC LIMITED]]
 socks5://5.9.230.13:60001 [[机房] 德国 北莱茵-威斯特法伦州 菲爾森 [Deutsche Telekom AG]]
 socks5://193.149.180.72:60001 [[机房] 美国 奧克拉荷馬州 奧克拉荷馬市 [Cox Communications Inc]]
