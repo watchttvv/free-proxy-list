@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-11-14 10:00:03
+# 代理列表更新时间: 2025-11-14 10:20:02
 # 总计: 30 个代理
 
+socks5://43.106.18.86:10800 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
+socks5://14.177.226.226:10800 [[机房] 越南 河内 河内市 [Vietnam Posts and Telecommunications Group]]
 socks5://143.198.158.36:9090 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://51.250.104.74:9090 [[机房] 俄罗斯 莫斯科 莫斯科 [LLC "ER-Telecom Moscow"]]
 socks5://31.58.50.254:9090 [[机房] 美国 宾夕法尼亚州 [RCN]]
@@ -29,5 +31,3 @@ socks5://156.244.44.139:60001 [[家宽] 加拿大 安大略 哈密尔顿 [Cogeco
 socks5://143.198.84.104:60001 [[机房] 美国 德克萨斯州 休斯顿 [Comcast Cable Communications, LLC]]
 socks5://149.248.77.176:60001 [[机房] 澳大利亚 昆士兰州 布里斯班 [SUPERLOOP (AUSTRALIA) PTY LTD]]
 socks5://159.100.13.213:60001 [[机房] 美国 弗吉尼亚州 阿什本 [Strong Technology, LLC.]]
-socks5://144.31.192.224:60001 [[机房] 意大利 特伦蒂诺-上阿迪杰大区 波尔查诺 [NAS DHCP Pool PISA]]
-socks5://123.1.216.93:60001 [[家宽] 德国 黑森州 法兰克福 [Vodafone GmbH]]
