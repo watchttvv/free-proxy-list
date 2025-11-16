@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-16 18:20:02
+# 代理列表更新时间: 2025-11-16 18:40:03
 # 总计: 30 个代理
 
+socks5://154.19.242.180:1090 [[机房] 美国 加州 洛杉矶 [STARCLOUD GLOBAL PTE. LTD.]]
 socks5://188.235.21.247:2080 [[家宽] 俄罗斯 沃罗涅日州 沃罗涅日 [JSC "ER-Telecom Holding" Voronezh Branch]]
 socks5://203.76.124.17:9090 [[家宽] 孟加拉国 达卡专区 达卡 [Link3-Technologies-Ltd]]
 socks5://107.181.252.250:1090 [[机房] 加拿大 安大略 多伦多 [3xK Tech GmbH]]
@@ -30,4 +31,3 @@ socks5://152.42.249.238:60001 [[机房] 美国 阿肯色州 琼斯伯勒 [Optimu
 socks5://157.10.53.91:60001 [[家宽] 韩国 仁川 仁川广域市 [Korea Telecom]]
 socks5://156.244.44.139:60001 [[家宽] 加拿大 安大略 哈密尔顿 [Cogeco Connexion Inc.]]
 socks5://143.198.84.104:60001 [[机房] 美国 德克萨斯州 休斯顿 [Comcast Cable Communications, LLC]]
-socks5://159.100.13.213:60001 [[机房] 美国 弗吉尼亚州 阿什本 [Strong Technology, LLC.]]
