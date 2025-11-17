@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2025-11-17 10:40:02
+# 代理列表更新时间: 2025-11-17 11:00:03
 # 总计: 30 个代理
 
+socks5://45.207.220.11:666 [[机房] 中国 香港 香港 [Vapeline Technology]]
+socks5://77.90.51.103:602 [[机房] 美国 佛罗里达州 迈阿密 [AT&T Internet Services]]
+socks5://198.204.232.162:602 [[机房] 美国 佛罗里达州 迈阿密 [AT&T Internet Services]]
+socks5://91.99.71.148:480 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://38.14.254.87:91 [[机房] 美国 加州 [PEG TECH INC]]
 socks5://38.60.169.50:21 [[家宽] 英国 英格兰 考文垂 [WorkTitans B.V.]]
 socks5://136.243.109.104:21 [[家宽] 美国 俄勒冈州 奧柏尼 [Comcast Cable Communications, LLC]]
@@ -27,7 +31,3 @@ socks5://154.92.15.42:2080 [[机房] 中国 香港 香港 [Yisu Cloud Ltd]]
 socks5://185.248.101.52:60005 [[机房] 美国 加州 洛杉矶 [M247 Ltd Los Angeles]]
 socks5://82.25.63.17:60002 [[家宽] 意大利 拉齐奥大区 罗马市 [NAS DHCP Pool Milano]]
 socks5://45.204.208.22:60002 [[机房] 中国 香港 香港 [HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED]]
-socks5://103.118.29.195:60002 [[家宽] 韩国 首尔特别市 首尔特别市 [SK Broadband Co Ltd]]
-socks5://51.79.151.205:60001 [[机房] 新加坡 新加坡 [MYREPUBLIC LIMITED]]
-socks5://5.9.230.13:60001 [[机房] 德国 北莱茵-威斯特法伦州 菲爾森 [Deutsche Telekom AG]]
-socks5://193.149.180.72:60001 [[机房] 美国 奧克拉荷馬州 奧克拉荷馬市 [Cox Communications Inc]]
