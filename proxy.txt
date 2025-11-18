@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-18 11:20:03
+# 代理列表更新时间: 2025-11-18 11:40:03
 # 总计: 30 个代理
 
+socks5://103.178.234.86:1111 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Svea Hosting AB]]
 socks5://38.60.208.154:1 [[机房] 土耳其 伊斯坦布尔 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://45.158.169.133:2001 [[机房] 德国 黑森州 法兰克福 [CGI GLOBAL LIMITED]]
 socks5://45.207.220.11:666 [[机房] 中国 香港 香港 [Vapeline Technology]]
@@ -30,4 +31,3 @@ socks5://31.58.50.254:9090 [[机房] 美国 宾夕法尼亚州 [RCN]]
 socks5://154.92.15.42:2080 [[机房] 中国 香港 香港 [Yisu Cloud Ltd]]
 socks5://185.248.101.52:60005 [[机房] 美国 加州 洛杉矶 [M247 Ltd Los Angeles]]
 socks5://82.25.63.17:60002 [[家宽] 意大利 拉齐奥大区 罗马市 [NAS DHCP Pool Milano]]
-socks5://45.204.208.22:60002 [[机房] 中国 香港 香港 [HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED]]
