@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-19 00:20:02
+# 代理列表更新时间: 2025-11-19 00:40:02
 # 总计: 30 个代理
 
+socks5://143.198.223.214:1082 [[机房] 新加坡 新加坡 新加坡 — DigitalOcean [DigitalOcean, LLC]]
 socks5://62.133.63.236:1111 [[家宽] 土耳其 伊斯坦布尔 伊斯坦布尔 [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
 socks5://130.110.250.13:1111 [[机房] 法国 普罗旺斯-阿尔卑斯-蓝色海岸 — 甲骨文云 Oracle [Oracle Svenska AB]]
 socks5://103.178.234.86:1111 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Svea Hosting AB]]
@@ -30,4 +31,3 @@ socks5://43.106.18.86:10800 [[机房] 新加坡 新加坡 新加坡 — 阿里�
 socks5://14.177.226.226:10800 [[家宽] 越南 河内 河内市 [Vietnam Posts and Telecommunications Group]]
 socks5://51.250.104.74:9090 [[机房] 俄罗斯 莫斯科 莫斯科 [LLC "ER-Telecom Moscow"]]
 socks5://31.58.50.254:9090 [[机房] 美国 宾夕法尼亚州 [RCN]]
-socks5://154.92.15.42:2080 [[机房] 中国 香港 香港 [Yisu Cloud Ltd]]
