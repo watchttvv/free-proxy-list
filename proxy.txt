@@ -1,6 +1,15 @@
-# 代理列表更新时间: 2025-11-19 10:00:02
+# 代理列表更新时间: 2025-11-19 10:20:02
 # 总计: 30 个代理
 
+socks5://46.226.167.209:60001 [[机房] 加拿大 曼尼托巴 温尼伯 [Bell Canada]]
+socks5://147.45.68.12:60001 [[机房] 加拿大 曼尼托巴 温尼伯 [Bell Canada]]
+socks5://160.187.146.232:60001 [[机房] 英国 英格兰 伊爾福德 [NEATH]]
+socks5://157.66.46.103:60001 [[机房] 日本 大阪 大阪市 [BBIX IPv6 Network]]
+socks5://157.66.46.102:60001 [[机房] 日本 宮城縣 [Japan Network Information Center]]
+socks5://157.180.52.134:60001 [[机房] 美国 科罗拉多州 恩格尔伍德 [Charter Communications Inc]]
+socks5://159.100.13.213:60001 [[机房] 美国 肯塔基州 路易维尔 [Spectrum]]
+socks5://103.20.97.87:60001 [[机房] 英国 英格兰 伦敦 [UDDINGSTON]]
+socks5://103.245.237.189:60001 [[机房] 英国 英格兰 伦敦 [Sky Broadband]]
 socks5://66.42.107.18:50001 [[家宽] 美国 加州 [Spectrum]]
 socks5://66.235.170.13:50001 [[家宽] 美国 內布拉斯加州 林肯 [Charter Communications Inc]]
 socks5://43.153.26.79:50001 [[家宽] 美国 加州 安大略 [Charter Communications Inc]]
@@ -22,12 +31,3 @@ socks5://136.243.109.104:21 [[家宽] 美国 俄勒冈州 奧柏尼 [Comcast Cab
 socks5://151.252.51.216:15 [[机房] 瑞士 巴塞尔城市州 巴塞尔 — BuyVM [BuyVM]]
 socks5://151.252.51.215:15 [[机房] 瑞士 巴塞尔城市州 巴塞尔 — BuyVM [BuyVM]]
 socks5://149.104.79.68:7 [[家宽] 芬兰 新地区 赫尔辛基 [WorkTitans B.V.]]
-socks5://64.176.60.179:2 [[机房] 日本 东京 东京 — Vultr [The Constant Company, LLC]]
-socks5://212.227.87.124:2080 [[机房] 西班牙 拉里奥哈 洛格罗尼奥 [IONOS SE]]
-socks5://172.161.95.243:1090 [[机房] 瑞士 苏黎世 — 微软云 Azure [cloud]]
-socks5://146.235.214.77:2080 [[机房] 美国 加州 圣何塞 — 甲骨文云 Oracle [Oracle Corporation]]
-socks5://179.61.200.208:1090 [[机房] 智利 比奥比奥省 科羅內爾 [Pacifico Cable SPA]]
-socks5://83.220.166.6:10800 [[机房] 英国 英格兰 伦敦 — Vultr [Vultr Holdings, LLC]]
-socks5://154.19.242.180:1090 [[机房] 美国 加州 洛杉矶 [STARCLOUD GLOBAL PTE. LTD.]]
-socks5://188.235.21.247:2080 [[家宽] 俄罗斯 沃罗涅日州 沃罗涅日 [JSC "ER-Telecom Holding" Voronezh Branch]]
-socks5://203.76.124.17:9090 [[家宽] 孟加拉国 达卡专区 达卡 [Link3-Technologies-Ltd]]
