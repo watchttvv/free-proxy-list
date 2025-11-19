@@ -1,15 +1,15 @@
-# 代理列表更新时间: 2025-11-19 10:20:02
+# 代理列表更新时间: 2025-11-19 10:40:03
 # 总计: 30 个代理
 
-socks5://46.226.167.209:60001 [[机房] 加拿大 曼尼托巴 温尼伯 [Bell Canada]]
-socks5://147.45.68.12:60001 [[机房] 加拿大 曼尼托巴 温尼伯 [Bell Canada]]
-socks5://160.187.146.232:60001 [[机房] 英国 英格兰 伊爾福德 [NEATH]]
-socks5://157.66.46.103:60001 [[机房] 日本 大阪 大阪市 [BBIX IPv6 Network]]
-socks5://157.66.46.102:60001 [[机房] 日本 宮城縣 [Japan Network Information Center]]
-socks5://157.180.52.134:60001 [[机房] 美国 科罗拉多州 恩格尔伍德 [Charter Communications Inc]]
-socks5://159.100.13.213:60001 [[机房] 美国 肯塔基州 路易维尔 [Spectrum]]
-socks5://103.20.97.87:60001 [[机房] 英国 英格兰 伦敦 [UDDINGSTON]]
-socks5://103.245.237.189:60001 [[机房] 英国 英格兰 伦敦 [Sky Broadband]]
+socks5://46.226.167.209:60001 [[家宽] 加拿大 曼尼托巴 温尼伯 [Bell Canada]]
+socks5://147.45.68.12:60001 [[家宽] 加拿大 曼尼托巴 温尼伯 [Bell Canada]]
+socks5://160.187.146.232:60001 [[家宽] 英国 英格兰 伊爾福德 [NEATH]]
+socks5://157.66.46.103:60001 [[家宽] 日本 大阪 大阪市 [BBIX IPv6 Network]]
+socks5://157.66.46.102:60001 [[家宽] 日本 宮城縣 [Japan Network Information Center]]
+socks5://157.180.52.134:60001 [[家宽] 美国 科罗拉多州 恩格尔伍德 [Charter Communications Inc]]
+socks5://159.100.13.213:60001 [[家宽] 美国 肯塔基州 路易维尔 [Spectrum]]
+socks5://103.20.97.87:60001 [[家宽] 英国 英格兰 伦敦 [UDDINGSTON]]
+socks5://103.245.237.189:60001 [[家宽] 英国 英格兰 伦敦 [Sky Broadband]]
 socks5://66.42.107.18:50001 [[家宽] 美国 加州 [Spectrum]]
 socks5://66.235.170.13:50001 [[家宽] 美国 內布拉斯加州 林肯 [Charter Communications Inc]]
 socks5://43.153.26.79:50001 [[家宽] 美国 加州 安大略 [Charter Communications Inc]]
