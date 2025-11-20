@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2025-11-20 12:00:02
+# 代理列表更新时间: 2025-11-20 12:20:02
 # 总计: 30 个代理
 
-socks5://173.208.162.142:40001 [[机房] 美国 加州 [Charter Communications Inc]]
+socks5://173.208.162.142:40001 [[家宽] 美国 加州 [Charter Communications Inc]]
 socks5://178.156.154.217:1090 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
 socks5://89.23.107.198:30000 [[家宽] 德国 [Deutsche Telekom AG]]
 socks5://188.132.202.14:9000 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [TOR EXIT AND MORE]]
