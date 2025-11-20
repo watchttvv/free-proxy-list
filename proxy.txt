@@ -1,11 +1,11 @@
-# 代理列表更新时间: 2025-11-20 14:00:02
+# 代理列表更新时间: 2025-11-20 14:20:03
 # 总计: 30 个代理
 
 socks5://62.60.131.156:60001 [[机房] 美国 纽约州 纽约 [Optimum Online]]
 socks5://5.181.167.30:60001 [[机房] 美国 纽约州 [Verizon Business]]
 socks5://45.11.91.38:60001 [[机房] 美国 阿肯色州 [Optimum]]
-socks5://103.30.11.4:60001 [[机房] 缅甸 仰光 仰光 [Telecom International Myanmar Company Limited]]
-socks5://103.155.150.42:60001 [[机房] 美国 加州 洛杉矶 [T-Mobile USA, Inc.]]
+socks5://103.30.11.4:60001 [[家宽] 缅甸 仰光 仰光 [Telecom International Myanmar Company Limited]]
+socks5://103.155.150.42:60001 [[家宽] 美国 加州 洛杉矶 [T-Mobile USA, Inc.]]
 socks5://61.111.129.31:50001 [[机房] 韩国 首尔特别市 首尔特别市 [SK Telecom]]
 socks5://173.208.162.142:40001 [[家宽] 美国 加州 [Charter Communications Inc]]
 socks5://178.156.154.217:1090 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
