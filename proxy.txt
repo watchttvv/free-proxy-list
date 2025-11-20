@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-11-20 13:20:02
+# 代理列表更新时间: 2025-11-20 13:40:02
 # 总计: 30 个代理
 
+socks5://103.30.11.4:60001 [[机房] 缅甸 仰光 仰光 [Telecom International Myanmar Company Limited]]
+socks5://103.155.150.42:60001 [[机房] 美国 加州 洛杉矶 [T-Mobile USA, Inc.]]
 socks5://61.111.129.31:50001 [[机房] 韩国 首尔特别市 首尔特别市 [SK Telecom]]
 socks5://173.208.162.142:40001 [[家宽] 美国 加州 [Charter Communications Inc]]
 socks5://178.156.154.217:1090 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
@@ -29,5 +31,3 @@ socks5://103.178.234.86:1111 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩
 socks5://45.158.169.133:2001 [[机房] 德国 黑森州 法兰克福 [CGI GLOBAL LIMITED]]
 socks5://45.207.220.11:666 [[机房] 中国 香港 香港 [Vapeline Technology]]
 socks5://77.90.51.103:602 [[机房] 美国 佛罗里达州 迈阿密 [AT&T Internet Services]]
-socks5://91.99.71.148:480 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
-socks5://38.14.254.87:91 [[机房] 美国 加州 [PEG TECH INC]]
