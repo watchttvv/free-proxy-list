@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-20 19:40:02
+# 代理列表更新时间: 2025-11-20 20:00:03
 # 总计: 30 个代理
 
+socks5://152.53.171.242:54321 [[机房] 多米尼加 [CEMO]]
 socks5://91.186.216.5:18080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://107.148.21.48:12345 [[机房] 韩国 全罗北道 群山市 [Korea Telecom]]
 socks5://107.148.21.105:12345 [[机房] 韩国 全罗北道 [Korea Telecom]]
@@ -30,4 +31,3 @@ socks5://103.20.97.87:60001 [[家宽] 英国 英格兰 伦敦 [UDDINGSTON]]
 socks5://103.245.237.189:60001 [[家宽] 英国 英格兰 伦敦 [Sky Broadband]]
 socks5://66.42.107.18:50001 [[家宽] 美国 加州 [Spectrum]]
 socks5://43.153.26.79:50001 [[家宽] 美国 加州 安大略 [Charter Communications Inc]]
-socks5://182.70.250.148:1080 [[家宽] 印度 中央邦 印多尔 [Bharti Airtel Ltd, 1 Malviya Nagar Bhopal Madhya Pradesh 462003]]
