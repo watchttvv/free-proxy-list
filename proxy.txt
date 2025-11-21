@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2025-11-21 18:20:02
+# 代理列表更新时间: 2025-11-21 18:40:03
 # 总计: 30 个代理
 
-socks5://104.250.52.139:2080 [[家宽] 新加坡 新加坡 新加坡 [Kingsoft cloud corporation limited]]
+socks5://104.250.52.139:2080 [[机房] 新加坡 新加坡 新加坡 [Kingsoft cloud corporation limited]]
 socks5://64.226.90.210:20201 [[机房] 土耳其 代尼兹利省 代尼茲利 [Bulent Aydin trading as Hostlayici]]
 socks5://87.120.205.191:8090 [[机房] 德国 黑森州 法兰克福 [WAIcore Ltd]]
 socks5://151.242.52.120:2080 [[机房] 土耳其 布尔萨省 布尔萨 [PRIVATE-CUSTOMER]]
