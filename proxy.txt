@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-11-24 00:00:02
+# 代理列表更新时间: 2025-11-24 00:20:02
 # 总计: 30 个代理
 
+socks5://84.201.166.83:1081 [[机房] 以色列 耶路撒冷 耶路撒冷 — 甲骨文云 Oracle [Oracle Corporation]]
+socks5://123.21.205.45:1080 [[机房] 越南 胡志明市 胡志明市 [Vietnam Posts and Telecommunications Group]]
+socks5://13.231.213.224:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
 socks5://213.21.233.98:1080 [[机房] 拉脱维亚 里加 里加 [Versija SIA]]
 socks5://89.116.28.181:1080 [[机房] 法国 大东部大区 — Contabo [SC "Lithuanian Radio and TV Center"]]
 socks5://104.164.110.27:1080 [[机房] 美国 新泽西州 锡考克斯 [EGIHosting]]
@@ -28,6 +31,3 @@ socks5://104.250.52.139:2080 [[机房] 新加坡 新加坡 新加坡 [Kingsoft c
 socks5://64.226.90.210:20201 [[机房] 土耳其 代尼兹利省 代尼茲利 [Bulent Aydin trading as Hostlayici]]
 socks5://87.120.205.191:8090 [[机房] 德国 黑森州 法兰克福 [WAIcore Ltd]]
 socks5://107.173.254.26:40000 [[机房] 美国 纽约州 水牛城 — RackNerd [RackNerd LLC]]
-socks5://150.40.181.177:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
-socks5://150.40.181.252:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
-socks5://45.149.156.87:2087 [[机房] 德国 北莱茵-威斯特法伦州 [Deutsche Telekom AG]]
