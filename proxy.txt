@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-11-23 21:40:03
+# 代理列表更新时间: 2025-11-23 22:00:06
 # 总计: 30 个代理
 
+socks5://104.164.110.27:1080 [[机房] 美国 新泽西州 锡考克斯 [EGIHosting]]
+socks5://80.66.87.86:1080 [[机房] 德国 黑森州 法兰克福 [nuxt.cloud hosting provider]]
 socks5://43.247.135.18:1080 [[机房] 美国 纽约州 纽约 [Cogent Communications, LLC]]
 socks5://174.84.7.56:1080 [[机房] 美国 密歇根州 [Charter Communications LLC]]
 socks5://137.74.0.150:211 [[机房] 波兰 马佐维亚省 華沙 — OVH [OVH Sp. z o. o.]]
@@ -29,5 +31,3 @@ socks5://150.40.181.252:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
 socks5://45.149.156.87:2087 [[机房] 德国 北莱茵-威斯特法伦州 [Deutsche Telekom AG]]
 socks5://65.108.92.197:9090 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [TOR EXIT AND MORE]]
 socks5://91.186.216.5:18080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
-socks5://107.148.21.48:12345 [[机房] 韩国 全罗北道 群山市 [Korea Telecom]]
-socks5://107.148.21.105:12345 [[机房] 韩国 全罗北道 [Korea Telecom]]
