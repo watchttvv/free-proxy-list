@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-23 18:40:02
+# 代理列表更新时间: 2025-11-23 19:00:02
 # 总计: 30 个代理
 
+socks5://178.76.138.80:1080 [[机房] 德国 图林根州 [TKS Telepost Kabel-Service Kaiserslautern GmbH & Co. KG]]
 socks5://212.22.85.68:1080 [[家宽] 俄罗斯 莫斯科州 [SRVGAME.RU]]
 socks5://80.254.124.163:2080 [[机房] 俄罗斯 圣彼得堡 [JSC "TIMEWEB"]]
 socks5://189.189.255.127:6881 [[机房] 墨西哥 墨西哥州 埃卡特佩克 [Gestión de direccionamiento UniNet]]
@@ -30,4 +31,3 @@ socks5://107.148.21.105:12345 [[机房] 韩国 全罗北道 [Korea Telecom]]
 socks5://47.236.119.15:10800 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud LLC]]
 socks5://198.204.232.162:888 [[机房] 美国 伊利诺伊州 绍姆堡 [Verizon Business]]
 socks5://124.156.201.129:1090 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [16 COLLYER QUAY]]
-socks5://62.60.131.156:60001 [[机房] 美国 纽约州 纽约 [Optimum Online]]
