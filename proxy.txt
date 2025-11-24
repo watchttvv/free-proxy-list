@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-24 11:20:02
+# 代理列表更新时间: 2025-11-24 11:40:02
 # 总计: 30 个代理
 
+socks5://155.4.68.145:1081 [[家宽] 瑞典 西约特兰省 [Dynamic private network]]
 socks5://91.198.166.49:1080 [[机房] 波兰 大波兰省 [Podaon SIA]]
 socks5://185.194.217.97:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://47.33.127.113:1080 [[机房] 美国 加州 洛杉矶 [Charter Communications LLC]]
@@ -30,4 +31,3 @@ socks5://87.242.106.189:8888 [[机房] 俄罗斯 莫斯科 莫斯科 [Selectel N
 socks5://150.40.179.91:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
 socks5://47.74.25.21:5555 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud - JP]]
 socks5://104.250.52.139:2080 [[机房] 新加坡 新加坡 新加坡 [Kingsoft cloud corporation limited]]
-socks5://64.226.90.210:20201 [[机房] 土耳其 代尼兹利省 代尼茲利 [Bulent Aydin trading as Hostlayici]]
