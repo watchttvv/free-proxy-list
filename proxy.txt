@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-11-25 00:40:02
+# 代理列表更新时间: 2025-11-25 01:00:03
 # 总计: 30 个代理
 
+socks5://150.40.177.181:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
+socks5://150.40.180.65:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
 socks5://95.182.115.103:1090 [[机房] 芬兰 新地区 赫尔辛基 [CGI GLOBAL LIMITED]]
 socks5://183.87.147.44:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
 socks5://185.105.109.199:980 [[家宽] 俄罗斯 莫斯科 莫斯科 [EuroByte LLC]]
@@ -29,5 +31,3 @@ socks5://213.21.233.98:1080 [[机房] 拉脱维亚 里加 里加 [Versija SIA]]
 socks5://89.116.28.181:1080 [[机房] 法国 大东部大区 — Contabo [SC "Lithuanian Radio and TV Center"]]
 socks5://104.164.110.27:1080 [[机房] 美国 新泽西州 锡考克斯 [EGIHosting]]
 socks5://43.247.135.18:1080 [[机房] 美国 纽约州 纽约 [Cogent Communications, LLC]]
-socks5://174.84.7.56:1080 [[机房] 美国 密歇根州 [Charter Communications LLC]]
-socks5://137.74.0.150:211 [[机房] 波兰 马佐维亚省 華沙 — OVH [OVH Sp. z o. o.]]
