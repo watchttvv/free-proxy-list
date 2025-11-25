@@ -1,8 +1,10 @@
-# 代理列表更新时间: 2025-11-25 20:20:02
+# 代理列表更新时间: 2025-11-25 20:40:03
 # 总计: 30 个代理
 
+socks5://192.3.120.42:1081 [[机房] 美国 伊利诺伊州 埃尔克格罗夫村 — RackNerd [RackNerd LLC]]
+socks5://192.3.36.26:1081 [[机房] 美国 纽约州 水牛城 — RackNerd [RackNerd LLC]]
 socks5://14.243.67.96:1080 [[机房] 越南 [Vietnam Posts and Telecommunications Group]]
-socks5://107.191.49.109:1081 [[机房] 美国 内华达州 拉斯维加斯 [T-Mobile USA, Inc.]]
+socks5://107.191.49.109:1081 [[家宽] 美国 内华达州 拉斯维加斯 [T-Mobile USA, Inc.]]
 socks5://8.210.49.13:7777 [[机房] 柬埔寨 金边 金边 [FAST ONE CAMBODIA CO., LTD]]
 socks5://8.210.125.83:5555 [[机房] 中国 香港 香港 — 阿里云 [Aliyun Computing Co.LTD]]
 socks5://58.176.129.48:1111 [[机房] 中国 香港 香港 [Hong Kong Broadband Network Limited]]
@@ -29,5 +31,3 @@ socks5://150.109.15.33:1090 [[机房] 新加坡 新加坡 新加坡 — 腾讯�
 socks5://122.248.234.192:1080 [[机房] 瑞士 伯尔尼 伯尔尼 — BuyVM [BuyVM]]
 socks5://101.33.55.147:1080 [[机房] 日本 东京 东京 — 腾讯云 [16 COLLYER QUAY]]
 socks5://195.14.26.147:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
-socks5://155.4.68.145:1081 [[家宽] 瑞典 西约特兰省 [Dynamic private network]]
-socks5://185.194.217.97:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
