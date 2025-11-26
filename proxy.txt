@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-27 01:40:03
+# 代理列表更新时间: 2025-11-27 02:00:02
 # 总计: 30 个代理
 
+socks5://3.35.14.139:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
 socks5://195.58.52.173:1081 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [Big Data Host LLC]]
 socks5://46.151.27.219:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [SERVERS TECH FZCO]]
 socks5://178.205.97.100:1081 [[机房] 拉脱维亚 里加 里加 — veesp.com [Veesp LV v6 1]]
@@ -30,4 +31,3 @@ socks5://169.38.15.137:1080 [[机房] 印度 泰米尔纳德邦 金奈 [Internat
 socks5://169.38.19.35:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
 socks5://169.38.9.167:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
 socks5://169.38.19.41:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
-socks5://169.38.19.44:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
