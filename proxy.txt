@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-11-27 03:20:02
+# 代理列表更新时间: 2025-11-27 03:40:02
 # 总计: 30 个代理
 
+socks5://81.177.175.194:1081 [[机房] 韩国 首尔特别市 首尔特别市 [WorkTitans B.V.]]
 socks5://142.171.12.177:1081 [[机房] 美国 加州 洛杉矶 [MULTACOM CORPORATION]]
 socks5://142.171.239.142:1081 [[机房] 美国 加州 洛杉矶 [MULTACOM CORPORATION]]
 socks5://160.20.121.10:1088 [[家宽] 孟加拉国 达卡专区 达卡 [Dream Engineering]]
@@ -30,4 +31,3 @@ socks5://169.38.15.204:1080 [[机房] 印度 泰米尔纳德邦 金奈 [Internat
 socks5://169.38.19.27:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
 socks5://169.38.15.201:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
 socks5://169.38.9.176:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
-socks5://169.38.15.137:1080 [[机房] 印度 泰米尔纳德邦 金奈 [International Business Machines Corporation]]
