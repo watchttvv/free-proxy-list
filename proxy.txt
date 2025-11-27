@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2025-11-27 18:40:03
+# 代理列表更新时间: 2025-11-27 19:00:02
 # 总计: 30 个代理
 
-socks5://116.104.68.185:1080 [[机房] 越南 河内 河内市 [Viettel Group]]
+socks5://116.104.68.185:1080 [[家宽] 越南 河内 河内市 [Viettel Group]]
 socks5://15.235.175.234:1081 [[机房] 新加坡 新加坡 新加坡 — OVH [OVH Singapore PTE. LTD]]
 socks5://114.41.140.196:1080 [[家宽] 中国 台湾 台中市 [Data Communication Business Group,]]
 socks5://89.169.36.109:1080 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [KZ BEGET]]
@@ -9,7 +9,7 @@ socks5://13.229.183.206:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudfl
 socks5://137.184.179.221:1081 [[机房] 美国 加州 圣何塞 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://81.177.175.194:1081 [[机房] 韩国 首尔特别市 首尔特别市 [WorkTitans B.V.]]
 socks5://142.171.239.142:1081 [[机房] 美国 加州 洛杉矶 [MULTACOM CORPORATION]]
-socks5://160.20.121.10:1088 [[家宽] 孟加拉国 达卡专区 达卡 [Dream Engineering]]
+socks5://160.20.121.10:1088 [[机房] 孟加拉国 达卡专区 达卡 [Dream Engineering]]
 socks5://3.35.14.139:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
 socks5://195.58.52.173:1081 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [Big Data Host LLC]]
 socks5://46.151.27.219:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [SERVERS TECH FZCO]]
