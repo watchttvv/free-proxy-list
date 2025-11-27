@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-11-27 18:00:03
+# 代理列表更新时间: 2025-11-27 18:20:03
 # 总计: 30 个代理
 
+socks5://15.235.175.234:1081 [[机房] 新加坡 新加坡 新加坡 — OVH]
+socks5://114.41.140.196:1080 [[机房] 中国 台湾 台中市]
+socks5://89.169.36.109:1080 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市]
 socks5://154.12.35.145:1080 [[家宽] 美国 加州 洛杉矶]
 socks5://13.229.183.206:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点]
 socks5://137.184.179.221:1081 [[机房] 美国 加州 圣何塞 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
@@ -28,6 +31,3 @@ socks5://85.121.120.71:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Sol
 socks5://85.121.120.49:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.31:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.29:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.47:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.30:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.48:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
