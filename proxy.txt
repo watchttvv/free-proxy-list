@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-11-28 22:40:03
+# 代理列表更新时间: 2025-11-28 23:00:04
 # 总计: 30 个代理
 
 socks5://194.164.160.216:1080 [[机房] 西班牙 拉里奥哈 洛格罗尼奥 [IONOS SE]]
@@ -7,7 +7,6 @@ socks5://125.150.225.113:1080 [[机房] 韩国 京畿道 安阳市 [Korea Teleco
 socks5://85.234.116.116:1080 [[机房] 俄罗斯 伊尔库茨克州 泰舍特 [EN+ TELECOM]]
 socks5://116.104.68.185:1080 [[家宽] 越南 河内 河内市 [Viettel Group]]
 socks5://15.235.175.234:1081 [[机房] 新加坡 新加坡 新加坡 — OVH [OVH Singapore PTE. LTD]]
-socks5://114.41.140.196:1080 [[家宽] 中国 台湾 台中市 [Data Communication Business Group,]]
 socks5://89.169.36.109:1080 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [KZ BEGET]]
 socks5://13.229.183.206:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://81.177.175.194:1081 [[机房] 韩国 首尔特别市 首尔特别市 [WorkTitans B.V.]]
@@ -31,3 +30,4 @@ socks5://85.121.120.33:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Sol
 socks5://85.121.120.27:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.71:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.49:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.31:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
