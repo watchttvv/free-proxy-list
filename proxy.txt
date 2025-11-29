@@ -1,7 +1,8 @@
-# 代理列表更新时间: 2025-11-29 14:00:02
+# 代理列表更新时间: 2025-11-29 14:20:03
 # 总计: 30 个代理
 
-socks5://202.72.232.50:1080 [[机房] 孟加拉国 达卡专区 达卡 [Ranks Telecom Ltd.]]
+socks5://91.92.42.144:1082 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Aeza Network]]
+socks5://202.72.232.50:1080 [[家宽] 孟加拉国 达卡专区 达卡 [Ranks Telecom Ltd.]]
 socks5://194.164.160.216:1080 [[机房] 西班牙 拉里奥哈 洛格罗尼奥 [IONOS SE]]
 socks5://184.174.36.168:1080 [[机房] 法国 大东部大区 — Contabo [Internet Utilities NA LLC]]
 socks5://125.150.225.113:1080 [[机房] 韩国 京畿道 安阳市 [Korea Telecom]]
@@ -30,4 +31,3 @@ socks5://85.121.120.33:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Sol
 socks5://85.121.120.27:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.71:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.49:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.31:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
