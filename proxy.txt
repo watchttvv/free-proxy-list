@@ -1,12 +1,12 @@
-# 代理列表更新时间: 2025-11-29 15:00:03
+# 代理列表更新时间: 2025-11-29 15:20:02
 # 总计: 30 个代理
 
-socks5://171.238.89.141:1099 [[机房] 越南 [Viettel Group]]
-socks5://171.238.88.111:1099 [[机房] 越南 [Viettel Group]]
-socks5://171.238.88.218:1099 [[机房] 越南 [Viettel Group]]
-socks5://171.238.88.27:1099 [[机房] 越南 [Viettel Group]]
-socks5://171.238.103.65:1099 [[机房] 越南 [Viettel Group]]
-socks5://171.238.91.139:1099 [[机房] 越南 [Viettel Group]]
+socks5://171.238.89.141:1099 [[家宽] 越南 [Viettel Group]]
+socks5://171.238.88.111:1099 [[家宽] 越南 [Viettel Group]]
+socks5://171.238.88.218:1099 [[家宽] 越南 [Viettel Group]]
+socks5://171.238.88.27:1099 [[家宽] 越南 [Viettel Group]]
+socks5://171.238.103.65:1099 [[家宽] 越南 [Viettel Group]]
+socks5://171.238.91.139:1099 [[家宽] 越南 [Viettel Group]]
 socks5://144.79.1.21:1099 [[机房] 孟加拉国 达卡专区 达卡 [PBJ Business Solution Bangladesh ltd.]]
 socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolitan branch of OJSC MegaFon]]
 socks5://91.92.42.144:1082 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Aeza Network]]
