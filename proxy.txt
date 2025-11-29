@@ -1,6 +1,14 @@
-# 代理列表更新时间: 2025-11-29 14:20:03
+# 代理列表更新时间: 2025-11-29 14:40:02
 # 总计: 30 个代理
 
+socks5://171.238.89.141:1099 [[机房] 越南 [Viettel Group]]
+socks5://171.238.88.111:1099 [[机房] 越南 [Viettel Group]]
+socks5://171.238.88.218:1099 [[机房] 越南 [Viettel Group]]
+socks5://171.238.88.27:1099 [[机房] 越南 [Viettel Group]]
+socks5://171.238.103.65:1099 [[机房] 越南 [Viettel Group]]
+socks5://171.238.91.139:1099 [[机房] 越南 [Viettel Group]]
+socks5://144.79.1.21:1099 [[机房] 孟加拉国 达卡专区 达卡 [PBJ Business Solution Bangladesh ltd.]]
+socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolitan branch of OJSC MegaFon]]
 socks5://91.92.42.144:1082 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Aeza Network]]
 socks5://202.72.232.50:1080 [[家宽] 孟加拉国 达卡专区 达卡 [Ranks Telecom Ltd.]]
 socks5://194.164.160.216:1080 [[机房] 西班牙 拉里奥哈 洛格罗尼奥 [IONOS SE]]
@@ -23,11 +31,3 @@ socks5://85.121.120.21:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Sol
 socks5://85.121.120.20:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.22:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.16:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.34:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.28:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.26:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.51:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.33:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.27:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.71:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
-socks5://85.121.120.49:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
