@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-12-01 03:00:03
+# 代理列表更新时间: 2025-12-01 03:20:02
 # 总计: 30 个代理
 
 socks5://144.31.192.196:5050 [[机房] 德国 黑森州 法兰克福 [u1host ltd]]
@@ -14,13 +14,9 @@ socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolita
 socks5://91.92.42.144:1082 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Aeza Network]]
 socks5://202.72.232.50:1080 [[家宽] 孟加拉国 达卡专区 达卡 [Ranks Telecom Ltd.]]
 socks5://194.164.160.216:1080 [[机房] 西班牙 拉里奥哈 洛格罗尼奥 [IONOS SE]]
-socks5://184.174.36.168:1080 [[机房] 法国 大东部大区 — Contabo [Internet Utilities NA LLC]]
-socks5://125.150.225.113:1080 [[机房] 韩国 京畿道 安阳市 [Korea Telecom]]
-socks5://85.234.116.116:1080 [[机房] 俄罗斯 伊尔库茨克州 泰舍特 [EN+ TELECOM]]
 socks5://116.104.68.185:1080 [[家宽] 越南 河内 河内市 [Viettel Group]]
 socks5://13.229.183.206:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://81.177.175.194:1081 [[机房] 韩国 首尔特别市 首尔特别市 [WorkTitans B.V.]]
-socks5://160.20.121.10:1088 [[机房] 孟加拉国 达卡专区 达卡 [Dream Engineering]]
 socks5://3.35.14.139:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
 socks5://195.58.52.173:1081 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [Big Data Host LLC]]
 socks5://46.151.27.219:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [SERVERS TECH FZCO]]
@@ -31,3 +27,7 @@ socks5://85.121.120.21:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Sol
 socks5://85.121.120.20:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.22:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.16:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.34:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.28:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.26:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.51:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
