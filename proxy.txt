@@ -1,15 +1,9 @@
-# 代理列表更新时间: 2025-12-01 15:00:02
+# 代理列表更新时间: 2025-12-01 15:20:03
 # 总计: 30 个代理
 
 socks5://144.31.192.196:5050 [[机房] 德国 黑森州 法兰克福 [u1host ltd]]
 socks5://154.37.219.233:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
-socks5://171.238.89.141:1099 [[家宽] 越南 [Viettel Group]]
-socks5://171.238.88.111:1099 [[家宽] 越南 [Viettel Group]]
-socks5://171.238.88.218:1099 [[家宽] 越南 [Viettel Group]]
-socks5://171.238.88.27:1099 [[家宽] 越南 [Viettel Group]]
-socks5://171.238.103.65:1099 [[家宽] 越南 [Viettel Group]]
 socks5://171.238.91.139:1099 [[家宽] 越南 [Viettel Group]]
-socks5://144.79.1.21:1099 [[机房] 孟加拉国 达卡专区 达卡 [PBJ Business Solution Bangladesh ltd.]]
 socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolitan branch of OJSC MegaFon]]
 socks5://91.92.42.144:1082 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Aeza Network]]
 socks5://202.72.232.50:1080 [[家宽] 孟加拉国 达卡专区 达卡 [Ranks Telecom Ltd.]]
@@ -19,7 +13,6 @@ socks5://13.229.183.206:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudfl
 socks5://81.177.175.194:1081 [[机房] 韩国 首尔特别市 首尔特别市 [WorkTitans B.V.]]
 socks5://3.35.14.139:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
 socks5://195.58.52.173:1081 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [Big Data Host LLC]]
-socks5://46.151.27.219:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [SERVERS TECH FZCO]]
 socks5://145.14.158.55:1080 [[机房] 荷兰 德伦特省 梅珀尔 [HOSTINGER HOSTING]]
 socks5://89.110.96.84:1081 [[机房] 俄罗斯 莫斯科 莫斯科 [Hosting technology LTD]]
 socks5://85.121.120.18:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
@@ -31,3 +24,10 @@ socks5://85.121.120.34:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Sol
 socks5://85.121.120.28:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.26:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
 socks5://85.121.120.51:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.33:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.27:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.71:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.49:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.31:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.29:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
+socks5://85.121.120.47:1080 [[机房] 英国 英格兰 伦敦 [Urban Network Solutions SRL]]
