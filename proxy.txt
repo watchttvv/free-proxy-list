@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2025-12-07 23:00:04
+# 代理列表更新时间: 2025-12-07 23:20:02
 # 总计: 30 个代理
 
-socks5://83.217.209.26:1 [[机房] 英国 英格兰 纽伯里 [Vodafone Broadband]]
+socks5://83.217.209.26:1 [[家宽] 英国 英格兰 纽伯里 [Vodafone Broadband]]
 socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolitan branch of OJSC MegaFon]]
 socks5://91.92.42.144:1082 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Aeza Network]]
 socks5://13.229.183.206:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
