@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-09 00:00:02
+# 代理列表更新时间: 2025-12-09 00:20:03
 # 总计: 30 个代理
 
+socks5://149.104.109.208:2 [[机房] 英国 英格兰 曼彻斯特 [M247 LTD Manchester Infrastructure]]
 socks5://158.180.75.163:55555 [[机房] 韩国 Yanggok — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://83.217.209.26:1 [[家宽] 英国 英格兰 纽伯里 [Vodafone Broadband]]
 socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolitan branch of OJSC MegaFon]]
@@ -30,4 +31,3 @@ socks5://150.40.180.65:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
 socks5://183.87.147.44:5555 [[机房] 中国 香港 香港 [Huawei-Cloud-HK]]
 socks5://185.105.109.199:980 [[机房] 俄罗斯 莫斯科 莫斯科 [EuroByte LLC]]
 socks5://47.83.20.158:5555 [[机房] 中国 香港 香港 — 阿里云 [Alibaba Cloud LLC]]
-socks5://47.86.167.192:5555 [[机房] 中国 香港 香港 — 阿里云 [ALIBABA CLOUD - HK]]
