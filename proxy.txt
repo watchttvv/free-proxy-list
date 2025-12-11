@@ -1,8 +1,8 @@
-# 代理列表更新时间: 2025-12-12 00:00:02
+# 代理列表更新时间: 2025-12-12 00:20:02
 # 总计: 30 个代理
 
 socks5://132.226.235.199:1080 [[机房] 韩国 首尔特别市 — 甲骨文云 Oracle [Oracle Public Cloud]]
-socks5://131.72.52.215:1080 [[机房] 巴西 圣保罗 普雷图河畔圣若泽 [Maria Luciana Machado E CIA Ltda-me]]
+socks5://131.72.52.215:1080 [[家宽] 巴西 圣保罗 普雷图河畔圣若泽 [Maria Luciana Machado E CIA Ltda-me]]
 socks5://130.211.209.6:1080 [[机房] 美国 艾奥瓦州 康瑟尔布拉夫斯 — 谷歌云 GCP [Google LLC]]
 socks5://116.203.131.133:1080 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://107.191.49.109:1080 [[机房] 美国 亚拉巴马州 伯明翰 [Charter Communications Inc]]
