@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-12 03:00:02
+# 代理列表更新时间: 2025-12-12 03:20:03
 # 总计: 30 个代理
 
+socks5://146.56.50.5:1080 [[机房] 印度 马哈拉施特拉邦 孟买 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://145.255.239.78:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [MEGABURGER network]]
 socks5://132.226.235.199:1080 [[机房] 韩国 首尔特别市 — 甲骨文云 Oracle [Oracle Public Cloud]]
 socks5://131.72.52.215:1080 [[家宽] 巴西 圣保罗 普雷图河畔圣若泽 [Maria Luciana Machado E CIA Ltda-me]]
@@ -30,4 +31,3 @@ socks5://94.74.91.27:1081 [[机房] 新加坡 新加坡 新加坡 [Huawei Cloud 
 socks5://43.159.43.174:1081 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [ACEVILLE PTE.LTD.]]
 socks5://43.133.90.149:1088 [[机房] 韩国 首尔特别市 首尔特别市 — 腾讯云 [6 COLLYER QUAY]]
 socks5://203.202.243.196:1088 [[机房] 孟加拉国 达卡专区 [Aamra Networks Limited]]
-socks5://192.3.120.42:1081 [[机房] 美国 伊利诺伊州 埃尔克格罗夫村 — RackNerd [RackNerd LLC]]
