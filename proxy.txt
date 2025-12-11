@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-12 06:20:03
+# 代理列表更新时间: 2025-12-12 06:40:02
 # 总计: 30 个代理
 
+socks5://158.179.215.69:1080 [[机房] 西班牙 马德里自治区 马德里 — 甲骨文云 Oracle [Oracle Corporation]]
+socks5://157.173.201.10:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc]]
 socks5://152.70.246.154:1080 [[机房] 韩国 首尔特别市 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://146.56.50.5:1080 [[机房] 印度 马哈拉施特拉邦 孟买 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://145.255.239.78:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [MEGABURGER network]]
@@ -29,5 +31,3 @@ socks5://89.110.96.84:1081 [[机房] 俄罗斯 莫斯科 莫斯科 [Hosting tech
 socks5://149.28.228.223:9091 [[机房] 美国 纽约州 Staten Island — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://87.242.117.167:1088 [[机房] 奥地利 奥地利州 维也纳 [EDIS GmbH]]
 socks5://94.74.91.27:1081 [[机房] 新加坡 新加坡 新加坡 [Huawei Cloud Singapore Region]]
-socks5://43.159.43.174:1081 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [ACEVILLE PTE.LTD.]]
-socks5://43.133.90.149:1088 [[机房] 韩国 首尔特别市 首尔特别市 — 腾讯云 [6 COLLYER QUAY]]
