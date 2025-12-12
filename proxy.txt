@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-12 11:20:02
+# 代理列表更新时间: 2025-12-12 11:40:02
 # 总计: 30 个代理
 
+socks5://192.153.57.240:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [BL Networks]]
 socks5://183.81.91.206:1080 [[机房] 越南 [FPT Telecom Company]]
 socks5://18.138.243.244:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
 socks5://178.62.84.99:1080 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean London]]
@@ -30,4 +31,3 @@ socks5://103.81.28.245:1080 [[家宽] 孟加拉国 达卡专区 [Windstream Comm
 socks5://103.75.118.84:1080 [[机房] 日本 东京 东京 [Oneprovider.com - Japan Infrastructure]]
 socks5://103.30.29.49:1080 [[机房] 孟加拉国 达卡专区 达卡 [BBTS Network]]
 socks5://103.254.149.43:1080 [[机房] 中国 香港 香港 [SonderCloud Limited]]
-socks5://103.254.149.35:1080 [[机房] 中国 香港 香港 [SonderCloud Limited]]
