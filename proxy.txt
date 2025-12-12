@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-12 07:40:05
+# 代理列表更新时间: 2025-12-12 08:00:03
 # 总计: 30 个代理
 
+socks5://167.71.226.135:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
+socks5://167.172.207.234:1080 [[家宽] 阿根廷 布宜诺斯艾利斯 布宜诺斯艾利斯 [Fibertel]]
 socks5://163.61.74.128:1080 [[家宽] 越南 河内 河内市 [SAFE365 JOINT STOCK COMPANY]]
 socks5://16.162.58.146:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://160.250.4.43:1080 [[机房] 越南 胡志明市 胡志明市 [Vietnam Internet Network Information Center (VNNIC)]]
@@ -29,5 +31,3 @@ socks5://91.92.42.144:1082 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [
 socks5://13.229.183.206:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://81.177.175.194:1081 [[机房] 韩国 首尔特别市 首尔特别市 [WorkTitans B.V.]]
 socks5://3.35.14.139:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
-socks5://145.14.158.55:1080 [[机房] 荷兰 德伦特省 梅珀尔 [HOSTINGER HOSTING]]
-socks5://89.110.96.84:1081 [[机房] 俄罗斯 莫斯科 莫斯科 [Hosting technology LTD]]
