@@ -1,7 +1,9 @@
-# 代理列表更新时间: 2025-12-12 09:20:08
+# 代理列表更新时间: 2025-12-12 09:40:03
 # 总计: 30 个代理
 
-socks5://177.10.66.14:1080 [[机房] 巴西 南里奥格兰德州 [SILVEIRA & ZIQUINATTI LTDA]]
+socks5://18.138.243.244:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
+socks5://178.62.84.99:1080 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean London]]
+socks5://177.10.66.14:1080 [[家宽] 巴西 南里奥格兰德州 [SILVEIRA & ZIQUINATTI LTDA]]
 socks5://176.9.5.86:1080 [[机房] 巴西 米纳斯吉拉斯州 貝洛奥里藏特 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://176.124.197.183:1080 [[机房] 俄罗斯 莫斯科州 巴拉希哈 [GCOM Clients 2]]
 socks5://176.119.148.181:1080 [[机房] 日本 东京 东京 — Virmach [Virtual Machine Solutions LLC]]
@@ -29,5 +31,3 @@ socks5://103.30.29.49:1080 [[机房] 孟加拉国 达卡专区 达卡 [BBTS Netw
 socks5://103.254.149.43:1080 [[机房] 中国 香港 香港 [SonderCloud Limited]]
 socks5://103.254.149.35:1080 [[机房] 中国 香港 香港 [SonderCloud Limited]]
 socks5://103.165.128.74:1080 [[机房] 印度尼西亚 雅加达 雅加达 [PT iForte Global Internet]]
-socks5://83.217.209.26:1 [[家宽] 英国 英格兰 纽伯里 [Vodafone Broadband]]
-socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolitan branch of OJSC MegaFon]]
