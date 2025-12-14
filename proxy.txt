@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-14 10:20:03
+# 代理列表更新时间: 2025-12-14 10:40:03
 # 总计: 30 个代理
 
+socks5://38.175.206.9:1080 [[机房] 美国 加州 洛杉矶 [Cogent Communications, LLC]]
 socks5://31.14.17.231:1080 [[机房] 奥地利 下奧地利州 朗根策斯多夫 [Alwyzon, a trading name of Hohl IT e.U.]]
 socks5://27.147.255.146:1080 [[机房] 孟加拉国 吉大港專區 [Link3-Technologies-Ltd]]
 socks5://113.253.52.77:1111 [[机房] 中国 香港 香港 [HGC Global Communications Limited]]
@@ -30,4 +31,3 @@ socks5://103.75.118.84:1080 [[机房] 日本 东京 东京 [Oneprovider.com - Ja
 socks5://103.30.29.49:1080 [[机房] 孟加拉国 达卡专区 达卡 [BBTS Network]]
 socks5://103.165.128.74:1080 [[机房] 印度尼西亚 雅加达 雅加达 [PT iForte Global Internet]]
 socks5://83.217.209.26:1 [[家宽] 英国 英格兰 纽伯里 [Vodafone Broadband]]
-socks5://109.173.18.72:1096 [[机房] 俄罗斯 莫斯科 莫斯科 [Metropolitan branch of OJSC MegaFon]]
