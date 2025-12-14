@@ -1,6 +1,11 @@
-# 代理列表更新时间: 2025-12-14 19:40:03
+# 代理列表更新时间: 2025-12-14 20:00:02
 # 总计: 30 个代理
 
+socks5://82.146.58.103:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [JSC Datacenter]]
+socks5://82.116.49.165:1080 [[机房] 俄罗斯 萨拉托夫州 薩拉托夫 [Fiber Optic Connection Lines]]
+socks5://8.210.121.6:1080 [[机房] 中国 香港 香港 — 阿里云 [Aliyun Computing Co.LTD]]
+socks5://8.210.89.96:1080 [[机房] 中国 香港 香港 — 阿里云 [Aliyun Computing Co.LTD]]
+socks5://8.210.55.83:1080 [[机房] 中国 香港 香港 — 阿里云 [Aliyun Computing Co.LTD]]
 socks5://79.141.174.27:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [HZ NA30]]
 socks5://78.85.180.123:1080 [[机房] 俄罗斯 乌德穆尔蒂亚共和国 伊熱夫斯克 [abuse mailbox: [email protected]]]
 socks5://78.29.48.69:1080 [[机房] 俄罗斯 车里雅宾斯克州 兹拉托乌斯特 [Intersvyaz-2 JSC]]
@@ -26,8 +31,3 @@ socks5://43.163.127.208:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯�
 socks5://43.163.99.185:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://38.175.206.9:1080 [[机房] 美国 加州 洛杉矶 [Cogent Communications, LLC]]
 socks5://31.14.17.231:1080 [[机房] 奥地利 下奧地利州 朗根策斯多夫 [Alwyzon, a trading name of Hohl IT e.U.]]
-socks5://27.147.255.146:1080 [[机房] 孟加拉国 吉大港專區 [Link3-Technologies-Ltd]]
-socks5://113.253.52.77:1111 [[机房] 中国 香港 香港 [HGC Global Communications Limited]]
-socks5://103.49.171.33:1111 [[机房] 孟加拉国 达卡专区 达卡 [Exord Online]]
-socks5://192.210.248.112:1080 [[机房] 美国 加州 圣何塞 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
-socks5://192.153.57.240:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [BL Networks]]
