@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-14 12:00:02
+# 代理列表更新时间: 2025-12-14 12:20:02
 # 总计: 30 个代理
 
+socks5://45.10.247.46:1080 [[机房] 俄罗斯 莫斯科 莫斯科 — Ruvds [MT FINANCE LLC]]
+socks5://43.246.201.253:1080 [[机房] 孟加拉国 吉大港專區 [HelloTech Limited]]
 socks5://43.163.127.208:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
 socks5://43.163.99.185:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://38.175.206.9:1080 [[机房] 美国 加州 洛杉矶 [Cogent Communications, LLC]]
@@ -29,5 +31,3 @@ socks5://104.248.203.234:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — 
 socks5://104.168.4.249:1080 [[机房] 美国 纽约州 水牛城 [Ankit Jain]]
 socks5://103.86.65.153:1080 [[机房] 中国 香港 香港 [Antbox Networks Limited]]
 socks5://103.81.28.245:1080 [[家宽] 孟加拉国 达卡专区 [Windstream Communication Limited]]
-socks5://103.75.118.84:1080 [[机房] 日本 东京 东京 [Oneprovider.com - Japan Infrastructure]]
-socks5://103.30.29.49:1080 [[机房] 孟加拉国 达卡专区 达卡 [BBTS Network]]
