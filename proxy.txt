@@ -1,11 +1,11 @@
-# 代理列表更新时间: 2025-12-15 00:20:03
+# 代理列表更新时间: 2025-12-15 00:40:03
 # 总计: 30 个代理
 
 socks5://95.217.117.168:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [HOS-674743]]
-socks5://95.165.143.209:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Moscow Local Telephone Network (PJSC MGTS)]]
+socks5://95.165.143.209:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [Moscow Local Telephone Network (PJSC MGTS)]]
 socks5://95.111.226.145:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://94.237.32.211:1080 [[机房] 芬兰 新地区 赫尔辛基 [UpCloud Cloud Servers]]
-socks5://94.190.68.171:1080 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [Telematic servers, routers, switches, PPPoE network access servers Sverdlovsk reg. "Interra" Ltd.]]
+socks5://94.190.68.171:1080 [[家宽] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [Telematic servers, routers, switches, PPPoE network access servers Sverdlovsk reg. "Interra" Ltd.]]
 socks5://93.113.203.108:1080 [[家宽] 荷兰 北荷兰省 阿姆斯特丹 [UA RAPIDSEEDBOX 20191017]]
 socks5://92.41.149.250:1080 [[家宽] 英国 英格兰 伦敦 [Mobile Broadband Service]]
 socks5://91.229.90.41:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [Beget LLC]]
