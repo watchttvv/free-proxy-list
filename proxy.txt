@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-12-15 03:00:03
+# 代理列表更新时间: 2025-12-15 03:20:03
 # 总计: 30 个代理
 
 socks5://95.217.117.168:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [HOS-674743]]
@@ -23,11 +23,11 @@ socks5://8.210.55.83:1080 [[机房] 中国 香港 香港 — 阿里云 [Aliyun C
 socks5://79.141.174.27:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [HZ NA30]]
 socks5://78.85.180.123:1080 [[家宽] 俄罗斯 乌德穆尔蒂亚共和国 伊熱夫斯克 [abuse mailbox: [email protected]]]
 socks5://78.29.48.69:1080 [[机房] 俄罗斯 车里雅宾斯克州 兹拉托乌斯特 [Intersvyaz-2 JSC]]
-socks5://78.111.149.103:1080 [[家宽] 俄罗斯 伊万诺沃州 伊万诺沃 [CJSC Comstar-Regions in Ivanovo]]
-socks5://77.93.42.198:1080 [[家宽] 乌克兰 [SOUZ 1st NET]]
 socks5://69.5.20.194:1080 [[机房] 印度尼西亚 雅加达 雅加达 [BYTEPLUS]]
 socks5://66.94.119.181:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc.]]
 socks5://66.116.207.194:1080 [[机房] 印度 马哈拉施特拉邦 孟买 — 甲骨文云 Oracle [P.D.R Solutions FZC]]
-socks5://62.169.26.216:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://62.113.113.123:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS Hosting]]
 socks5://5.78.87.55:1080 [[机房] 美国 俄勒冈州 希尔斯伯勒 — Hetzner [Hetzner Online GmbH]]
+socks5://5.175.215.207:1080 [[机房] 英国 英格兰 伦敦 [Miteflux Technologies Ltd]]
+socks5://5.161.118.118:1080 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
+socks5://5.149.249.29:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [HZ NA1]]
