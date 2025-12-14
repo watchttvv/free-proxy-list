@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-14 18:00:02
+# 代理列表更新时间: 2025-12-14 18:20:02
 # 总计: 30 个代理
 
+socks5://66.116.207.194:1080 [[机房] 印度 马哈拉施特拉邦 孟买 — 甲骨文云 Oracle [P.D.R Solutions FZC]]
 socks5://62.169.26.216:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://62.113.113.123:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS Hosting]]
 socks5://5.78.87.55:1080 [[机房] 美国 俄勒冈州 希尔斯伯勒 — Hetzner [Hetzner Online GmbH]]
@@ -30,4 +31,3 @@ socks5://176.124.197.183:1080 [[机房] 俄罗斯 莫斯科州 巴拉希哈 [GCO
 socks5://167.71.226.135:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
 socks5://163.61.74.128:1080 [[家宽] 越南 河内 河内市 [SAFE365 JOINT STOCK COMPANY]]
 socks5://16.162.58.146:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
-socks5://160.250.4.43:1080 [[机房] 越南 胡志明市 胡志明市 [Vietnam Internet Network Information Center (VNNIC)]]
