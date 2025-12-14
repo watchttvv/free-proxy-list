@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-14 16:40:02
+# 代理列表更新时间: 2025-12-14 17:00:02
 # 总计: 30 个代理
 
+socks5://5.78.87.55:1080 [[机房] 美国 俄勒冈州 希尔斯伯勒 — Hetzner [Hetzner Online GmbH]]
 socks5://5.175.215.207:1080 [[机房] 英国 英格兰 伦敦 [Miteflux Technologies Ltd]]
 socks5://5.161.118.118:1080 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
 socks5://5.149.249.29:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [HZ NA1]]
@@ -30,4 +31,3 @@ socks5://16.162.58.146:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws 
 socks5://160.250.4.43:1080 [[机房] 越南 胡志明市 胡志明市 [Vietnam Internet Network Information Center (VNNIC)]]
 socks5://158.179.215.69:1080 [[机房] 西班牙 马德里自治区 马德里 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://157.173.201.10:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc]]
-socks5://145.255.239.78:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [MEGABURGER network]]
