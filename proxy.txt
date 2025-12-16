@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2025-12-17 01:20:02
+# 代理列表更新时间: 2025-12-17 01:40:02
 # 总计: 30 个代理
 
+socks5://205.209.113.10:60000 [[机房] 美国 德克萨斯州 达拉斯 [T-Mobile USA, Inc.]]
+socks5://192.151.145.178:60000 [[机房] 美国 佛罗里达州 迈阿密 [AT&T Internet Services]]
+socks5://167.148.195.166:60000 [[机房] 英国 英格兰 伦敦 [Community Fibre Limited]]
+socks5://167.148.195.165:60000 [[机房] 英国 英格兰 伦敦 [Community Fibre Limited]]
 socks5://135.148.98.176:60000 [[机房] 美国 伊利诺伊州 [Comcast Cable Communications, LLC]]
 socks5://107.189.8.205:3080 [[机房] 瑞士 伯尔尼 伯尔尼 — BuyVM [BuyVM]]
 socks5://107.175.232.156:7080 [[机房] 美国 加州 洛杉矶 — RackNerd [RackNerd LLC]]
@@ -27,7 +31,3 @@ socks5://95.164.33.82:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach IS
 socks5://95.164.51.108:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.51.139:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.33.95:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.105:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.33.99:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.109:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.137:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
