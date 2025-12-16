@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-16 08:00:02
+# 代理列表更新时间: 2025-12-16 08:20:02
 # 总计: 30 个代理
 
+socks5://104.223.55.109:7080 [[机房] 日本 东京 东京 [Japan Network Information Center]]
 socks5://103.174.178.160:2080 [[家宽] 印度尼西亚 东爪哇省 [CV Gasateknet]]
 socks5://103.16.130.174:2080 [[机房] 澳大利亚 新南威尔士州 悉尼 [Mammoth Media Pty Ltd]]
 socks5://103.103.146.149:7080 [[机房] 印度尼西亚 巴厘岛 丹帕沙 [PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA]]
@@ -30,4 +31,3 @@ socks5://95.164.51.11:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach IS
 socks5://95.164.51.101:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.33.98:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.51.110:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.126:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
