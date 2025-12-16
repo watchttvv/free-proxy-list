@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-17 03:20:02
+# 代理列表更新时间: 2025-12-17 03:40:02
 # 总计: 30 个代理
 
+socks5://103.60.12.159:60000 [[机房] 美国 明尼苏达州 [Mediacom Communications Corp]]
+socks5://83.147.55.16:60000 [[家宽] 意大利 坎帕尼亚 那不勒斯 [Telecom Italia Mobile]]
 socks5://45.150.65.34:60000 [[机房] 美国 佛罗里达州 [Comcast Cable Communications, LLC]]
 socks5://23.94.252.107:60000 [[机房] 英国 英格兰 達拉謨 [YouFibre Limited]]
 socks5://216.185.40.132:60000 [[机房] 美国 德克萨斯州 圣安东尼奥 [AT&T Enterprises, LLC]]
@@ -29,5 +31,3 @@ socks5://95.164.51.141:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach I
 socks5://95.164.33.90:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.51.103:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.33.94:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.142:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.33.82:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
