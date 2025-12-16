@@ -1,6 +1,13 @@
-# 代理列表更新时间: 2025-12-17 03:40:02
+# 代理列表更新时间: 2025-12-17 04:00:02
 # 总计: 30 个代理
 
+socks5://23.95.162.117:40000 [[机房] 美国 佛罗里达州 戴维 [Comcast Cable Communications, LLC]]
+socks5://216.126.237.182:40000 [[机房] 美国 密苏里州 欧弗兰 [Spectrum]]
+socks5://172.81.130.254:40000 [[机房] 美国 纽约州 纽约 [Verizon Business]]
+socks5://130.94.21.144:40000 [[机房] 法国 [Free SAS]]
+socks5://69.61.84.199:40000 [[机房] 美国 羅德島州 [Verizon Business]]
+socks5://64.94.84.163:60000 [[机房] 美国 明尼苏达州 [Comcast Cable Communications, LLC]]
+socks5://38.97.60.102:60000 [[机房] 美国 威斯康辛州 [AT&T Internet Services]]
 socks5://103.60.12.159:60000 [[机房] 美国 明尼苏达州 [Mediacom Communications Corp]]
 socks5://83.147.55.16:60000 [[家宽] 意大利 坎帕尼亚 那不勒斯 [Telecom Italia Mobile]]
 socks5://45.150.65.34:60000 [[机房] 美国 佛罗里达州 [Comcast Cable Communications, LLC]]
@@ -24,10 +31,3 @@ socks5://95.164.51.179:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach I
 socks5://95.164.51.10:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.51.166:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
 socks5://95.164.51.147:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.106:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.107:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.140:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.141:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.33.90:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.51.103:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
-socks5://95.164.33.94:3000 [[机房] 美国 新泽西州 纽瓦克 [BohoBeach ISP]]
