@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-12-18 03:00:02
+# 代理列表更新时间: 2025-12-18 03:20:02
 # 总计: 30 个代理
 
 socks5://203.205.3.92:60000 [[家宽] 加拿大 曼尼托巴 温尼伯 [Shaw Communications Inc]]
@@ -16,7 +16,6 @@ socks5://80.249.81.179:9050 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 
 socks5://94.103.81.202:40001 [[机房] 西班牙 马德里自治区 马德里 [DIGI SPAIN TELECOM S.L.]]
 socks5://23.94.252.22:60000 [[机房] 美国 印第安纳州 [Smithville Digital, LLC]]
 socks5://194.87.31.184:60001 [[家宽] 德国 北莱茵-威斯特法伦州 多特蒙德 [Vodafone West GmbH]]
-socks5://185.177.239.24:60001 [[机房] 阿联酋 迪拜 迪拜 [Emirates Telecommunications Corporation]]
 socks5://185.177.239.174:60000 [[机房] 巴西 圣保罗 圣保罗 [TELEF�NICA BRASIL S.A]]
 socks5://89.150.34.117:27950 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CLODO CLOUD SERVICE CO. L.L.C]]
 socks5://138.124.90.171:30005 [[机房] 德国 巴登-符腾堡 卡尔斯鲁厄 [Customer miniBNG RMS]]
@@ -31,3 +30,4 @@ socks5://91.107.170.139:60000 [[家宽] 英国 英格兰 伦敦 [Sky UK Limited]
 socks5://88.99.243.177:40000 [[机房] 美国 佛罗里达州 塔拉赫西 [Comcast Cable Communications, LLC]]
 socks5://85.215.165.192:40000 [[机房] 法国 中部大区 奥尔良 [POP ORL]]
 socks5://5.9.52.236:60000 [[机房] 美国 德克萨斯州 休斯顿 [Verizon Business]]
+socks5://167.235.32.106:60030 [[机房] 美国 宾夕法尼亚州 费城 [Comcast Cable Communications, LLC]]
