@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2025-12-17 12:00:02
+# 代理列表更新时间: 2025-12-17 12:20:03
 # 总计: 30 个代理
 
-socks5://194.87.31.184:60001 [[机房] 德国 北莱茵-威斯特法伦州 多特蒙德 [Vodafone West GmbH]]
+socks5://194.87.31.184:60001 [[家宽] 德国 北莱茵-威斯特法伦州 多特蒙德 [Vodafone West GmbH]]
 socks5://185.177.239.24:60001 [[机房] 阿联酋 迪拜 迪拜 [Emirates Telecommunications Corporation]]
 socks5://185.177.239.174:60000 [[机房] 巴西 圣保罗 圣保罗 [TELEF�NICA BRASIL S.A]]
 socks5://89.150.34.117:27950 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CLODO CLOUD SERVICE CO. L.L.C]]
