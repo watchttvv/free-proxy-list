@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-17 13:40:02
+# 代理列表更新时间: 2025-12-17 14:00:02
 # 总计: 30 个代理
 
+socks5://154.201.76.128:30021 [[机房] 美国 加州 希斯皮里亚 [Charter Communications LLC]]
+socks5://185.101.35.55:9050 [[机房] 冰岛 首都区 [Icenetworks Ltd.]]
 socks5://178.17.59.45:60000 [[机房] 美国 内华达州 拉斯维加斯 [Cox Communications Inc]]
 socks5://91.219.239.169:60002 [[机房] 美国 伊利诺伊州 芝加哥 [Comcast Cable Communications, LLC]]
 socks5://95.216.64.181:40001 [[机房] 阿根廷 布宜诺斯艾利斯 布宜诺斯艾利斯 [Telefonica de Argentina]]
@@ -29,5 +31,3 @@ socks5://88.99.243.177:40000 [[机房] 美国 佛罗里达州 塔拉赫西 [Comc
 socks5://85.215.165.192:40000 [[机房] 法国 中部大区 奥尔良 [POP ORL]]
 socks5://5.9.52.236:60000 [[机房] 美国 德克萨斯州 休斯顿 [Verizon Business]]
 socks5://167.235.32.106:60030 [[机房] 美国 宾夕法尼亚州 费城 [Comcast Cable Communications, LLC]]
-socks5://162.55.129.241:40000 [[机房] 印度 比哈尔邦 巴特那 [Reliance Jio Infocomm Limited]]
-socks5://161.97.169.70:60000 [[机房] 英国 英格兰 奧爾德肖特 [ipv6subscriber]]
