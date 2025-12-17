@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-12-17 13:00:02
+# 代理列表更新时间: 2025-12-17 13:20:03
 # 总计: 30 个代理
 
+socks5://65.109.101.25:19000 [[机房] 美国 明尼苏达州 [Comcast Cable Communications, LLC]]
+socks5://94.156.170.175:41981 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
+socks5://87.120.107.75:40000 [[机房] 瑞士 图尔高州 阿爾邦 [upc cablecom Residential Internet]]
 socks5://80.249.81.179:9050 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [R0CKET CLOUD 2]]
 socks5://94.103.81.202:40001 [[机房] 西班牙 马德里自治区 马德里 [DIGI SPAIN TELECOM S.L.]]
 socks5://23.94.252.22:60000 [[机房] 美国 印第安纳州 [Smithville Digital, LLC]]
@@ -28,6 +31,3 @@ socks5://161.97.169.70:60000 [[机房] 英国 英格兰 奧爾德肖特 [ipv6sub
 socks5://136.244.91.103:20000 [[机房] 匈牙利 豪伊杜-比豪爾州 德布勒森 [One Hungary Ltd.]]
 socks5://103.118.17.250:60000 [[机房] 美国 宾夕法尼亚州 费城 [Verizon Business]]
 socks5://193.233.113.170:40000 [[家宽] 爱沙尼亚 哈尔尤县 塔林 [Dynamic Links]]
-socks5://193.233.112.80:60000 [[机房] 美国 田纳西州 阿灵顿 [Verizon Business]]
-socks5://64.52.80.144:40000 [[家宽] 越南 [Viettel Group]]
-socks5://47.252.31.39:40000 [[机房] 巴西 南里奥格兰德州 阿雷格里港 [Renovare Telecom]]
