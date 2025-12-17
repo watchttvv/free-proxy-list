@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2025-12-17 15:40:02
+# 代理列表更新时间: 2025-12-17 16:00:02
 # 总计: 30 个代理
 
+socks5://203.205.3.92:60000 [[机房] 加拿大 曼尼托巴 温尼伯 [Shaw Communications Inc]]
+socks5://180.93.42.199:60010 [[机房] 美国 加州 圣克拉拉 [AT&T Mobility LLC]]
+socks5://103.145.254.235:40000 [[机房] 美国 俄勒冈州 [Verizon Business]]
+socks5://103.118.29.29:60001 [[机房] 德国 巴伐利亚 纽因堡 [Kabel Deutschland Vertrieb und Service GmbH]]
 socks5://154.201.76.128:30021 [[机房] 美国 加州 希斯皮里亚 [Charter Communications LLC]]
 socks5://185.101.35.55:9050 [[机房] 冰岛 首都区 [Icenetworks Ltd.]]
 socks5://178.17.59.45:60000 [[机房] 美国 内华达州 拉斯维加斯 [Cox Communications Inc]]
@@ -27,7 +31,3 @@ socks5://139.99.37.65:60000 [[机房] 荷兰 南荷兰省 海牙 [KPN CM]]
 socks5://8.210.95.166:40001 [[机房] 日本 东京 东京 [BBIX IPv6 Network]]
 socks5://91.107.170.139:60000 [[家宽] 英国 英格兰 伦敦 [Sky UK Limited]]
 socks5://93.127.131.99:60000 [[家宽] 美国 德克萨斯州 科珀斯克里斯蒂 [Spectrum]]
-socks5://88.99.243.177:40000 [[机房] 美国 佛罗里达州 塔拉赫西 [Comcast Cable Communications, LLC]]
-socks5://85.215.165.192:40000 [[机房] 法国 中部大区 奥尔良 [POP ORL]]
-socks5://5.9.52.236:60000 [[机房] 美国 德克萨斯州 休斯顿 [Verizon Business]]
-socks5://167.235.32.106:60030 [[机房] 美国 宾夕法尼亚州 费城 [Comcast Cable Communications, LLC]]
