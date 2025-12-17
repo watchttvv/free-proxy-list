@@ -1,12 +1,14 @@
-# 代理列表更新时间: 2025-12-17 11:20:02
+# 代理列表更新时间: 2025-12-17 11:40:03
 # 总计: 30 个代理
 
+socks5://185.177.239.24:60001 [[机房] 阿联酋 迪拜 迪拜 [Emirates Telecommunications Corporation]]
+socks5://185.177.239.174:60000 [[机房] 巴西 圣保罗 圣保罗 [TELEF�NICA BRASIL S.A]]
 socks5://89.150.34.117:27950 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CLODO CLOUD SERVICE CO. L.L.C]]
 socks5://138.124.90.171:30005 [[机房] 德国 巴登-符腾堡 卡尔斯鲁厄 [Customer miniBNG RMS]]
 socks5://15.235.173.106:60000 [[机房] 巴西 米纳斯吉拉斯州 貝洛奥里藏特 [JustWeb Telecomunicações LTDA]]
 socks5://43.250.54.139:60000 [[机房] 美国 俄亥俄州 [Charter Communications Inc]]
 socks5://139.180.181.27:60000 [[机房] 美国 加州 長灘 [Frontier Communications Corporation]]
-socks5://51.79.219.165:40000 [[机房] 美国 德克萨斯州 奧斯汀 [T-Mobile USA, Inc.]]
+socks5://51.79.219.165:40000 [[家宽] 美国 德克萨斯州 奧斯汀 [T-Mobile USA, Inc.]]
 socks5://51.79.194.83:60000 [[机房] 美国 科罗拉多州 阿瓦達 [Comcast Cable Communications, LLC]]
 socks5://139.99.25.25:40000 [[机房] 乌干达 中央地区 坎帕拉 [Research and Education Network for Uganda]]
 socks5://139.99.37.65:60000 [[机房] 荷兰 南荷兰省 海牙 [KPN CM]]
@@ -29,5 +31,3 @@ socks5://23.95.162.117:40000 [[机房] 美国 佛罗里达州 戴维 [Comcast Ca
 socks5://216.126.237.182:40000 [[家宽] 美国 密苏里州 欧弗兰 [Spectrum]]
 socks5://172.81.130.254:40000 [[机房] 美国 纽约州 纽约 [Verizon Business]]
 socks5://130.94.21.144:40000 [[机房] 法国 [Free SAS]]
-socks5://69.61.84.199:40000 [[机房] 美国 羅德島州 [Verizon Business]]
-socks5://64.94.84.163:60000 [[机房] 美国 明尼苏达州 [Comcast Cable Communications, LLC]]
