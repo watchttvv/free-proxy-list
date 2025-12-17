@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-12-17 13:20:03
+# 代理列表更新时间: 2025-12-17 13:40:02
 # 总计: 30 个代理
 
+socks5://178.17.59.45:60000 [[机房] 美国 内华达州 拉斯维加斯 [Cox Communications Inc]]
+socks5://91.219.239.169:60002 [[机房] 美国 伊利诺伊州 芝加哥 [Comcast Cable Communications, LLC]]
+socks5://95.216.64.181:40001 [[机房] 阿根廷 布宜诺斯艾利斯 布宜诺斯艾利斯 [Telefonica de Argentina]]
 socks5://65.109.101.25:19000 [[机房] 美国 明尼苏达州 [Comcast Cable Communications, LLC]]
 socks5://94.156.170.175:41981 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
 socks5://87.120.107.75:40000 [[机房] 瑞士 图尔高州 阿爾邦 [upc cablecom Residential Internet]]
@@ -28,6 +31,3 @@ socks5://5.9.52.236:60000 [[机房] 美国 德克萨斯州 休斯顿 [Verizon Bu
 socks5://167.235.32.106:60030 [[机房] 美国 宾夕法尼亚州 费城 [Comcast Cable Communications, LLC]]
 socks5://162.55.129.241:40000 [[机房] 印度 比哈尔邦 巴特那 [Reliance Jio Infocomm Limited]]
 socks5://161.97.169.70:60000 [[机房] 英国 英格兰 奧爾德肖特 [ipv6subscriber]]
-socks5://136.244.91.103:20000 [[机房] 匈牙利 豪伊杜-比豪爾州 德布勒森 [One Hungary Ltd.]]
-socks5://103.118.17.250:60000 [[机房] 美国 宾夕法尼亚州 费城 [Verizon Business]]
-socks5://193.233.113.170:40000 [[家宽] 爱沙尼亚 哈尔尤县 塔林 [Dynamic Links]]
