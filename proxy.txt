@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-18 08:40:03
+# 代理列表更新时间: 2025-12-18 09:00:02
 # 总计: 30 个代理
 
+socks5://109.196.164.48:2080 [[机房] 俄罗斯 莫斯科 莫斯科 — Ruvds [MT FINANCE LLC]]
 socks5://203.205.3.92:60000 [[家宽] 加拿大 曼尼托巴 温尼伯 [Shaw Communications Inc]]
 socks5://180.93.42.199:60010 [[家宽] 美国 加州 圣克拉拉 [AT&T Mobility LLC]]
 socks5://103.145.254.235:40000 [[机房] 美国 俄勒冈州 [Verizon Business]]
@@ -30,4 +31,3 @@ socks5://91.107.170.139:60000 [[家宽] 英国 英格兰 伦敦 [Sky UK Limited]
 socks5://88.99.243.177:40000 [[机房] 美国 佛罗里达州 塔拉赫西 [Comcast Cable Communications, LLC]]
 socks5://85.215.165.192:40000 [[机房] 法国 中部大区 奥尔良 [POP ORL]]
 socks5://5.9.52.236:60000 [[机房] 美国 德克萨斯州 休斯顿 [Verizon Business]]
-socks5://167.235.32.106:60030 [[机房] 美国 宾夕法尼亚州 费城 [Comcast Cable Communications, LLC]]
