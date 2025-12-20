@@ -1,8 +1,6 @@
-# 代理列表更新时间: 2025-12-21 03:00:03
+# 代理列表更新时间: 2025-12-21 03:20:03
 # 总计: 30 个代理
 
-socks5://116.167.98.221:2080 [[机房] 美国 加州 东洛杉矶 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
-socks5://129.146.191.205:2080 [[机房] 日本 东京 东京 [ProtonVPN]]
 socks5://125.24.156.113:7080 [[机房] 泰国 那空是贪玛叻府 [TOT Public Company Limited Bangkok]]
 socks5://118.36.249.175:3080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://110.232.85.196:7080 [[机房] 印度尼西亚 楠榜省 班達楠榜 [PT. Media Antar Nusa]]
@@ -31,3 +29,5 @@ socks5://139.99.37.65:60000 [[机房] 荷兰 南荷兰省 海牙 [KPN CM]]
 socks5://91.107.170.139:60000 [[家宽] 英国 英格兰 伦敦 [Sky UK Limited]]
 socks5://88.99.243.177:40000 [[机房] 美国 佛罗里达州 塔拉赫西 [Comcast Cable Communications, LLC]]
 socks5://85.215.165.192:40000 [[机房] 法国 中部大区 奥尔良 [POP ORL]]
+socks5://5.9.52.236:60000 [[机房] 美国 德克萨斯州 休斯顿 [Verizon Business]]
+socks5://167.235.32.106:60030 [[机房] 美国 宾夕法尼亚州 费城 [Comcast Cable Communications, LLC]]
