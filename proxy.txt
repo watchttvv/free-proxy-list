@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-21 23:40:02
+# 代理列表更新时间: 2025-12-22 00:00:03
 # 总计: 30 个代理
 
+socks5://147.45.133.193:5080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb, LLP]]
+socks5://147.189.137.109:5080 [[机房] 美国 北达科他州 [SRT Communications, Inc.]]
 socks5://146.70.147.45:5080 [[机房] 美国 田纳西州 富蘭克林 [United Telephone Company]]
 socks5://144.202.80.8:5080 [[机房] 美国 明尼苏达州 明尼阿波利斯 [US Internet Corp]]
 socks5://141.98.188.201:2080 [[机房] 德国 黑森州 法兰克福 [WorkTitans B.V.]]
@@ -29,5 +31,3 @@ socks5://15.235.173.106:60000 [[机房] 巴西 米纳斯吉拉斯州 貝洛奥�
 socks5://43.250.54.139:60000 [[机房] 美国 俄亥俄州 [Charter Communications Inc]]
 socks5://51.79.219.165:40000 [[家宽] 美国 德克萨斯州 奧斯汀 [T-Mobile USA, Inc.]]
 socks5://51.79.194.83:60000 [[机房] 美国 科罗拉多州 阿瓦達 [Comcast Cable Communications, LLC]]
-socks5://139.99.25.25:40000 [[机房] 乌干达 中央地区 坎帕拉 [Research and Education Network for Uganda]]
-socks5://139.99.37.65:60000 [[机房] 荷兰 南荷兰省 海牙 [KPN CM]]
