@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-23 03:40:03
+# 代理列表更新时间: 2025-12-23 04:00:02
 # 总计: 30 个代理
 
+socks5://176.102.33.215:4080 [[机房] 乌克兰 [PRIVATE JOINT STOCK COMPANY "DATAGROUP"]]
 socks5://172.86.110.187:5080 [[机房] 美国 北卡罗来纳州 [Charter Communications LLC]]
 socks5://147.45.133.193:5080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb, LLP]]
 socks5://147.189.137.109:5080 [[机房] 美国 北达科他州 [SRT Communications, Inc.]]
@@ -30,4 +31,3 @@ socks5://15.235.173.106:60000 [[机房] 巴西 米纳斯吉拉斯州 貝洛奥�
 socks5://43.250.54.139:60000 [[机房] 美国 俄亥俄州 [Charter Communications Inc]]
 socks5://51.79.219.165:40000 [[家宽] 美国 德克萨斯州 奧斯汀 [T-Mobile USA, Inc.]]
 socks5://51.79.194.83:60000 [[机房] 美国 科罗拉多州 阿瓦達 [Comcast Cable Communications, LLC]]
-socks5://139.99.25.25:40000 [[机房] 乌干达 中央地区 坎帕拉 [Research and Education Network for Uganda]]
