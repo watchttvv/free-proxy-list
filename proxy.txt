@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-23 04:00:02
+# 代理列表更新时间: 2025-12-23 04:20:03
 # 总计: 30 个代理
 
+socks5://178.204.176.63:2080 [[机房] 爱沙尼亚 東維魯縣 約赫維 [IPv6 network for hosting services]]
+socks5://178.140.3.56:2080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
 socks5://176.102.33.215:4080 [[机房] 乌克兰 [PRIVATE JOINT STOCK COMPANY "DATAGROUP"]]
 socks5://172.86.110.187:5080 [[机房] 美国 北卡罗来纳州 [Charter Communications LLC]]
 socks5://147.45.133.193:5080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb, LLP]]
@@ -29,5 +31,3 @@ socks5://194.87.31.184:60001 [[家宽] 德国 北莱茵-威斯特法伦州 多�
 socks5://185.177.239.174:60000 [[机房] 巴西 圣保罗 圣保罗 [TELEF�NICA BRASIL S.A]]
 socks5://15.235.173.106:60000 [[机房] 巴西 米纳斯吉拉斯州 貝洛奥里藏特 [JustWeb Telecomunicações LTDA]]
 socks5://43.250.54.139:60000 [[机房] 美国 俄亥俄州 [Charter Communications Inc]]
-socks5://51.79.219.165:40000 [[家宽] 美国 德克萨斯州 奧斯汀 [T-Mobile USA, Inc.]]
-socks5://51.79.194.83:60000 [[机房] 美国 科罗拉多州 阿瓦達 [Comcast Cable Communications, LLC]]
