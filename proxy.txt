@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-12-24 03:00:02
+# 代理列表更新时间: 2025-12-24 03:20:02
 # 总计: 30 个代理
 
 socks5://178.204.176.63:2080 [[机房] 爱沙尼亚 東維魯縣 約赫維 [IPv6 network for hosting services]]
@@ -18,7 +18,6 @@ socks5://110.232.85.196:7080 [[机房] 印度尼西亚 楠榜省 班達楠榜 [P
 socks5://109.73.177.194:7080 [[家宽] 意大利 普利亚 [NETWORK SERVERS]]
 socks5://203.205.3.92:60000 [[家宽] 加拿大 曼尼托巴 温尼伯 [Shaw Communications Inc]]
 socks5://180.93.42.199:60010 [[家宽] 美国 加州 圣克拉拉 [AT&T Mobility LLC]]
-socks5://103.118.29.29:60001 [[机房] 德国 巴伐利亚 纽因堡 [Kabel Deutschland Vertrieb und Service GmbH]]
 socks5://154.201.76.128:30021 [[机房] 美国 加州 希斯皮里亚 [Charter Communications LLC]]
 socks5://185.101.35.55:9050 [[机房] 冰岛 首都区 [Icenetworks Ltd.]]
 socks5://91.219.239.169:60002 [[机房] 美国 伊利诺伊州 芝加哥 [Comcast Cable Communications, LLC]]
@@ -31,3 +30,4 @@ socks5://194.87.31.184:60001 [[家宽] 德国 北莱茵-威斯特法伦州 多�
 socks5://185.177.239.174:60000 [[机房] 巴西 圣保罗 圣保罗 [TELEF�NICA BRASIL S.A]]
 socks5://15.235.173.106:60000 [[机房] 巴西 米纳斯吉拉斯州 貝洛奥里藏特 [JustWeb Telecomunicações LTDA]]
 socks5://43.250.54.139:60000 [[机房] 美国 俄亥俄州 [Charter Communications Inc]]
+socks5://51.79.219.165:40000 [[家宽] 美国 德克萨斯州 奧斯汀 [T-Mobile USA, Inc.]]
