@@ -1,9 +1,7 @@
-# 代理列表更新时间: 2025-12-25 03:00:03
+# 代理列表更新时间: 2025-12-25 03:20:03
 # 总计: 30 个代理
 
-socks5://38.60.238.117:22 [[机房] 美国 新泽西州 锡考克斯 [WorkTitans B.V.]]
 socks5://86.107.168.166:22 [[机房] 荷兰 林堡省 [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
-socks5://212.73.146.141:22 [[机房] 保加利亚 索非亚首都区 索菲亚 [NEW AGE NETWORKS Ltd.]]
 socks5://114.134.184.30:40000 [[机房] 美国 加州 维克多维尔 [Frontier Communications Corporation]]
 socks5://107.172.100.232:40000 [[机房] 美国 加州 圣何塞 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://136.243.109.104:20 [[机房] 美国 德克萨斯州 [Verizon Business]]
@@ -31,3 +29,5 @@ socks5://91.219.239.169:60002 [[机房] 美国 伊利诺伊州 芝加哥 [Comcas
 socks5://95.216.64.181:40001 [[机房] 阿根廷 布宜诺斯艾利斯 布宜诺斯艾利斯 [Telefonica de Argentina]]
 socks5://94.156.170.175:41981 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
 socks5://87.120.107.75:40000 [[机房] 瑞士 图尔高州 阿爾邦 [upc cablecom Residential Internet]]
+socks5://80.249.81.179:9050 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [R0CKET CLOUD 2]]
+socks5://94.103.81.202:40001 [[机房] 西班牙 马德里自治区 马德里 [DIGI SPAIN TELECOM S.L.]]
