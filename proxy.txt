@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2025-12-25 11:00:02
+# 代理列表更新时间: 2025-12-25 11:20:02
 # 总计: 30 个代理
 
+socks5://31.44.247.206:666 [[机房] 奥地利 维也纳州 维也纳 [DE NETCUP KVM VIE]]
+socks5://95.182.98.44:449 [[机房] 法国 法兰西岛大区 巴黎 [CGI GLOBAL LIMITED]]
+socks5://31.58.220.251:449 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CGI GLOBAL LIMITED]]
 socks5://86.107.168.166:22 [[机房] 荷兰 林堡省 [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
 socks5://114.134.184.30:40000 [[机房] 美国 加州 维克多维尔 [Frontier Communications Corporation]]
 socks5://107.172.100.232:40000 [[机房] 美国 加州 圣何塞 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
@@ -28,6 +31,3 @@ socks5://185.101.35.55:9050 [[机房] 冰岛 首都区 [Icenetworks Ltd.]]
 socks5://91.219.239.169:60002 [[机房] 美国 伊利诺伊州 芝加哥 [Comcast Cable Communications, LLC]]
 socks5://95.216.64.181:40001 [[机房] 阿根廷 布宜诺斯艾利斯 布宜诺斯艾利斯 [Telefonica de Argentina]]
 socks5://94.156.170.175:41981 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
-socks5://87.120.107.75:40000 [[机房] 瑞士 图尔高州 阿爾邦 [upc cablecom Residential Internet]]
-socks5://80.249.81.179:9050 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [R0CKET CLOUD 2]]
-socks5://94.103.81.202:40001 [[机房] 西班牙 马德里自治区 马德里 [DIGI SPAIN TELECOM S.L.]]
