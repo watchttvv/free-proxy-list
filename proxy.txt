@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-25 14:40:02
+# 代理列表更新时间: 2025-12-25 15:00:02
 # 总计: 30 个代理
 
+socks5://91.99.20.108:1717 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://194.87.10.65:1234 [[机房] 新加坡 新加坡 新加坡 — JustHost [Baxet]]
 socks5://14.225.70.142:1234 [[机房] 越南 河内 河内市 [Vietnam Posts and Telecommunications Group]]
 socks5://144.31.116.48:1234 [[机房] 德国 黑森州 法兰克福 [Senko Digital Ltd]]
@@ -30,4 +31,3 @@ socks5://109.73.177.194:7080 [[家宽] 意大利 普利亚 [NETWORK SERVERS]]
 socks5://203.205.3.92:60000 [[家宽] 加拿大 曼尼托巴 温尼伯 [Shaw Communications Inc]]
 socks5://180.93.42.199:60010 [[家宽] 美国 加州 圣克拉拉 [AT&T Mobility LLC]]
 socks5://154.201.76.128:30021 [[机房] 美国 加州 希斯皮里亚 [Charter Communications LLC]]
-socks5://185.101.35.55:9050 [[机房] 冰岛 首都区 [Icenetworks Ltd.]]
