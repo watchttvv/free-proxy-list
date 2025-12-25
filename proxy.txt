@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-25 18:00:03
+# 代理列表更新时间: 2025-12-25 18:20:02
 # 总计: 30 个代理
 
+socks5://5.181.0.148:2090 [[机房] 德国 [CIA TRIAD SECURITY LLC]]
 socks5://89.34.219.52:2080 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
 socks5://212.6.44.127:2080 [[机房] 拉脱维亚 里加 里加 — veesp.com [Veesp LV v6 1]]
 socks5://212.113.109.197:2080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [nuxt.cloud hosting provider]]
@@ -30,4 +31,3 @@ socks5://141.195.112.213:3080 [[机房] 加拿大 安大略 多伦多 — JustHo
 socks5://141.105.132.108:2080 [[机房] 乌克兰 敖德萨州 [LIMANET]]
 socks5://125.24.156.113:7080 [[机房] 泰国 那空是贪玛叻府 [TOT Public Company Limited Bangkok]]
 socks5://118.36.249.175:3080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
-socks5://110.232.85.196:7080 [[机房] 印度尼西亚 楠榜省 班達楠榜 [PT. Media Antar Nusa]]
