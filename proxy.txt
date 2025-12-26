@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2025-12-26 11:00:02
+# 代理列表更新时间: 2025-12-26 11:20:02
 # 总计: 30 个代理
 
+socks5://85.9.104.82:3311 [[机房] 伊朗 德黑兰 德黑兰 [Pishgaman Data Center Service]]
 socks5://101.32.126.118:1090 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [16 COLLYER QUAY]]
 socks5://207.58.174.243:1081 [[机房] 美国 弗吉尼亚州 阿什本 [3xK Tech GmbH]]
 socks5://45.81.254.62:40000 [[机房] 德国 巴伐利亚 [Deutsche Telekom AG]]
@@ -30,4 +31,3 @@ socks5://212.113.109.197:2080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [nux
 socks5://109.120.135.230:2030 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://91.99.20.108:1717 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://194.87.10.65:1234 [[机房] 新加坡 新加坡 新加坡 — JustHost [Baxet]]
-socks5://14.225.70.142:1234 [[机房] 越南 河内 河内市 [Vietnam Posts and Telecommunications Group]]
