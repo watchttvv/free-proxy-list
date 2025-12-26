@@ -1,7 +1,6 @@
-# 代理列表更新时间: 2025-12-27 03:00:03
+# 代理列表更新时间: 2025-12-27 03:20:02
 # 总计: 30 个代理
 
-socks5://180.93.35.66:60000 [[机房] 美国 宾夕法尼亚州 费城 [Comcast Cable Communications, LLC]]
 socks5://151.241.30.222:40000 [[机房] 意大利 伦巴第大区 米兰 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://89.42.142.159:5222 [[机房] 荷兰 德伦特省 梅珀尔 [SERVA ONE LTD]]
 socks5://5.180.172.31:5050 [[机房] 芬兰 新地区 赫尔辛基 [NL HOSTKEY 20190329]]
@@ -14,11 +13,9 @@ socks5://94.74.91.27:1081 [[机房] 新加坡 新加坡 新加坡 [Huawei Cloud 
 socks5://102.69.146.59:7080 [[机房] 尼日利亚 拉各斯州 拉哥斯 [IP express saka-tinubu via hyperia]]
 socks5://46.8.158.18:2080 [[机房] 捷克 南摩拉維亞州 [ESA]]
 socks5://129.146.191.205:2080 [[机房] 日本 东京 东京 [ProtonVPN]]
-socks5://78.29.48.69:1080 [[机房] 俄罗斯 车里雅宾斯克州 兹拉托乌斯特 [Intersvyaz-2 JSC]]
 socks5://178.17.59.45:60000 [[机房] 美国 内华达州 拉斯维加斯 [Cox Communications Inc.]]
 socks5://104.37.172.224:5080 [[机房] 美国 纽约州 纽约 [RCN]]
 socks5://68.183.221.160:10002 [[机房] 德国 黑森州 法兰克福 [Cogent Communications, LLC]]
-socks5://103.75.118.84:1080 [[机房] 日本 东京 东京 [Oneprovider.com - Japan Infrastructure]]
 socks5://146.56.50.5:1080 [[机房] 印度 马哈拉施特拉邦 孟买 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://43.128.250.47:4001 [[机房] 日本 东京 东京 — 腾讯云 [ACEVILLE PTE.LTD.]]
 socks5://152.70.56.243:3121 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — 甲骨文云 Oracle [Oracle Corporation]]
@@ -31,3 +28,6 @@ socks5://45.120.178.66:8080 [[机房] 荷兰 德伦特省 梅珀尔 [WorkTitans 
 socks5://38.23.32.115:40003 [[机房] 美国 威斯康辛州 密尔沃基 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://5.181.0.148:2090 [[机房] 德国 [CIA TRIAD SECURITY LLC]]
 socks5://89.34.219.52:2080 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
+socks5://212.6.44.127:2080 [[机房] 拉脱维亚 里加 里加 — veesp.com [Veesp LV v6 1]]
+socks5://212.113.109.197:2080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [nuxt.cloud hosting provider]]
+socks5://109.120.135.230:2030 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
