@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-12-28 03:00:03
+# 代理列表更新时间: 2025-12-28 03:20:03
 # 总计: 30 个代理
 
 socks5://89.42.142.159:5222 [[机房] 荷兰 德伦特省 梅珀尔 [SERVA ONE LTD]]
@@ -17,7 +17,6 @@ socks5://104.37.172.224:5080 [[机房] 美国 纽约州 纽约 [RCN]]
 socks5://68.183.221.160:10002 [[机房] 德国 黑森州 法兰克福 [Cogent Communications, LLC]]
 socks5://43.128.250.47:4001 [[机房] 日本 东京 东京 — 腾讯云 [ACEVILLE PTE.LTD.]]
 socks5://152.70.56.243:3121 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — 甲骨文云 Oracle [Oracle Corporation]]
-socks5://199.38.85.123:40003 [[机房] 美国 威斯康辛州 密尔沃基 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://155.4.68.145:1081 [[家宽] 瑞典 西约特兰省 哥德堡 [Dynamic private network]]
 socks5://98.143.158.230:40001 [[机房] 日本 东京 东京 [Japan Network Information Center]]
 socks5://172.245.135.120:9055 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
@@ -31,3 +30,4 @@ socks5://212.113.109.197:2080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [nux
 socks5://109.120.135.230:2030 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://91.99.20.108:1717 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://194.87.10.65:1234 [[机房] 新加坡 新加坡 新加坡 — JustHost [Baxet]]
+socks5://14.225.70.142:1234 [[机房] 越南 河内 河内市 [Vietnam Posts and Telecommunications Group]]
