@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-28 11:21:17
+# 代理列表更新时间: 2025-12-28 19:40:02
 # 总计: 30 个代理
 
+socks5://65.75.222.191:8010 [[机房] 美国 德克萨斯州 [HostPapa]]
+socks5://185.118.15.102:8010 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://166.108.201.85:7891 [[机房] 新加坡 新加坡 新加坡 [Huawei-Cloud-SG]]
 socks5://103.149.29.13:6868 [[机房] 越南 河内 河内市 [WEBPX SOFTWARE COMPANY LIMITEDCOMPANY]]
 socks5://89.110.83.28:6023 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
@@ -29,5 +31,3 @@ socks5://45.120.178.66:8080 [[机房] 荷兰 德伦特省 梅珀尔 [WorkTitans 
 socks5://38.23.32.115:40003 [[机房] 美国 威斯康辛州 密尔沃基 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://5.181.0.148:2090 [[机房] 德国 [CIA TRIAD SECURITY LLC]]
 socks5://89.34.219.52:2080 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
-socks5://212.6.44.127:2080 [[机房] 拉脱维亚 里加 里加 — veesp.com [Veesp LV v6 1]]
-socks5://212.113.109.197:2080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [nuxt.cloud hosting provider]]
