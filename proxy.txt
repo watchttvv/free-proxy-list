@@ -1,6 +1,13 @@
-# 代理列表更新时间: 2025-12-28 22:20:02
+# 代理列表更新时间: 2025-12-28 22:40:03
 # 总计: 30 个代理
 
+socks5://107.172.86.24:58367 [[机房] 美国 加州 圣克拉拉 — RackNerd [RackNerd LLC]]
+socks5://156.225.28.219:58367 [[机房] 中国 香港 香港 [Vapeline Technology]]
+socks5://72.249.203.164:58367 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
+socks5://116.206.178.219:58367 [[机房] 中国 香港 香港 [Hongkong Wen Jing Network Limited]]
+socks5://176.102.33.215:4080 [[机房] 乌克兰 基辅州 基辅 [PRIVATE JOINT STOCK COMPANY "DATAGROUP"]]
+socks5://103.75.118.84:1080 [[机房] 日本 东京 东京 [Oneprovider.com - Japan Infrastructure]]
+socks5://91.107.170.139:60000 [[机房] 英国 英格兰 [BTBROADBAND-AGG-56]]
 socks5://79.137.196.4:1080 [[机房] 德国 黑森州 法兰克福 [Aeza International LTD]]
 socks5://185.86.126.20:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [INTERCOMTEL PPPoE 6]]
 socks5://111.165.31.247:1080 [[机房] 美国 加州 洛杉矶]
@@ -24,10 +31,3 @@ socks5://84.32.131.177:9080 [[机房] 美国 佛罗里达州 迈阿密 [1337 Ser
 socks5://84.32.131.182:9080 [[机房] 德国 [Artikel10 e.V.]]
 socks5://212.79.125.255:9065 [[机房] 冰岛 首都区 [1984 ehf]]
 socks5://46.166.195.9:1080 [[机房] 俄罗斯 托木斯克州 托木斯克 [JSC Neotelecom]]
-socks5://135.181.46.20:9062 [[机房] 挪威 西福尔郡 桑德尔福德 [GIGAHOST NET]]
-socks5://135.181.34.1:9061 [[机房] 芬兰 新地区 赫尔辛基 [FlokiNET Finland]]
-socks5://135.181.248.47:9061 [[机房] 德国 [CIA TRIAD SECURITY LLC]]
-socks5://5.61.41.21:9051 [[机房] 美国 加州 圣何塞 [Emerald Onion]]
-socks5://91.84.122.60:9050 [[机房] 奥地利 奥地利州 维也纳 [Foundation for Applied Privacy]]
-socks5://2.42.75.145:9050 [[家宽] 荷兰 林堡省 [Pfcloud UG]]
-socks5://85.133.197.91:9050 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
