@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-12-29 03:00:03
+# 代理列表更新时间: 2025-12-29 03:20:03
 # 总计: 30 个代理
 
 socks5://5.189.154.210:1080 [[机房] 法国 大东部大区 — Contabo]
@@ -8,7 +8,6 @@ socks5://85.198.88.121:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 
 socks5://192.229.99.40:58367 [[机房] 越南 胡志明市 胡志明市 [SpeedVM Network Group LLC]]
 socks5://13.209.18.5:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [AWS Asia Pacific (Seoul) Region]]
 socks5://119.28.64.217:58367 [[机房] 中国 香港 香港 — 腾讯云 [Tencent cloud computing (Beijing) Co., Ltd.]]
-socks5://27.76.117.231:1080 [[家宽] 越南 [Viettel Group]]
 socks5://129.146.38.119:58367 [[机房] 美国 亚利桑那州 凤凰城 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://38.12.27.49:58367 [[机房] 美国 加州 圣何塞 [Cogent Communications, LLC]]
 socks5://107.172.86.24:58367 [[机房] 美国 加州 圣克拉拉 — RackNerd [RackNerd LLC]]
@@ -31,3 +30,4 @@ socks5://84.32.25.20:9080 [[机房] 波兰 马佐维亚省 華沙 [1337 Services
 socks5://88.216.68.7:9080 [[机房] 瑞士 巴塞尔城市州 巴塞尔 — BuyVM [BuyVM]]
 socks5://84.32.97.181:9080 [[机房] 法国 上法兰西大区 — OVH [OVH SAS]]
 socks5://84.32.149.79:9080 [[机房] 波兰 马佐维亚省 華沙 [1337 Services GmbH]]
+socks5://84.32.217.87:9080 [[机房] 美国 德克萨斯州 沃思堡 [Quintex Alliance Consulting]]
