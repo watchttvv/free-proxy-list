@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-28 17:20:02
+# 代理列表更新时间: 2025-12-28 17:40:02
 # 总计: 30 个代理
 
+socks5://89.110.83.28:6023 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
+socks5://203.145.46.213:6005 [[机房] 美国 弗吉尼亚州 列治文 [Comcast Cable Communications, LLC]]
 socks5://89.42.142.159:5222 [[机房] 荷兰 德伦特省 梅珀尔 [SERVA ONE LTD]]
 socks5://5.180.172.31:5050 [[机房] 芬兰 新地区 赫尔辛基 [NL HOSTKEY 20190329]]
 socks5://91.99.238.58:4848 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
@@ -29,5 +31,3 @@ socks5://212.6.44.127:2080 [[机房] 拉脱维亚 里加 里加 — veesp.com [V
 socks5://212.113.109.197:2080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [nuxt.cloud hosting provider]]
 socks5://109.120.135.230:2030 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://91.99.20.108:1717 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
-socks5://194.87.10.65:1234 [[机房] 新加坡 新加坡 新加坡 — JustHost [Baxet]]
-socks5://14.225.70.142:1234 [[机房] 越南 河内 河内市 [Vietnam Posts and Telecommunications Group]]
