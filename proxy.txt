@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2025-12-31 03:00:03
+# 代理列表更新时间: 2025-12-31 03:20:02
 # 总计: 30 个代理
 
 socks5://103.118.17.250:60000 [[机房] 美国 加州 阿苏萨 [Verizon Business]]
@@ -18,7 +18,6 @@ socks5://154.12.41.175:12345 [[机房] 美国 加州 洛杉矶 [NetLab Global]]
 socks5://85.9.122.63:12134 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://145.255.239.78:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [MEGABURGER network]]
 socks5://176.214.197.32:10808 [[机房] 德国 黑森州 法兰克福 [Baykov Ilya Sergeevich]]
-socks5://98.143.158.230:40001 [[机房] 日本 东京 东京 [NTT DOCOMO,INC.]]
 socks5://212.113.109.197:2080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [nuxt.cloud hosting provider]]
 socks5://114.134.184.30:40000 [[机房] 美国 马里兰州 [Comcast Cable Communications, LLC]]
 socks5://35.212.146.21:58367 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
@@ -31,3 +30,4 @@ socks5://13.209.18.5:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊�
 socks5://119.28.64.217:58367 [[机房] 中国 香港 香港 — 腾讯云 [Tencent cloud computing (Beijing) Co., Ltd.]]
 socks5://129.146.38.119:58367 [[机房] 美国 亚利桑那州 凤凰城 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://38.12.27.49:58367 [[机房] 美国 加州 圣何塞 [Cogent Communications, LLC]]
+socks5://107.172.86.24:58367 [[机房] 美国 加州 圣克拉拉 — RackNerd [RackNerd LLC]]
