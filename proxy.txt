@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2025-12-30 19:40:03
+# 代理列表更新时间: 2025-12-30 20:00:03
 # 总计: 30 个代理
 
+socks5://154.64.232.9:58367 [[机房] 美国 加州 洛杉矶 [PSINet, Inc.]]
+socks5://172.98.22.105:58367 [[机房] 中国 香港 香港 [MINGAN INC]]
 socks5://45.205.31.196:58367 [[机房] 美国 加州 洛杉矶 [Vapeline Technology]]
 socks5://5.78.106.1:18080 [[家宽] 美国 加州 洛杉矶 [T-Mobile USA, Inc.]]
 socks5://5.188.200.43:18018 [[机房] 爱沙尼亚 哈尔尤县 塔林 [EE BRAINOZA 943]]
@@ -29,5 +31,3 @@ socks5://107.172.86.24:58367 [[机房] 美国 加州 圣克拉拉 — RackNerd [
 socks5://156.225.28.219:58367 [[机房] 中国 香港 香港 [Vapeline Technology]]
 socks5://72.249.203.164:58367 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
 socks5://116.206.178.219:58367 [[机房] 中国 香港 香港 [Hongkong Wen Jing Network Limited]]
-socks5://176.102.33.215:4080 [[机房] 乌克兰 基辅州 基辅 [PRIVATE JOINT STOCK COMPANY "DATAGROUP"]]
-socks5://103.75.118.84:1080 [[机房] 日本 东京 东京 [Oneprovider.com - Japan Infrastructure]]
