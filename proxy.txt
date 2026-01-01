@@ -1,6 +1,13 @@
-# 代理列表更新时间: 2026-01-02 00:00:02
+# 代理列表更新时间: 2026-01-02 00:20:02
 # 总计: 30 个代理
 
+socks5://27.254.83.76:58367 [[机房] 泰国 曼谷 曼谷 [IDC-CBW Customer]]
+socks5://211.76.187.58:58367 [[机房] 中国 台湾 台北市 [Sky Digital Co., Ltd.]]
+socks5://103.236.226.90:58367 [[机房] 中国 台湾 台北市 [Akari Networks]]
+socks5://103.149.91.163:58367 [[机房] 中国 香港 香港 [WEST TECHNOLOGY SERVICES GROUP LIMITED]]
+socks5://154.219.125.240:58367 [[机房] 美国 加州 洛杉矶 [Vapeline Technology]]
+socks5://72.249.203.238:58367 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
+socks5://90.188.224.98:1080 [[机房] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [OJSC "Sibirtelecom"]]
 socks5://35.212.225.54:58367 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
 socks5://38.47.111.246:58367 [[机房] 日本 大阪 大阪市 [VMISS Inc.]]
 socks5://43.153.54.154:58367 [[机房] 美国 加州 圣克拉拉 — 腾讯云 [6 COLLYER QUAY]]
@@ -24,10 +31,3 @@ socks5://88.216.215.141:9080 [[机房] 德国 [Artikel10 e.V.]]
 socks5://88.216.68.91:9080 [[机房] 德国 巴伐利亚 纽伦堡 [F3 Netze e.V.]]
 socks5://84.32.25.53:9080 [[机房] 瑞士 苏黎世 — BuyVM [BuyVM]]
 socks5://88.216.68.12:9080 [[机房] 德国 [Artikel10 e.V.]]
-socks5://88.216.68.25:9080 [[机房] 德国 巴伐利亚 纽伦堡 [F3 Netze e.V.]]
-socks5://88.216.68.10:9080 [[机房] 瑞士 楚格州 [Kantonsschule Zug]]
-socks5://88.216.68.90:9080 [[机房] 瑞士 卢塞恩 [FSIT AG 185 150 28 0]]
-socks5://84.32.25.111:9080 [[机房] 丹麦 首都大区 腓特烈斯贝 [This network includes a Tor servers and we are sorry for any inconvenience, handled by DOTSRC]]
-socks5://84.32.149.21:9080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [KeFF Networks Ltd]]
-socks5://88.216.68.89:9080 [[机房] 德国 黑森州 法兰克福 [Datalix]]
-socks5://84.32.149.17:9080 [[机房] 德国 巴伐利亚州 纽伦堡 [netcup GmbH]]
