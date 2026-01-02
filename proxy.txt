@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-01-02 07:40:02
+# 代理列表更新时间: 2026-01-02 08:00:02
 # 总计: 30 个代理
 
-socks5://46.72.150.220:1080 [[机房] 俄罗斯 利佩茨克州 利佩茨克 [Net By Net Holding LLC]]
-socks5://111.67.103.204:1080 [[机房] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
+socks5://115.197.250.63:1080 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
+socks5://46.72.150.220:1080 [[家宽] 俄罗斯 利佩茨克州 利佩茨克 [Net By Net Holding LLC]]
+socks5://111.67.103.204:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://46.8.69.113:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CGI GLOBAL LIMITED]]
 socks5://46.8.69.128:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CGI GLOBAL LIMITED]]
 socks5://178.57.73.150:1080 [[机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]]
@@ -30,4 +31,3 @@ socks5://167.88.186.207:58367 [[机房] 日本 大阪 大阪市 [2EZ Network Inc
 socks5://38.47.110.194:58367 [[机房] 日本 大阪 大阪市 [VMISS Inc.]]
 socks5://103.115.108.13:1234 [[机房] 中国 台湾 台北市 [TUCD]]
 socks5://222.185.56.22:1197 [[机房] 美国 加州 圣何塞 [xTom]]
-socks5://5.188.78.218:9150 [[家宽] 挪威 西福尔郡 桑德尔福德 [GIGAHOST NET]]
