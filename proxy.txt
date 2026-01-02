@@ -1,8 +1,14 @@
-# 代理列表更新时间: 2026-01-02 22:40:03
+# 代理列表更新时间: 2026-01-02 23:00:03
 # 总计: 30 个代理
 
-socks5://124.248.191.117:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://124.248.174.204:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://135.148.109.168:1080 [[机房] 美国 弗吉尼亚州 阿什本 — OVH [Ihor, Horhul]]
+socks5://82.115.49.147:1080 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [PS Internet Company LLC]]
+socks5://185.158.107.182:1080 [[机房] 法国 法兰西岛大区 巴黎 [HOSTINGER HOSTING]]
+socks5://77.83.198.38:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ NA44]]
+socks5://118.170.1.204:1080 [[机房] 中国 台湾 台中市 [Data Communication Business Group,]]
+socks5://103.137.250.121:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CLODO CLOUD SERVICE CO. L.L.C]]
+socks5://124.248.191.117:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://124.248.174.204:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://35.209.163.238:58367 [[机房] 美国 艾奥瓦州 康瑟尔布拉夫斯 — 谷歌云 GCP [Google LLC]]
 socks5://64.23.146.68:58367 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
 socks5://35.212.158.80:58367 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
@@ -25,9 +31,3 @@ socks5://74.48.24.219:1080 [[机房] 美国 加州 洛杉矶 — Cloudflare CDN 
 socks5://128.90.192.178:1080 [[机房] 菲律宾 国家首都区 奎松城 [Unus, Inc.]]
 socks5://128.90.49.81:1080 [[机房] 新加坡 新加坡 新加坡 [Unus, Inc.]]
 socks5://46.0.205.4:1080 [[家宽] 俄罗斯 萨马拉州 萨马拉 [JSC "ER-Telecom Holding" Samara Branch]]
-socks5://113.180.215.39:1080 [[机房] 越南 胡志明市 胡志明市 [Vietnam Posts and Telecommunications Group]]
-socks5://13.58.222.5:1080 [[机房] 美国 俄亥俄州 哥伦布 — 亚马逊云 Aws [Amazon Technologies Inc.]]
-socks5://79.141.174.23:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [HZ NA30]]
-socks5://94.125.55.14:1080 [[机房] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [REDCOM Broadband Block 3 for flat-rate access]]
-socks5://46.163.182.45:1080 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [Ekaterinburg Customers]]
-socks5://213.108.217.160:1080 [[机房] 挪威 西福尔郡 桑德尔福德 [GIGAHOST V6]]
