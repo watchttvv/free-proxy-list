@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-01-02 08:40:02
+# 代理列表更新时间: 2026-01-02 09:00:03
 # 总计: 30 个代理
 
 socks5://102.0.14.42:1080 [[机房] 肯尼亚 [Allocated to Airtel Kenya Mobile Broadband and Fixed internet]]
