@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-01-02 23:00:03
+# 代理列表更新时间: 2026-01-02 23:20:02
 # 总计: 30 个代理
 
+socks5://3.113.242.88:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
 socks5://135.148.109.168:1080 [[机房] 美国 弗吉尼亚州 阿什本 — OVH [Ihor, Horhul]]
-socks5://82.115.49.147:1080 [[机房] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [PS Internet Company LLC]]
+socks5://82.115.49.147:1080 [[家宽] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [PS Internet Company LLC]]
 socks5://185.158.107.182:1080 [[机房] 法国 法兰西岛大区 巴黎 [HOSTINGER HOSTING]]
 socks5://77.83.198.38:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ NA44]]
 socks5://118.170.1.204:1080 [[机房] 中国 台湾 台中市 [Data Communication Business Group,]]
@@ -30,4 +31,3 @@ socks5://54.193.107.175:1080 [[机房] 美国 加州 圣何塞 — 亚马逊云 
 socks5://74.48.24.219:1080 [[机房] 美国 加州 洛杉矶 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://128.90.192.178:1080 [[机房] 菲律宾 国家首都区 奎松城 [Unus, Inc.]]
 socks5://128.90.49.81:1080 [[机房] 新加坡 新加坡 新加坡 [Unus, Inc.]]
-socks5://46.0.205.4:1080 [[家宽] 俄罗斯 萨马拉州 萨马拉 [JSC "ER-Telecom Holding" Samara Branch]]
