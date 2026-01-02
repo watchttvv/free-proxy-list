@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2026-01-02 09:00:03
+# 代理列表更新时间: 2026-01-02 09:20:03
 # 总计: 30 个代理
 
+socks5://85.235.149.74:1080 [[机房] 意大利 托斯卡纳 阿雷佐 [Aruba S.p.A. - Cloud Services IT3]]
+socks5://103.159.207.118:58367 [[机房] 中国 台湾 台北市 [Taiwan Internet Technology Co., Ltd.]]
+socks5://142.171.157.108:58367 [[机房] 美国 加州 洛杉矶 [MULTACOM CORPORATION]]
+socks5://54.219.26.227:58367 [[机房] 美国 加州 圣何塞 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://102.0.14.42:1080 [[机房] 肯尼亚 [Allocated to Airtel Kenya Mobile Broadband and Fixed internet]]
 socks5://64.227.10.145:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://115.197.250.63:1080 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
@@ -27,7 +31,3 @@ socks5://90.188.224.98:1080 [[家宽] 俄罗斯 伊尔库茨克州 伊爾庫茨�
 socks5://35.212.225.54:58367 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
 socks5://38.47.111.246:58367 [[机房] 日本 大阪 大阪市 [VMISS Inc.]]
 socks5://43.153.54.154:58367 [[机房] 美国 加州 圣克拉拉 — 腾讯云 [6 COLLYER QUAY]]
-socks5://121.141.161.53:1080 [[机房] 韩国 京畿道 京畿道 [Korea Telecom]]
-socks5://38.47.98.139:58367 [[机房] 日本 大阪 大阪市 [VMISS Inc.]]
-socks5://167.88.186.207:58367 [[机房] 日本 大阪 大阪市 [2EZ Network Inc.]]
-socks5://38.47.110.194:58367 [[机房] 日本 大阪 大阪市 [VMISS Inc.]]
