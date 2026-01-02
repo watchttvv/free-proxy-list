@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-02 14:40:02
+# 代理列表更新时间: 2026-01-02 15:00:03
 # 总计: 30 个代理
 
+socks5://94.125.55.14:1080 [[机房] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [REDCOM Broadband Block 3 for flat-rate access]]
 socks5://46.163.182.45:1080 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [Ekaterinburg Customers]]
 socks5://213.108.217.160:1080 [[机房] 挪威 西福尔郡 桑德尔福德 [GIGAHOST V6]]
 socks5://42.115.173.38:1080 [[机房] 越南 胡志明市 胡志明市 [FPT Telecom Company]]
@@ -30,4 +31,3 @@ socks5://54.219.26.227:58367 [[机房] 美国 加州 圣何塞 — 亚马逊云 
 socks5://102.0.14.42:1080 [[机房] 肯尼亚 [Allocated to Airtel Kenya Mobile Broadband and Fixed internet]]
 socks5://64.227.10.145:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://115.197.250.63:1080 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
-socks5://46.72.150.220:1080 [[家宽] 俄罗斯 利佩茨克州 利佩茨克 [Net By Net Holding LLC]]
