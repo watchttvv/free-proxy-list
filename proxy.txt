@@ -1,9 +1,9 @@
-# 代理列表更新时间: 2026-01-02 19:40:02
+# 代理列表更新时间: 2026-01-02 20:00:02
 # 总计: 30 个代理
 
 socks5://13.53.100.205:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 亚马逊云 Aws [Amazon Data Services Sweden]]
 socks5://80.211.136.153:1080 [[机房] 意大利 托斯卡纳 阿雷佐 [Aruba S.p.A. - Cloud Services Farm2]]
-socks5://171.252.128.238:1080 [[机房] 越南 [Viettel Group]]
+socks5://171.252.128.238:1080 [[家宽] 越南 [Viettel Group]]
 socks5://223.166.145.174:1080 [[机房] 中国 香港 香港 [NEWRUI LIMITED]]
 socks5://195.226.192.86:1080 [[机房] 乌克兰 赫梅利尼茨基州 赫梅利尼茨基 [Mulgin Alexander Sergeevich]]
 socks5://38.22.89.152:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
