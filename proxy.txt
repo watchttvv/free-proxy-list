@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-03 05:20:02
+# 代理列表更新时间: 2026-01-03 05:40:03
 # 总计: 30 个代理
 
+socks5://79.105.43.57:1080 [[机房] 俄罗斯 阿穆尔州 海兰泡 [Local infrastructure expansion for DSL (PPPoE)]]
 socks5://212.34.131.104:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://122.231.251.52:1080 [[机房] 中国 香港 香港 — 阿里云 [Alibaba Cloud - HK]]
 socks5://89.44.240.164:1080 [[机房] 伊朗 德黑兰 德黑兰 [Rasaneh Avabarid Private Joint Stock Company]]
@@ -30,4 +31,3 @@ socks5://38.22.89.152:1080 [[机房] 中国 香港 香港 [Cogent Communications
 socks5://35.212.218.13:58367 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
 socks5://85.120.81.108:1080 [[家宽] 摩尔多瓦 基希讷乌市 基希讷乌 [AlexHost SRL]]
 socks5://192.145.31.78:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [Baykov Ilya Sergeevich]]
-socks5://192.145.31.160:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [Baykov Ilya Sergeevich]]
