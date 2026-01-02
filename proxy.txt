@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-02 18:20:03
+# 代理列表更新时间: 2026-01-02 18:40:02
 # 总计: 30 个代理
 
+socks5://195.226.192.86:1080 [[机房] 乌克兰 赫梅利尼茨基州 赫梅利尼茨基 [Mulgin Alexander Sergeevich]]
 socks5://38.22.89.152:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
 socks5://92.127.226.0:1080 [[家宽] 俄罗斯 新西伯利亚州 新西伯利亚 [OJSC "Sibirtelecom"]]
 socks5://35.212.218.13:58367 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
@@ -30,4 +31,3 @@ socks5://103.206.68.232:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Onl
 socks5://103.206.68.241:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://161.35.31.237:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]]
 socks5://38.242.229.138:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
-socks5://107.175.194.166:1080 [[机房] 美国 加州 圣克拉拉 — RackNerd [RackNerd LLC]]
