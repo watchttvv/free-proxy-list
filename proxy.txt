@@ -1,8 +1,8 @@
-# 代理列表更新时间: 2026-01-03 02:40:02
+# 代理列表更新时间: 2026-01-03 03:00:03
 # 总计: 30 个代理
 
-socks5://202.58.16.237:1080 [[机房] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
-socks5://202.58.16.236:1080 [[机房] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
+socks5://202.58.16.237:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
+socks5://202.58.16.236:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://203.198.79.99:1080 [[机房] 中国 香港 香港 [FRENCH INTERNATIONAL SCHOOL]]
 socks5://5.101.229.165:1080 [[机房] 俄罗斯 沃罗涅日州 沃罗涅日 [LLC "Real-net"]]
 socks5://49.13.104.147:1080 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [HOS-720528]]
