@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-02 10:20:02
+# 代理列表更新时间: 2026-01-02 02:38:47
 # 总计: 30 个代理
 
+socks5://194.164.148.249:1080 [[机房] 印度 马哈拉施特拉邦 孟买 [Hostinger Operations, UAB]]
 socks5://142.171.42.229:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [6 COLLYER QUAY]]
 socks5://181.101.33.204:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc.]]
 socks5://181.101.42.93:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc.]]
@@ -30,4 +31,3 @@ socks5://211.76.187.58:58367 [[机房] 中国 台湾 台北市 [Sky Digital Co.,
 socks5://103.236.226.90:58367 [[机房] 中国 台湾 台北市 [Akari Networks]]
 socks5://103.149.91.163:58367 [[机房] 中国 香港 香港 [WEST TECHNOLOGY SERVICES GROUP LIMITED]]
 socks5://154.219.125.240:58367 [[机房] 美国 加州 洛杉矶 [Vapeline Technology]]
-socks5://72.249.203.238:58367 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
