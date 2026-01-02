@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-02 19:00:03
+# 代理列表更新时间: 2026-01-02 19:20:02
 # 总计: 30 个代理
 
+socks5://171.252.128.238:1080 [[机房] 越南 [Viettel Group]]
 socks5://223.166.145.174:1080 [[机房] 中国 香港 香港 [NEWRUI LIMITED]]
 socks5://195.226.192.86:1080 [[机房] 乌克兰 赫梅利尼茨基州 赫梅利尼茨基 [Mulgin Alexander Sergeevich]]
 socks5://38.22.89.152:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
@@ -30,4 +31,3 @@ socks5://45.196.234.28:1080 [[机房] 中国 香港 香港 [NET6-AS61112]]
 socks5://77.73.235.120:1080 [[机房] 拉脱维亚 里加 里加 [Beget LLC]]
 socks5://103.206.68.232:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://103.206.68.241:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://161.35.31.237:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]]
