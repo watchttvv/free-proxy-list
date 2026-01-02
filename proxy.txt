@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-02 11:20:02
+# 代理列表更新时间: 2026-01-02 11:40:02
 # 总计: 30 个代理
 
+socks5://107.175.194.166:1080 [[机房] 美国 加州 圣克拉拉 — RackNerd [RackNerd LLC]]
 socks5://202.62.55.95:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://46.233.249.60:1080 [[家宽] 俄罗斯 鄂木斯克州 鄂木斯克 [Omskie kabelnye seti Ltd.]]
 socks5://194.226.139.32:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
@@ -30,4 +31,3 @@ socks5://178.248.75.33:1080 [[机房] 拉脱维亚 里加 里加 [SERVA ONE LTD]
 socks5://87.106.161.132:1080 [[机房] 德国 [IONOS SE]]
 socks5://80.66.89.37:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [SERV.HOST GROUP LTD]]
 socks5://172.233.143.23:1080 [[机房] 美国 加州 洛杉矶 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
-socks5://27.254.83.76:58367 [[机房] 泰国 曼谷 曼谷 [IDC-CBW Customer]]
