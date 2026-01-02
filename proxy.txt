@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2026-01-02 10:40:03
+# 代理列表更新时间: 2026-01-02 11:00:02
 # 总计: 30 个代理
 
+socks5://202.62.55.95:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://46.233.249.60:1080 [[机房] 俄罗斯 鄂木斯克州 鄂木斯克 [Omskie kabelnye seti Ltd.]]
+socks5://194.226.139.32:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
+socks5://77.246.109.246:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://194.164.148.249:1080 [[机房] 印度 马哈拉施特拉邦 孟买 [Hostinger Operations, UAB]]
 socks5://142.171.42.229:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [6 COLLYER QUAY]]
 socks5://181.101.33.204:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc.]]
@@ -27,7 +31,3 @@ socks5://87.106.161.132:1080 [[机房] 德国 [IONOS SE]]
 socks5://80.66.89.37:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [SERV.HOST GROUP LTD]]
 socks5://172.233.143.23:1080 [[机房] 美国 加州 洛杉矶 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://27.254.83.76:58367 [[机房] 泰国 曼谷 曼谷 [IDC-CBW Customer]]
-socks5://211.76.187.58:58367 [[机房] 中国 台湾 台北市 [Sky Digital Co., Ltd.]]
-socks5://103.236.226.90:58367 [[机房] 中国 台湾 台北市 [Akari Networks]]
-socks5://103.149.91.163:58367 [[机房] 中国 香港 香港 [WEST TECHNOLOGY SERVICES GROUP LIMITED]]
-socks5://154.219.125.240:58367 [[机房] 美国 加州 洛杉矶 [Vapeline Technology]]
