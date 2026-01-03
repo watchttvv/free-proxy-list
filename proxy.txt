@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-03 12:20:02
+# 代理列表更新时间: 2026-01-03 12:40:03
 # 总计: 30 个代理
 
+socks5://54.193.104.227:1080 [[机房] 美国 加州 圣何塞 — 亚马逊云 Aws [Amazon.com, Inc.]]
+socks5://54.193.105.202:1080 [[机房] 美国 加州 圣何塞 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://95.165.4.234:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [Moscow Local Telephone Network (OAO MGTS)]]
 socks5://183.97.48.69:1080 [[机房] 韩国 京畿道 [Korea Telecom]]
 socks5://195.14.26.115:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
@@ -29,5 +31,3 @@ socks5://185.158.107.182:1080 [[机房] 法国 法兰西岛大区 巴黎 [HOSTIN
 socks5://77.83.198.38:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ NA44]]
 socks5://118.170.1.204:1080 [[机房] 中国 台湾 台中市 [Data Communication Business Group,]]
 socks5://124.248.191.117:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://124.248.174.204:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://35.209.163.238:58367 [[机房] 美国 艾奥瓦州 康瑟尔布拉夫斯 — 谷歌云 GCP [Google LLC]]
