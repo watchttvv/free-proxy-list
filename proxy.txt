@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-03 20:40:02
+# 代理列表更新时间: 2026-01-03 21:00:02
 # 总计: 30 个代理
 
+socks5://109.248.250.25:1080 [[机房] 俄罗斯 新西伯利亚州 新西伯利亚 [Krek Ltd.]]
+socks5://109.94.68.195:1080 [[机房] 俄罗斯 特维尔州 [Annet Ltd.]]
+socks5://109.94.67.250:1080 [[机房] 俄罗斯 特维尔州 [Annet Ltd.]]
 socks5://202.181.24.189:58367 [[机房] 中国 香港 香港 [Converged Communications Limited]]
 socks5://103.150.206.77:1080 [[家宽] 巴基斯坦 旁遮普省 [New Pakistan Cable Network]]
 socks5://188.235.107.47:1080 [[机房] 俄罗斯 利佩茨克州 利佩茨克 [JSC "ER-Telecom Holding" Lipetsk Branch]]
@@ -28,6 +31,3 @@ socks5://206.123.137.247:1080 [[机房] 德国 黑森州 法兰克福 [Secure In
 socks5://54.193.104.227:1080 [[机房] 美国 加州 圣何塞 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://54.193.105.202:1080 [[机房] 美国 加州 圣何塞 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://95.165.4.234:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [Moscow Local Telephone Network (OAO MGTS)]]
-socks5://183.97.48.69:1080 [[机房] 韩国 京畿道 [Korea Telecom]]
-socks5://195.14.26.115:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
-socks5://193.233.254.7:1080 [[机房] 德国 黑森州 法兰克福 [WAIcore Ltd]]
