@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-01-03 14:00:02
+# 代理列表更新时间: 2026-01-03 14:20:03
 # 总计: 30 个代理
 
+socks5://68.183.184.175:1080 [[机房] 新加坡 新加坡 新加坡 — DigitalOcean [DigitalOcean, LLC]]
 socks5://68.183.48.92:1080 [[机房] 美国 新泽西州 克利夫顿 — DigitalOcean [DigitalOcean, LLC]]
-socks5://203.223.35.88:1080 [[机房] 柬埔寨 金边 金边 [Telecom Cambodia (T.C.)]]
+socks5://203.223.35.88:1080 [[家宽] 柬埔寨 金边 金边 [Telecom Cambodia (T.C.)]]
 socks5://94.156.236.221:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [Baykov Ilya Sergeevich]]
 socks5://5.100.121.247:1080 [[家宽] 俄罗斯 滨海边疆区 海参崴 [Vladlink LLC]]
 socks5://206.123.137.247:1080 [[机房] 德国 黑森州 法兰克福 [Secure Internet LLC ME]]
@@ -30,4 +31,3 @@ socks5://203.198.79.99:1080 [[机房] 中国 香港 香港 [FRENCH INTERNATIONAL
 socks5://5.101.229.165:1080 [[机房] 俄罗斯 沃罗涅日州 沃罗涅日 [LLC "Real-net"]]
 socks5://49.13.104.147:1080 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [HOS-720528]]
 socks5://137.220.48.4:1080 [[机房] 美国 德克萨斯州 达拉斯 — Vultr [Vultr Holdings, LLC]]
-socks5://3.113.242.88:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
