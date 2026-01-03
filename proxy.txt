@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-03 15:40:02
+# 代理列表更新时间: 2026-01-03 16:00:02
 # 总计: 30 个代理
 
+socks5://95.152.23.145:1080 [[机房] 俄罗斯 奔萨州 奔萨 [PJSC Rostelecom, Penza branch]]
 socks5://212.193.3.103:1080 [[机房] 德国 巴伐利亚 纽伦堡 [Advin Services LLC]]
 socks5://185.209.29.226:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS Hosting]]
 socks5://68.183.184.175:1080 [[机房] 新加坡 新加坡 新加坡 — DigitalOcean [DigitalOcean, LLC]]
@@ -30,4 +31,3 @@ socks5://89.44.240.165:1080 [[机房] 伊朗 德黑兰 德黑兰 [Rasaneh Avabar
 socks5://202.58.16.237:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://202.58.16.236:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://203.198.79.99:1080 [[机房] 中国 香港 香港 [FRENCH INTERNATIONAL SCHOOL]]
-socks5://5.101.229.165:1080 [[机房] 俄罗斯 沃罗涅日州 沃罗涅日 [LLC "Real-net"]]
