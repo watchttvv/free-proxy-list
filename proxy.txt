@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-05 05:20:02
+# 代理列表更新时间: 2026-01-05 05:40:02
 # 总计: 30 个代理
 
+socks5://27.10.194.68:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
 socks5://2.58.172.126:1080 [[机房] 英国 英格兰 伦敦 [Internet Utilities Europe and Asia Limited]]
 socks5://95.237.219.72:1080 [[家宽] 意大利 阿布鲁佐 [Telecom Italia S.p.A.]]
 socks5://195.250.25.18:1080 [[家宽] 美国 德克萨斯州 达拉斯 [WHG Hosting Services Ltd]]
@@ -30,4 +31,3 @@ socks5://103.197.242.78:1080 [[家宽] 柬埔寨 柴楨省 [Cogetel Ltd, Online 
 socks5://103.197.243.124:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://103.197.188.63:1080 [[机房] 印度尼西亚 西爪哇省 Depok — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://116.110.241.172:1080 [[家宽] 越南 岘港 岘港 [Viettel Group]]
-socks5://34.118.50.183:1080 [[机房] 波兰 马佐维亚省 華沙 — 谷歌云 GCP [Google LLC]]
