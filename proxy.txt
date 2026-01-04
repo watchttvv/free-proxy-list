@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-04 17:20:03
+# 代理列表更新时间: 2026-01-04 17:40:02
 # 总计: 30 个代理
 
+socks5://34.243.190.187:1080 [[机房] 爱尔兰 伦斯特省 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]]
+socks5://16.162.24.167:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
+socks5://16.162.58.146:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://27.12.109.57:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
 socks5://194.233.73.220:1080 [[机房] 新加坡 新加坡 新加坡 — Contabo [Contabo Asia Private Limited]]
 socks5://82.146.39.75:1080 [[机房] 俄罗斯 莫斯科州 巴拉希哈 [JSC Datacenter]]
@@ -28,6 +31,3 @@ socks5://45.61.50.247:9055 [[机房] 德国 黑森州 法兰克福 [MAXKO Hostin
 socks5://113.30.150.160:9055 [[机房] 德国 黑森州 奥芬巴赫 [IP One GmbH]]
 socks5://13.58.222.5:1080 [[机房] 美国 俄亥俄州 哥伦布 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://141.105.132.108:2080 [[机房] 乌克兰 敖德萨州 [LIMANET]]
-socks5://5.61.41.21:9051 [[机房] 美国 加州 圣何塞 [Emerald Onion]]
-socks5://72.249.203.164:58367 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
-socks5://43.128.141.102:1080 [[机房] 韩国 首尔特别市 首尔特别市 — 腾讯云 [6 COLLYER QUAY]]
