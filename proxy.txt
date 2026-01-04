@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-04 18:40:03
+# 代理列表更新时间: 2026-01-04 19:00:02
 # 总计: 30 个代理
 
-socks5://195.239.17.185:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [111250 Russia Moscow SOVINTEL/EDN]]
+socks5://195.239.17.185:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [111250 Russia Moscow SOVINTEL/EDN]]
 socks5://34.243.190.187:1080 [[机房] 爱尔兰 伦斯特省 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]]
 socks5://16.162.24.167:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://16.162.58.146:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
