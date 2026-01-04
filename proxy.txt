@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-04 11:20:33
+# 代理列表更新时间: 2026-01-04 19:40:02
 # 总计: 30 个代理
 
+socks5://34.118.50.183:1080 [[机房] 波兰 马佐维亚省 華沙 — 谷歌云 GCP [Google LLC]]
 socks5://195.239.17.185:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [111250 Russia Moscow SOVINTEL/EDN]]
 socks5://34.243.190.187:1080 [[机房] 爱尔兰 伦斯特省 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]]
 socks5://16.162.24.167:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
@@ -30,4 +31,3 @@ socks5://194.37.80.55:9055 [[机房] 保加利亚 索非亚首都区 索菲亚 [
 socks5://185.247.116.239:9055 [[机房] 罗马尼亚 [TIPZOR MEDIA SRL]]
 socks5://45.61.50.247:9055 [[机房] 德国 黑森州 法兰克福 [MAXKO Hosting]]
 socks5://113.30.150.160:9055 [[机房] 德国 黑森州 奥芬巴赫 [IP One GmbH]]
-socks5://13.58.222.5:1080 [[机房] 美国 俄亥俄州 哥伦布 — 亚马逊云 Aws [Amazon Technologies Inc.]]
