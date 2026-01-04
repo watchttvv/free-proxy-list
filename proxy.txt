@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-05 01:40:03
+# 代理列表更新时间: 2026-01-05 02:00:02
 # 总计: 30 个代理
 
+socks5://193.47.60.119:52681 [[机房] 芬兰 新地区 赫尔辛基 [Baykov Ilya Sergeevich]]
+socks5://91.107.177.100:52324 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
+socks5://90.188.112.178:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [HOSTKEY B.V.]]
 socks5://204.16.174.116:1080 [[机房] 美国 弗吉尼亚州 阿什本 [CHANGEIP COM]]
 socks5://203.160.55.212:1080 [[机房] 日本 东京 东京 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
 socks5://103.98.77.180:1080 [[机房] 孟加拉国 达卡专区 达卡 [Sam IT Park]]
@@ -28,6 +31,3 @@ socks5://34.118.50.183:1080 [[机房] 波兰 马佐维亚省 華沙 — 谷歌�
 socks5://195.239.17.185:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [111250 Russia Moscow SOVINTEL/EDN]]
 socks5://34.243.190.187:1080 [[机房] 爱尔兰 伦斯特省 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]]
 socks5://16.162.24.167:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
-socks5://16.162.58.146:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
-socks5://27.12.109.57:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
-socks5://194.233.73.220:1080 [[机房] 新加坡 新加坡 新加坡 — Contabo [Contabo Asia Private Limited]]
