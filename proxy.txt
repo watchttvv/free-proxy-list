@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-06 00:00:02
+# 代理列表更新时间: 2026-01-06 00:20:02
 # 总计: 30 个代理
 
+socks5://45.119.99.163:50161 [[机房] 中国 香港 香港 [SonderCloud Limited]]
 socks5://92.241.125.147:1080 [[家宽] 俄罗斯 [Smoltelecom PPPoE (dynamic IPs for Citycomm, pool #1)]]
 socks5://45.155.204.183:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 ["Cloud Technologies" LLC trading as Cloud.ru]]
 socks5://154.12.30.173:50161 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
@@ -30,4 +31,3 @@ socks5://185.202.236.78:1080 [[机房] 法国 大东部大区 — Contabo [Conta
 socks5://27.10.194.68:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
 socks5://2.58.172.126:1080 [[机房] 英国 英格兰 伦敦 [Internet Utilities Europe and Asia Limited]]
 socks5://95.237.219.72:1080 [[家宽] 意大利 阿布鲁佐 [Telecom Italia S.p.A.]]
-socks5://195.250.25.18:1080 [[家宽] 美国 德克萨斯州 达拉斯 [WHG Hosting Services Ltd]]
