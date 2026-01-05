@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-05 18:40:03
+# 代理列表更新时间: 2026-01-05 19:00:02
 # 总计: 30 个代理
 
-socks5://185.35.193.38:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Novorossiisk broadband network]]
+socks5://185.35.193.38:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [Novorossiisk broadband network]]
 socks5://153.34.12.118:1080 [[家宽] 日本 东京 [Stars Flying Inc]]
 socks5://195.201.136.188:1080 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://192.109.225.58:1080 [[家宽] 俄罗斯 布良斯克州 [GTSYSTEMS NET]]
