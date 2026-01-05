@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-05 18:00:02
+# 代理列表更新时间: 2026-01-05 18:20:02
 # 总计: 30 个代理
 
+socks5://185.35.193.38:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Novorossiisk broadband network]]
 socks5://153.34.12.118:1080 [[家宽] 日本 东京 [Stars Flying Inc]]
 socks5://195.201.136.188:1080 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://192.109.225.58:1080 [[家宽] 俄罗斯 布良斯克州 [GTSYSTEMS NET]]
@@ -30,4 +31,3 @@ socks5://193.47.60.119:52681 [[机房] 芬兰 新地区 赫尔辛基 [Baykov Ily
 socks5://91.107.177.100:52324 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://90.188.112.178:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [HOSTKEY B.V.]]
 socks5://204.16.174.116:1080 [[机房] 美国 弗吉尼亚州 阿什本 [CHANGEIP COM]]
-socks5://203.160.55.212:1080 [[机房] 日本 东京 东京 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
