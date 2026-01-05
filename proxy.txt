@@ -1,9 +1,10 @@
-# 代理列表更新时间: 2026-01-06 03:40:02
+# 代理列表更新时间: 2026-01-06 04:00:03
 # 总计: 30 个代理
 
+socks5://103.76.84.198:1080 [[机房] 日本 东京 东京 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
 socks5://107.149.129.215:1080 [[机房] 泰国 暖武里府 暖武里府直辖县 [ReadyIDC Co., Ltd.]]
 socks5://65.108.48.189:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
-socks5://95.165.25.176:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Moscow Local Telephone Network (OAO MGTS)]]
+socks5://95.165.25.176:1080 [[家宽] 俄罗斯 莫斯科 莫斯科 [Moscow Local Telephone Network (OAO MGTS)]]
 socks5://94.75.181.155:1080 [[家宽] 俄罗斯 布良斯克州 [PJSC Rostelecom, Bryansk branch]]
 socks5://31.207.248.245:1080 [[机房] 俄罗斯 车里雅宾斯克州 车里雅宾斯克 [Intersvyaz-2 JSC]]
 socks5://104.248.160.228:1080 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
@@ -30,4 +31,3 @@ socks5://208.72.153.59:1080 [[机房] 美国 夏威夷州 檀香山 — Vultr [T
 socks5://64.188.124.97:1080 [[机房] 德国 黑森州 法兰克福 [u1host ltd]]
 socks5://64.188.90.224:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [SERV.HOST GROUP LTD]]
 socks5://13.215.24.16:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
-socks5://13.215.200.134:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
