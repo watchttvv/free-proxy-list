@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-06 00:40:02
+# 代理列表更新时间: 2026-01-06 01:00:03
 # 总计: 30 个代理
 
+socks5://104.248.160.228:1080 [[机房] 英国 英格兰 伦敦 — DigitalOcean [DigitalOcean, LLC]]
+socks5://104.248.197.67:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
+socks5://188.166.211.102:1080 [[机房] 新加坡 新加坡 新加坡 — DigitalOcean [DIGITALOCEAN]]
 socks5://45.119.99.163:50161 [[机房] 中国 香港 香港 [SonderCloud Limited]]
 socks5://92.241.125.147:1080 [[家宽] 俄罗斯 [Smoltelecom PPPoE (dynamic IPs for Citycomm, pool #1)]]
 socks5://45.155.204.183:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 ["Cloud Technologies" LLC trading as Cloud.ru]]
@@ -28,6 +31,3 @@ socks5://64.188.90.224:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [SERV.HOST G
 socks5://13.215.24.16:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
 socks5://13.215.200.134:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
 socks5://185.202.236.78:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
-socks5://27.10.194.68:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
-socks5://2.58.172.126:1080 [[机房] 英国 英格兰 伦敦 [Internet Utilities Europe and Asia Limited]]
-socks5://95.237.219.72:1080 [[家宽] 意大利 阿布鲁佐 [Telecom Italia S.p.A.]]
