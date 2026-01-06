@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2026-01-07 02:40:03
+# 代理列表更新时间: 2026-01-07 03:00:02
 # 总计: 30 个代理
 
+socks5://82.199.134.146:1080 [[家宽] 德国 巴伐利亚 纽伦堡 [Schnellno]]
+socks5://82.199.134.145:1080 [[家宽] 德国 巴伐利亚 纽伦堡 [Schnellno]]
+socks5://82.199.134.148:1080 [[家宽] 德国 巴伐利亚 纽伦堡 [Schnellno]]
+socks5://80.237.103.83:1080 [[家宽] 俄罗斯 伊万诺沃州 [(YA000344) IRTEK,]]
 socks5://51.161.119.73:50161 [[机房] 加拿大 魁北克省 博阿努瓦 — OVH [OVH Hosting, Inc.]]
 socks5://74.48.52.131:50161 [[机房] 美国 加州 洛杉矶 [MULTACOM CORPORATION]]
 socks5://208.98.39.94:50161 [[机房] 美国 加州 洛杉矶 [Sharktech]]
@@ -27,7 +31,3 @@ socks5://185.44.66.8:1080 [[机房] 美国 纽约州 纽约 [MassiveGRID]]
 socks5://198.199.76.11:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://87.255.245.105:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [NTERCOMTEL Limited Company]]
 socks5://186.90.85.42:1080 [[机房] 委内瑞拉 玻利瓦尔省 圭亞那城 [CANTV Servicios, Venezuela]]
-socks5://103.100.170.234:1080 [[家宽] 中国 香港 香港 [IPv4 Superhub Limited]]
-socks5://185.40.86.232:1080 [[机房] 波兰 马佐维亚省 華沙 [HZ Hosting Ltd]]
-socks5://103.197.243.244:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://103.119.97.241:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
