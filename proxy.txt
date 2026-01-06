@@ -1,7 +1,8 @@
-# 代理列表更新时间: 2026-01-06 09:00:03
+# 代理列表更新时间: 2026-01-06 09:20:02
 # 总计: 30 个代理
 
-socks5://103.197.243.244:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://185.40.86.232:1080 [[机房] 波兰 马佐维亚省 華沙 [HZ Hosting Ltd]]
+socks5://103.197.243.244:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://103.119.97.241:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
 socks5://52.221.203.249:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
@@ -30,4 +31,3 @@ socks5://45.87.43.72:54321 [[机房] 保加利亚 索非亚首都区 索菲亚 [
 socks5://193.232.178.37:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [AEZA NETWORK STOCKHOLM]]
 socks5://216.144.229.238:1080 [[机房] 美国 纽约州 水牛城 [HostPapa]]
 socks5://91.84.117.71:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [R0CKET CLOUD 2]]
-socks5://64.49.46.146:1080 [[机房] 中国 香港 香港 [ISIF Network (Hong Kong)]]
