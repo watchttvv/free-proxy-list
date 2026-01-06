@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-06 12:20:03
+# 代理列表更新时间: 2026-01-06 12:40:03
 # 总计: 30 个代理
 
+socks5://185.44.66.9:1080 [[机房] 美国 纽约州 纽约 [MassiveGRID]]
+socks5://185.44.66.8:1080 [[机房] 美国 纽约州 纽约 [MassiveGRID]]
 socks5://198.199.76.11:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://87.255.245.105:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [NTERCOMTEL Limited Company]]
 socks5://186.90.85.42:1080 [[机房] 委内瑞拉 玻利瓦尔省 圭亞那城 [CANTV Servicios, Venezuela]]
@@ -29,5 +31,3 @@ socks5://153.34.12.118:1080 [[家宽] 日本 东京 [Stars Flying Inc]]
 socks5://195.201.136.188:1080 [[机房] 德国 巴伐利亚 纽伦堡 — Hetzner [Hetzner Online GmbH]]
 socks5://192.109.225.58:1080 [[家宽] 俄罗斯 布良斯克州 [GTSYSTEMS NET]]
 socks5://137.184.35.83:1080 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
-socks5://165.101.28.81:50161 [[机房] 中国 台湾 桃园市 [Sky Digital Co., Ltd.]]
-socks5://149.104.11.180:50161 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL PTE. LTD.]]
