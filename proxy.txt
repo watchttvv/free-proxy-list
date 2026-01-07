@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-07 09:40:03
+# 代理列表更新时间: 2026-01-07 10:00:02
 # 总计: 30 个代理
 
+socks5://89.150.40.216:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ Hosting Ltd]]
+socks5://89.150.40.28:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ Hosting Ltd]]
 socks5://217.79.189.232:58000 [[机房] 芬兰 新地区 赫尔辛基 [InterLIR-Marketplace]]
 socks5://178.16.140.119:1080 [[机房] 美国 亚利桑那州 凤凰城 [HOSTINGER HOSTING]]
 socks5://188.68.31.199:1080 [[家宽] 俄罗斯 雅罗斯拉夫尔州 雷宾斯克 [AtelRybinsk IPOE]]
@@ -29,5 +31,3 @@ socks5://114.66.54.14:1080 [[机房] 中国 台湾 彰化县 [Akari Networks (Ta
 socks5://143.198.90.156:9999 [[机房] 奥地利 奥地利州 维也纳 [Foundation for Applied Privacy]]
 socks5://109.120.133.253:9999 [[机房] 德国 柏林 柏林 [Artikel10 e.V.]]
 socks5://138.2.180.155:1080 [[机房] 德国 黑森州 法兰克福 — 甲骨文云 Oracle [Oracle Corporation]]
-socks5://175.100.35.84:1080 [[家宽] 柬埔寨 金边 金边 [VIETTEL (CAMBODIA) PTE., LTD.]]
-socks5://154.197.69.137:1080 [[机房] 泰国 曼谷 曼谷 [NZ Network Enterprise CO.,LTD.]]
