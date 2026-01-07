@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-01-07 11:40:02
+# 代理列表更新时间: 2026-01-07 12:00:02
 # 总计: 30 个代理
 
-socks5://91.185.44.149:1080 [[机房] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [PPPoE clients Network]]
-socks5://91.185.33.122:1080 [[机房] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [ADSL in Angrask, Irkutsk]]
+socks5://3.18.21.171:1080 [[机房] 美国 俄亥俄州 哥伦布 — 亚马逊云 Aws [Amazon.com, Inc.]]
+socks5://91.185.44.149:1080 [[家宽] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [PPPoE clients Network]]
+socks5://91.185.33.122:1080 [[家宽] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [ADSL in Angrask, Irkutsk]]
 socks5://84.21.172.174:1080 [[机房] 拉脱维亚 里加 里加 [Baykov Ilya Sergeevich]]
 socks5://89.150.40.216:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ Hosting Ltd]]
 socks5://89.150.40.28:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ Hosting Ltd]]
@@ -30,4 +31,3 @@ socks5://205.172.56.214:1080 [[机房] 美国 纽约州 纽约 [HOSTKEY]]
 socks5://95.217.208.119:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
 socks5://137.131.202.67:50161 [[机房] 巴西 圣保罗 圣保罗 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://37.32.10.238:1080 [[机房] 伊朗 德黑兰 德黑兰 [Noyan Abr Arvan Co. ( Private Joint Stock)]]
-socks5://114.66.54.14:1080 [[机房] 中国 台湾 彰化县 [Akari Networks (Taipei)]]
