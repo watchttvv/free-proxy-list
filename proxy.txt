@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-07 11:20:02
+# 代理列表更新时间: 2026-01-07 11:40:02
 # 总计: 30 个代理
 
+socks5://91.185.44.149:1080 [[机房] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [PPPoE clients Network]]
+socks5://91.185.33.122:1080 [[机房] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [ADSL in Angrask, Irkutsk]]
+socks5://84.21.172.174:1080 [[机房] 拉脱维亚 里加 里加 [Baykov Ilya Sergeevich]]
 socks5://89.150.40.216:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ Hosting Ltd]]
 socks5://89.150.40.28:1080 [[机房] 爱沙尼亚 哈尔尤县 塔林 [HZ Hosting Ltd]]
 socks5://217.79.189.232:58000 [[机房] 芬兰 新地区 赫尔辛基 [InterLIR-Marketplace]]
@@ -28,6 +31,3 @@ socks5://95.217.208.119:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner
 socks5://137.131.202.67:50161 [[机房] 巴西 圣保罗 圣保罗 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://37.32.10.238:1080 [[机房] 伊朗 德黑兰 德黑兰 [Noyan Abr Arvan Co. ( Private Joint Stock)]]
 socks5://114.66.54.14:1080 [[机房] 中国 台湾 彰化县 [Akari Networks (Taipei)]]
-socks5://143.198.90.156:9999 [[机房] 奥地利 奥地利州 维也纳 [Foundation for Applied Privacy]]
-socks5://109.120.133.253:9999 [[机房] 德国 柏林 柏林 [Artikel10 e.V.]]
-socks5://138.2.180.155:1080 [[机房] 德国 黑森州 法兰克福 — 甲骨文云 Oracle [Oracle Corporation]]
