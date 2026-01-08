@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-09 02:00:03
+# 代理列表更新时间: 2026-01-09 02:20:03
 # 总计: 30 个代理
 
+socks5://51.81.77.146:1080 [[机房] 美国 弗吉尼亚州 — OVH [OVH US LLC]]
 socks5://38.102.84.147:1080 [[机房] 加拿大 魁北克省 蒙特利尔 — servarica [Rica Web Services]]
 socks5://44.208.161.10:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
 socks5://129.212.140.134:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]]
@@ -30,4 +31,3 @@ socks5://84.32.217.96:9092 [[机房] 德国 柏林 柏林 [CIA TRIAD SECURITY LL
 socks5://113.180.215.2:1080 [[机房] 越南 胡志明市 [Vietnam Posts and Telecommunications Group]]
 socks5://185.163.204.154:60000 [[机房] 美国 康乃狄克州 哈特福德 [Comcast Cable Communications, LLC]]
 socks5://95.217.15.141:9080 [[机房] 奥地利 奥地利州 维也纳 [Foundation for Applied Privacy]]
-socks5://65.108.24.107:40000 [[机房] 中国 香港 香港 [Hong Kong Broadband Network Limited]]
