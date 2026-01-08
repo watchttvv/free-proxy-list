@@ -1,7 +1,8 @@
-# 代理列表更新时间: 2026-01-08 13:40:02
+# 代理列表更新时间: 2026-01-08 14:00:03
 # 总计: 30 个代理
 
-socks5://23.27.48.56:1080 [[机房] 蒙古 [Mongolian Technical University, Computer Science Mgmt School]]
+socks5://95.81.117.68:1080 [[机房] 美国 德克萨斯州 达拉斯 [GTELCOM LLC]]
+socks5://23.27.48.56:1080 [[家宽] 蒙古 [Mongolian Technical University, Computer Science Mgmt School]]
 socks5://65.108.48.189:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
 socks5://219.143.132.90:1080 [[家宽] 日本 东京 东京 [Streamline Servers Ltd - Tokyo]]
 socks5://43.156.225.60:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [6 COLLYER QUAY]]
@@ -30,4 +31,3 @@ socks5://159.195.93.76:60000 [[机房] 美国 亚拉巴马州 [AT&T Enterprises,
 socks5://95.85.239.9:60000 [[家宽] 德国 [Kabel Deutschland Breitband Customer 22]]
 socks5://95.85.239.67:60000 [[家宽] 德国 柏林 柏林 [Telefonica Germany GmbH & Co.OHG]]
 socks5://47.79.38.117:50161 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud LLC]]
-socks5://95.85.236.104:60001 [[家宽] 德国 下萨克森 [HIGHSPEED FTTH]]
