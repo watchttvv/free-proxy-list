@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-09 04:20:02
+# 代理列表更新时间: 2026-01-09 04:40:03
 # 总计: 30 个代理
 
+socks5://35.212.134.247:1080 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
+socks5://35.212.250.119:1080 [[机房] 美国 俄勒冈州 达尔斯 — 谷歌云 GCP [Google LLC]]
 socks5://181.102.104.5:1080 [[机房] 美国 弗吉尼亚州 马纳萨斯 [netcup GmbH]]
 socks5://181.102.226.78:1080 [[机房] 巴西 圣保罗 圣保罗 [Qnax Ltda]]
 socks5://51.81.77.146:1080 [[机房] 美国 弗吉尼亚州 — OVH [OVH US LLC]]
@@ -29,5 +31,3 @@ socks5://47.251.105.161:1080 [[机房] 美国 加州 洛杉矶 — 阿里云 [Al
 socks5://84.32.217.94:9092 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 [R0CKET CLOUD 2]]
 socks5://84.32.217.96:9092 [[机房] 德国 柏林 柏林 [CIA TRIAD SECURITY LLC]]
 socks5://113.180.215.2:1080 [[机房] 越南 胡志明市 [Vietnam Posts and Telecommunications Group]]
-socks5://185.163.204.154:60000 [[机房] 美国 康乃狄克州 哈特福德 [Comcast Cable Communications, LLC]]
-socks5://95.217.15.141:9080 [[机房] 奥地利 奥地利州 维也纳 [Foundation for Applied Privacy]]
