@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-10 03:40:02
+# 代理列表更新时间: 2026-01-10 04:00:03
 # 总计: 30 个代理
 
-socks5://218.252.170.162:1080 [[机房] 中国 香港 香港 [Hong Kong Cable Television Limited]]
+socks5://218.252.170.162:1080 [[家宽] 中国 香港 香港 [Hong Kong Cable Television Limited]]
 socks5://144.76.184.226:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://144.76.94.91:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://149.28.63.55:1080 [[机房] 美国 新泽西州 皮斯卡特维镇 — Vultr [Vultr Holdings, LLC]]
