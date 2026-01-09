@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-09 22:00:04
+# 代理列表更新时间: 2026-01-09 22:40:03
 # 总计: 30 个代理
 
+socks5://62.16.33.187:1080 [[机房] 俄罗斯 彼爾姆邊疆區 彼尔姆 [For PPPoE Customers]]
 socks5://5.255.17.8:1080 [[家宽] 也门 首都行政区 萨那 [YEMEN NET ADSL POOL29 3]]
 socks5://212.253.34.85:1080 [[机房] 土耳其 伊斯坦布尔 伊斯坦布尔 [TR-SOLNET-BB-VAE-ANADOLU]]
 socks5://185.79.138.187:1080 [[机房] 芬兰 新地区 赫尔辛基 [Baykov Ilya Sergeevich]]
@@ -30,4 +31,3 @@ socks5://64.188.65.195:1080 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INT
 socks5://3.96.152.189:1080 [[机房] 加拿大 魁北克省 蒙特利尔 — 亚马逊云 Aws [Amazon Data Services Canada]]
 socks5://115.127.53.114:1080 [[机房] 孟加拉国 达卡专区 达卡 [BRACNet Limited]]
 socks5://95.106.156.172:1080 [[家宽] 俄罗斯 特维尔州 特维尔 [OJSC Rostelecom, Tver branch]]
-socks5://164.77.99.83:1080 [[家宽] 智利 圣地亚哥首都大区 圣地亚哥 [Entel Chile S.A]]
