@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-09 16:00:03
+# 代理列表更新时间: 2026-01-09 16:20:03
 # 总计: 30 个代理
 
+socks5://3.76.124.109:1080 [[机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]]
 socks5://91.210.151.184:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Ltd. "Cypher"]]
 socks5://24.134.5.221:1080 [[家宽] 德国 黑森州 法兰克福 [KABEL-DEUTSCHLAND-CUSTOMER-SERVICES-28]]
 socks5://103.153.63.223:1080 [[家宽] 印度尼西亚 西爪哇省 Cikarang [PT Ikhlas Cipta Teknologi]]
@@ -30,4 +31,3 @@ socks5://23.27.48.56:1080 [[家宽] 蒙古 [Mongolian Technical University, Comp
 socks5://43.156.225.60:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [6 COLLYER QUAY]]
 socks5://217.12.209.4:1080 [[机房] 荷兰 德伦特省 梅珀尔 [Green Floid LLC]]
 socks5://104.207.139.62:1080 [[机房] 美国 伊利诺伊州 埃尔克格罗夫村 — Vultr [Vultr Holdings, LLC]]
-socks5://213.189.205.33:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
