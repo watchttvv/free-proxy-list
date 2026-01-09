@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-10 03:20:03
+# 代理列表更新时间: 2026-01-10 03:40:02
 # 总计: 30 个代理
 
+socks5://218.252.170.162:1080 [[机房] 中国 香港 香港 [Hong Kong Cable Television Limited]]
 socks5://144.76.184.226:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://144.76.94.91:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://149.28.63.55:1080 [[机房] 美国 新泽西州 皮斯卡特维镇 — Vultr [Vultr Holdings, LLC]]
@@ -30,4 +31,3 @@ socks5://23.175.248.21:1080 [[机房] 美国 纽约州 纽约 [InfiniaHost.com]]
 socks5://101.50.122.105:1080 [[机房] 巴基斯坦 旁遮普省 拉瓦尔品第 [Naya Tel (Pvt.) Limited]]
 socks5://95.81.117.68:1080 [[机房] 美国 德克萨斯州 达拉斯 [GTELCOM LLC]]
 socks5://23.27.48.56:1080 [[家宽] 蒙古 [Mongolian Technical University, Computer Science Mgmt School]]
-socks5://43.156.225.60:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [6 COLLYER QUAY]]
