@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-10 00:40:02
+# 代理列表更新时间: 2026-01-10 01:00:03
 # 总计: 30 个代理
 
+socks5://149.28.63.55:1080 [[机房] 美国 新泽西州 皮斯卡特维镇 — Vultr [Vultr Holdings, LLC]]
 socks5://62.16.33.187:1080 [[家宽] 俄罗斯 彼爾姆邊疆區 彼尔姆 [For PPPoE Customers]]
 socks5://5.255.17.8:1080 [[家宽] 也门 首都行政区 萨那 [YEMEN NET ADSL POOL29 3]]
 socks5://212.253.34.85:1080 [[机房] 土耳其 伊斯坦布尔 伊斯坦布尔 [TR-SOLNET-BB-VAE-ANADOLU]]
@@ -30,4 +31,3 @@ socks5://45.67.138.22:1080 [[家宽] 荷兰 北荷兰省 阿姆斯特丹 [Julian
 socks5://64.188.65.195:1080 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
 socks5://3.96.152.189:1080 [[机房] 加拿大 魁北克省 蒙特利尔 — 亚马逊云 Aws [Amazon Data Services Canada]]
 socks5://115.127.53.114:1080 [[机房] 孟加拉国 达卡专区 达卡 [BRACNet Limited]]
-socks5://95.106.156.172:1080 [[家宽] 俄罗斯 特维尔州 特维尔 [OJSC Rostelecom, Tver branch]]
