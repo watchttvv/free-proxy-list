@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-10 12:00:02
+# 代理列表更新时间: 2026-01-10 12:20:03
 # 总计: 30 个代理
 
+socks5://43.133.59.131:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [6 COLLYER QUAY]]
 socks5://168.107.29.190:6666 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [TOR EXIT AND MORE]]
 socks5://1.53.42.1:1080 [[机房] 越南 胡志明市 胡志明市 [FPT Telecom Company]]
 socks5://52.221.203.249:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
@@ -30,4 +31,3 @@ socks5://51.81.77.146:1080 [[机房] 美国 弗吉尼亚州 — OVH [OVH US LLC]
 socks5://38.102.84.147:1080 [[机房] 加拿大 魁北克省 蒙特利尔 — servarica [Rica Web Services]]
 socks5://44.208.161.10:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
 socks5://129.212.140.134:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]]
-socks5://123.19.209.140:1080 [[机房] 越南 [Vietnam Posts and Telecommunications Group]]
