@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-10 08:00:03
+# 代理列表更新时间: 2026-01-10 08:20:03
 # 总计: 30 个代理
 
+socks5://41.174.113.110:1080 [[机房] 津巴布韦 [Liquid Telecommunications Operations Limited]]
+socks5://41.174.171.171:1080 [[机房] 津巴布韦 哈拉雷省 哈拉雷 [Liquid Telecommunications Operations Limited]]
+socks5://41.174.162.161:1080 [[机房] 南非 豪登省 约翰内斯堡 [Liquid Telecommunications Operations Limited]]
 socks5://5.161.19.116:1080 [[机房] 加拿大 曼尼托巴 温尼伯 [Shaw Communications]]
 socks5://5.161.118.55:1080 [[机房] 加拿大 曼尼托巴 温尼伯 [Shaw Communications]]
 socks5://52.56.59.97:1080 [[机房] 英国 英格兰 伦敦 — 亚马逊云 Aws [Amazon Data Services UK]]
@@ -28,6 +31,3 @@ socks5://45.67.138.42:1080 [[家宽] 荷兰 北荷兰省 阿姆斯特丹 [Julian
 socks5://45.67.138.22:1080 [[家宽] 荷兰 北荷兰省 阿姆斯特丹 [Julian Achter]]
 socks5://64.188.65.195:1080 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
 socks5://3.96.152.189:1080 [[机房] 加拿大 魁北克省 蒙特利尔 — 亚马逊云 Aws [Amazon Data Services Canada]]
-socks5://95.106.156.172:1080 [[家宽] 俄罗斯 特维尔州 特维尔 [OJSC Rostelecom, Tver branch]]
-socks5://164.77.99.83:1080 [[家宽] 智利 圣地亚哥首都大区 圣地亚哥 [Entel Chile S.A]]
-socks5://23.175.248.21:1080 [[机房] 美国 纽约州 纽约 [InfiniaHost.com]]
