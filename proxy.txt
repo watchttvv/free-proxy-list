@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-10 10:20:02
+# 代理列表更新时间: 2026-01-10 10:40:02
 # 总计: 30 个代理
 
+socks5://185.134.148.98:1080 [[机房] 俄罗斯 萨马拉州 萨马拉 [InfoLada Ltd]]
 socks5://41.174.113.110:1080 [[机房] 津巴布韦 [Liquid Telecommunications Operations Limited]]
 socks5://41.174.171.171:1080 [[机房] 津巴布韦 哈拉雷省 哈拉雷 [Liquid Telecommunications Operations Limited]]
 socks5://41.174.162.161:1080 [[机房] 南非 豪登省 约翰内斯堡 [Liquid Telecommunications Operations Limited]]
@@ -30,4 +31,3 @@ socks5://123.19.209.140:1080 [[机房] 越南 [Vietnam Posts and Telecommunicati
 socks5://45.67.138.42:1080 [[家宽] 荷兰 北荷兰省 阿姆斯特丹 [Julian Achter]]
 socks5://45.67.138.22:1080 [[家宽] 荷兰 北荷兰省 阿姆斯特丹 [Julian Achter]]
 socks5://64.188.65.195:1080 [[机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]]
-socks5://3.96.152.189:1080 [[机房] 加拿大 魁北克省 蒙特利尔 — 亚马逊云 Aws [Amazon Data Services Canada]]
