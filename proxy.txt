@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-12 00:40:03
+# 代理列表更新时间: 2026-01-12 01:00:02
 # 总计: 30 个代理
 
+socks5://93.123.231.129:1080 [[家宽] 俄罗斯 莫斯科州 [Infolink spec]]
 socks5://190.198.156.179:1080 [[机房] 委内瑞拉 玻利瓦尔省 圭亞那城 [CANTV Servicios, Venezuela]]
 socks5://92.38.49.84:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 [EQU Technologies LLP]]
 socks5://92.38.212.54:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]]
@@ -30,4 +31,3 @@ socks5://185.134.148.98:1080 [[机房] 俄罗斯 萨马拉州 萨马拉 [InfoLad
 socks5://5.161.19.116:1080 [[机房] 加拿大 曼尼托巴 温尼伯 [Shaw Communications]]
 socks5://5.161.118.55:1080 [[机房] 加拿大 曼尼托巴 温尼伯 [Shaw Communications]]
 socks5://221.143.197.147:1080 [[家宽] 韩国 首尔特别市 首尔特别市 [SK Broadband Co Ltd]]
-socks5://95.221.8.28:1080 [[家宽] 俄罗斯 摩爾曼斯克州 摩爾曼斯克 [Net By Net Holding LLC]]
