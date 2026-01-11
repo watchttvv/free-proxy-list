@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-11 09:40:03
+# 代理列表更新时间: 2026-01-11 10:00:03
 # 总计: 30 个代理
 
-socks5://185.67.93.124:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [Elitel ISP clients pool]]
+socks5://185.67.93.124:1080 [[家宽] 俄罗斯 圣彼得堡 圣彼得堡 [Elitel ISP clients pool]]
 socks5://185.86.121.175:1080 [[家宽] 俄罗斯 伊万诺沃州 伊万诺沃 [INTERCOMTEL PPPoE 6]]
 socks5://91.107.189.95:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://77.105.73.105:1080 [[机房] 芬兰 新地区 波爾沃 [Loviisan Puhelin Oy | LPOnet Oy Ab]]
