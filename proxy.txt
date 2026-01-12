@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-12 11:20:03
+# 代理列表更新时间: 2026-01-12 11:40:02
 # 总计: 30 个代理
 
+socks5://143.92.57.213:1080 [[机房] 中国 香港 香港 [CTG Server Ltd.]]
+socks5://27.123.254.251:1080 [[机房] 孟加拉国 迈门辛专区 [Millennium Computers & Networking]]
 socks5://212.120.180.141:1080 [[机房] 俄罗斯 彼爾姆邊疆區 彼尔姆 [Uralcom Ltd network (Perm, Russia)]]
 socks5://181.101.37.42:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc.]]
 socks5://181.101.221.75:1080 [[机房] 美国 佛罗里达州 迈阿密 — Vultr [Vultr Holdings, LLC]]
@@ -29,5 +31,3 @@ socks5://213.108.217.160:1080 [[机房] 挪威 西福尔郡 桑德尔福德 [GIG
 socks5://164.92.110.177:60000 [[机房] 美国 亚拉巴马州 蒙哥马利 [Charter Communications LLC]]
 socks5://36.50.135.18:30000 [[家宽] 德国 黑森州 法兰克福 [ByteHosting]]
 socks5://91.107.189.95:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
-socks5://13.209.82.132:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [Amazon.com, Inc.]]
-socks5://5.180.24.144:1080 [[机房] 美国 新泽西州 锡考克斯 [WorkTitans B.V.]]
