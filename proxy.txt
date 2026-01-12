@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-12 22:00:03
+# 代理列表更新时间: 2026-01-12 22:20:03
 # 总计: 30 个代理
 
+socks5://175.11.195.3:1080 [[机房] 中国 香港 香港 [Internet Utilities NA LLC]]
 socks5://139.180.217.99:1080 [[机房] 新加坡 新加坡 新加坡 — Vultr [SGP_VULTR_CUST]]
 socks5://185.197.251.226:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://35.92.236.125:1080 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊云 Aws [Amazon.com, Inc.]]
@@ -30,4 +31,3 @@ socks5://64.225.107.118:1080 [[机房] 德国 黑森州 法兰克福 — Digital
 socks5://93.123.231.129:1080 [[家宽] 俄罗斯 莫斯科州 [Infolink spec]]
 socks5://92.38.49.84:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 [EQU Technologies LLP]]
 socks5://92.38.212.54:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]]
-socks5://199.68.199.24:1080 [[机房] 瑞典 哈兰省 法尔肯贝里 [www.fornex.com, Fornex Hosting S.L.]]
