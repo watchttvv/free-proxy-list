@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-13 06:40:03
+# 代理列表更新时间: 2026-01-13 07:00:02
 # 总计: 30 个代理
 
-socks5://87.15.151.88:1080 [[机房] 意大利 伦巴第大区 米兰 [Telecom Italia S.p.A. TIN EASY LITE]]
+socks5://87.15.151.88:1080 [[家宽] 意大利 伦巴第大区 米兰 [Telecom Italia S.p.A. TIN EASY LITE]]
 socks5://46.160.50.38:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [Provider in Ivanovo, Russia]]
 socks5://195.14.112.47:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
 socks5://185.197.251.226:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
