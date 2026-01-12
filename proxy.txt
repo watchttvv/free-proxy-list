@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-01-12 09:40:03
+# 代理列表更新时间: 2026-01-12 10:00:02
 # 总计: 30 个代理
 
 socks5://8.208.83.161:1080 [[机房] 英国 英格兰 伦敦 — 阿里云 [Aliyun Computing Co.LTD]]
@@ -8,7 +8,7 @@ socks5://8.217.214.66:50001 [[机房] 美国 亚利桑那州 凤凰城 [Cogent C
 socks5://192.241.156.17:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
 socks5://103.197.188.63:1080 [[机房] 印度尼西亚 西爪哇省 Depok — Cloudflare CDN 节点 [Cloudflare, Inc.]]
-socks5://103.206.68.241:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://103.206.68.241:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://222.185.56.22:1197 [[机房] 美国 加州 圣何塞 [xTom]]
 socks5://115.127.53.114:1080 [[机房] 孟加拉国 达卡专区 达卡 [BRACNet Limited]]
 socks5://84.247.172.229:9050 [[机房] 波兰 马佐维亚省 華沙 [1337 Services GmbH]]
