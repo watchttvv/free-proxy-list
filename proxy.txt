@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-13 19:00:03
+# 代理列表更新时间: 2026-01-13 19:20:02
 # 总计: 30 个代理
 
+socks5://185.194.177.18:8080 [[机房] 德国 黑森州 法兰克福 [FREAKHOSTING]]
 socks5://18.179.119.184:6666 [[机房] 柬埔寨 [Spidernet Co.,Ltd]]
 socks5://31.15.16.218:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CGI GLOBAL LIMITED]]
 socks5://18.179.31.59:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
@@ -30,4 +31,3 @@ socks5://70.34.216.68:1080 [[机房] 美国 纽约州 纽约 [LLC "Whirl Softwar
 socks5://103.126.23.177:1080 [[家宽] 孟加拉国 达卡专区 达卡 [Earth Telecommunication(Pvt.)Ltd.]]
 socks5://95.221.7.46:1080 [[家宽] 俄罗斯 摩爾曼斯克州 摩爾曼斯克 [Net By Net Holding LLC]]
 socks5://64.225.107.118:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DIGITALOCEAN]]
-socks5://92.38.49.84:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 [EQU Technologies LLP]]
