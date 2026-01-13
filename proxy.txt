@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-01-14 03:00:03
+# 代理列表更新时间: 2026-01-14 03:20:03
 # 总计: 30 个代理
 
 socks5://89.251.26.111:5555 [[机房] 中国 香港 香港 [ALICE NETWORKS LTD]]
@@ -10,15 +10,11 @@ socks5://45.90.99.241:5555 [[机房] 德国 黑森州 法兰克福 [Datalix]]
 socks5://118.170.0.67:1080 [[机房] 中国 台湾 台中市 [Data Communication Business Group,]]
 socks5://119.8.28.209:1080 [[机房] 中国 香港 香港 [Huawei Clouds HongKong]]
 socks5://45.115.224.60:1080 [[机房] 菲律宾 国家首都区 奎松城 [COMFAC CORPORATION]]
-socks5://27.76.117.139:1080 [[机房] 越南 [Dai IP cho dich vu ADSL tai HCM]]
 socks5://103.161.69.234:1080 [[机房] 孟加拉国 吉大港專區 [Confidence Power Bogra Unit-2 Limited]]
 socks5://185.194.177.18:8080 [[机房] 德国 黑森州 法兰克福 [FREAKHOSTING]]
 socks5://18.179.119.184:6666 [[机房] 柬埔寨 [Spidernet Co.,Ltd]]
 socks5://31.15.16.218:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CGI GLOBAL LIMITED]]
 socks5://18.179.31.59:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
-socks5://92.241.120.34:1080 [[家宽] 俄罗斯 [Smoltelecom PPPoE (dynamic IPs for Citycomm, pool #1)]]
-socks5://92.241.120.87:1080 [[家宽] 俄罗斯 [Smoltelecom PPPoE (dynamic IPs for Citycomm, pool #1)]]
-socks5://194.87.162.195:1080 [[机房] 保加利亚 索非亚首都区 索菲亚 [Council of Ministers]]
 socks5://194.58.42.234:1080 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [Big Data Host LLC]]
 socks5://51.4.59.110:1080 [[机房] 以色列 Tel Aviv-Yafo — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://94.143.231.137:1080 [[机房] 德国 黑森州 法兰克福 [dataforest GmbH]]
@@ -31,3 +27,7 @@ socks5://45.143.197.69:1080 [[机房] 英国 英格兰 索利赫爾 [Daniel Jack
 socks5://8.208.83.161:1080 [[机房] 英国 英格兰 伦敦 — 阿里云 [Aliyun Computing Co.LTD]]
 socks5://5.180.24.156:1080 [[机房] 美国 新泽西州 锡考克斯 [WorkTitans B.V.]]
 socks5://94.176.182.165:1080 [[机房] 德国 黑森州 法兰克福 [MVPS LTD]]
+socks5://192.241.156.17:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
+socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
+socks5://103.206.68.241:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://222.185.56.22:1197 [[机房] 美国 加州 圣何塞 [xTom]]
