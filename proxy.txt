@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-13 12:40:02
+# 代理列表更新时间: 2026-01-13 13:00:03
 # 总计: 30 个代理
 
+socks5://194.87.162.195:1080 [[机房] 保加利亚 索非亚首都区 索菲亚 [Council of Ministers]]
 socks5://194.58.42.234:1080 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [Big Data Host LLC]]
 socks5://51.4.59.110:1080 [[机房] 以色列 Tel Aviv-Yafo — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://94.143.231.137:1080 [[机房] 德国 黑森州 法兰克福 [dataforest GmbH]]
@@ -30,4 +31,3 @@ socks5://199.68.199.24:1080 [[机房] 瑞典 哈兰省 法尔肯贝里 [www.forn
 socks5://52.63.221.85:1080 [[机房] 澳大利亚 新南威尔士州 悉尼 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://213.108.217.160:1080 [[机房] 挪威 西福尔郡 桑德尔福德 [GIGAHOST V6]]
 socks5://164.92.110.177:60000 [[机房] 美国 亚拉巴马州 蒙哥马利 [Charter Communications LLC]]
-socks5://36.50.135.18:30000 [[家宽] 德国 黑森州 法兰克福 [ByteHosting]]
