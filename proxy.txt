@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-15 00:40:02
+# 代理列表更新时间: 2026-01-15 01:00:07
 # 总计: 30 个代理
 
+socks5://85.89.127.80:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [FIRST SERVER LIMITED]]
+socks5://170.106.65.34:5555 [[机房] 美国 加州 圣克拉拉 — 腾讯云 [16 COLLYER QUAY]]
+socks5://116.104.251.43:1080 [[机房] 越南 河内 河内市 [FPT Telecom Company]]
 socks5://116.104.255.173:1080 [[机房] 越南 河内 河内市 [FPT Telecom Company]]
 socks5://185.194.217.97:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://111.67.103.90:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
@@ -28,6 +31,3 @@ socks5://49.13.67.145:4444 [[机房] 英国 英格兰 布莱奇利 [Dynamic IP A
 socks5://89.251.26.111:5555 [[机房] 中国 香港 香港 [ALICE NETWORKS LTD]]
 socks5://49.51.51.59:5555 [[机房] 美国 加州 圣克拉拉 — 腾讯云 [Tencent cloud computing (Beijing) Co., Ltd.]]
 socks5://118.71.233.189:1111 [[家宽] 越南 [Viettel Group]]
-socks5://92.51.37.33:1080 [[机房] 德国 黑森州 法兰克福 [Timeweb, LLP]]
-socks5://45.90.99.241:1111 [[机房] 德国 黑森州 法兰克福 [Datalix]]
-socks5://45.90.99.241:5555 [[机房] 德国 黑森州 法兰克福 [Datalix]]
