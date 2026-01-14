@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-14 08:20:02
+# 代理列表更新时间: 2026-01-14 08:40:02
 # 总计: 30 个代理
 
+socks5://185.196.117.28:8080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb.Cloud LLC]]
 socks5://15.204.196.146:1080 [[机房] 美国 弗吉尼亚州 赖斯顿 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://65.109.182.45:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
 socks5://77.223.141.92:1080 [[机房] 土耳其 伊斯坦布尔 伊斯坦布尔 [Netdirekt A.S.]]
@@ -30,4 +31,3 @@ socks5://94.143.231.137:1080 [[机房] 德国 黑森州 法兰克福 [dataforest
 socks5://87.15.151.88:1080 [[家宽] 意大利 伦巴第大区 米兰 [Telecom Italia S.p.A. TIN EASY LITE]]
 socks5://46.160.50.38:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [Provider in Ivanovo, Russia]]
 socks5://195.14.112.47:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
-socks5://185.197.251.226:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
