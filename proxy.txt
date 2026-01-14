@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-14 08:00:03
+# 代理列表更新时间: 2026-01-14 08:20:02
 # 总计: 30 个代理
 
+socks5://15.204.196.146:1080 [[机房] 美国 弗吉尼亚州 赖斯顿 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
+socks5://65.109.182.45:1080 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]]
 socks5://77.223.141.92:1080 [[机房] 土耳其 伊斯坦布尔 伊斯坦布尔 [Netdirekt A.S.]]
 socks5://103.119.97.179:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://38.47.238.47:1080 [[机房] 美国 加州 洛杉矶 [HONG KONG COMMUNICATIONS INTERNATIONAL CO.,LIMITED]]
@@ -29,5 +31,3 @@ socks5://87.15.151.88:1080 [[家宽] 意大利 伦巴第大区 米兰 [Telecom I
 socks5://46.160.50.38:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [Provider in Ivanovo, Russia]]
 socks5://195.14.112.47:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
 socks5://185.197.251.226:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
-socks5://35.92.236.125:1080 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊云 Aws [Amazon.com, Inc.]]
-socks5://45.143.197.69:1080 [[机房] 英国 英格兰 索利赫爾 [Daniel Jackson]]
