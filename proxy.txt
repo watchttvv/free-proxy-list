@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-14 23:40:03
+# 代理列表更新时间: 2026-01-15 00:00:02
 # 总计: 30 个代理
 
-socks5://111.67.103.90:1080 [[机房] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
+socks5://111.67.103.90:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://159.223.53.194:1080 [[机房] 新加坡 新加坡 新加坡 — DigitalOcean [DigitalOcean, LLC]]
 socks5://176.111.212.213:1080 [[机房] 俄罗斯 奥伦堡州 奥伦堡 [Mediasvyaz Ltd.]]
 socks5://193.111.1.109:1080 [[家宽] 乌克兰 基辅州 基辅 [LoadMe]]
