@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-14 13:00:02
+# 代理列表更新时间: 2026-01-14 13:20:03
 # 总计: 30 个代理
 
+socks5://35.237.28.196:2222 [[机房] 美国 南卡罗来纳州 北查尔斯顿 — 谷歌云 GCP [Google LLC]]
 socks5://109.107.187.18:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://173.249.2.184:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://139.59.30.134:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
@@ -30,4 +31,3 @@ socks5://185.194.177.18:8080 [[机房] 德国 黑森州 法兰克福 [FREAKHOSTI
 socks5://18.179.119.184:6666 [[机房] 柬埔寨 [Spidernet Co.,Ltd]]
 socks5://31.15.16.218:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CGI GLOBAL LIMITED]]
 socks5://18.179.31.59:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
-socks5://194.58.42.234:1080 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [Big Data Host LLC]]
