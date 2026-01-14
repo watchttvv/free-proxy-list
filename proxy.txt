@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-15 02:00:03
+# 代理列表更新时间: 2026-01-15 02:20:03
 # 总计: 30 个代理
 
+socks5://45.88.90.70:1080 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [Big Data Host LLC]]
 socks5://89.251.8.181:1080 [[机房] 土耳其 伊斯坦布尔 伊斯坦布尔 [BitCommand]]
 socks5://154.223.20.245:4444 [[机房] 中国 台湾 台北市 [Lightnode Limited]]
 socks5://114.134.184.166:1080 [[机房] 中国 香港 香港 [ASIA PACIFIC COMMUNICATION HK LIMITED]]
@@ -30,4 +31,3 @@ socks5://38.47.238.47:1080 [[机房] 美国 加州 洛杉矶 [HONG KONG COMMUNIC
 socks5://18.130.105.44:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
 socks5://192.124.171.32:2222 [[机房] 俄罗斯 滨海边疆区 海参崴 — Ruvds [MT FINANCE LLC]]
 socks5://152.42.213.94:9999 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SABOTAGE LLC]]
-socks5://49.13.67.145:4444 [[机房] 英国 英格兰 布莱奇利 [Dynamic IP Addresses]]
