@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-14 07:40:02
+# 代理列表更新时间: 2026-01-14 08:00:03
 # 总计: 30 个代理
 
+socks5://77.223.141.92:1080 [[机房] 土耳其 伊斯坦布尔 伊斯坦布尔 [Netdirekt A.S.]]
+socks5://103.119.97.179:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://38.47.238.47:1080 [[机房] 美国 加州 洛杉矶 [HONG KONG COMMUNICATIONS INTERNATIONAL CO.,LIMITED]]
 socks5://18.130.105.44:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
 socks5://192.124.171.32:2222 [[机房] 俄罗斯 滨海边疆区 海参崴 — Ruvds [MT FINANCE LLC]]
@@ -29,5 +31,3 @@ socks5://195.14.112.47:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
 socks5://185.197.251.226:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://35.92.236.125:1080 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://45.143.197.69:1080 [[机房] 英国 英格兰 索利赫爾 [Daniel Jackson]]
-socks5://8.208.83.161:1080 [[机房] 英国 英格兰 伦敦 — 阿里云 [Aliyun Computing Co.LTD]]
-socks5://5.180.24.156:1080 [[机房] 美国 新泽西州 锡考克斯 [WorkTitans B.V.]]
