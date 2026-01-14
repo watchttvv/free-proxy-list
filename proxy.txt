@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-14 23:20:02
+# 代理列表更新时间: 2026-01-14 23:40:03
 # 总计: 30 个代理
 
+socks5://111.67.103.90:1080 [[机房] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
+socks5://159.223.53.194:1080 [[机房] 新加坡 新加坡 新加坡 — DigitalOcean [DigitalOcean, LLC]]
 socks5://176.111.212.213:1080 [[机房] 俄罗斯 奥伦堡州 奥伦堡 [Mediasvyaz Ltd.]]
 socks5://193.111.1.109:1080 [[家宽] 乌克兰 基辅州 基辅 [LoadMe]]
 socks5://95.81.101.171:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [AE CLODO 20251223]]
@@ -29,5 +31,3 @@ socks5://45.90.99.241:1111 [[机房] 德国 黑森州 法兰克福 [Datalix]]
 socks5://45.90.99.241:5555 [[机房] 德国 黑森州 法兰克福 [Datalix]]
 socks5://118.170.0.67:1080 [[机房] 中国 台湾 台中市 [Data Communication Business Group,]]
 socks5://119.8.28.209:1080 [[机房] 中国 香港 香港 [Huawei Clouds HongKong]]
-socks5://45.115.224.60:1080 [[机房] 菲律宾 国家首都区 奎松城 [COMFAC CORPORATION]]
-socks5://103.161.69.234:1080 [[机房] 孟加拉国 吉大港專區 [Confidence Power Bogra Unit-2 Limited]]
