@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-15 07:40:02
+# 代理列表更新时间: 2026-01-15 08:00:02
 # 总计: 30 个代理
 
+socks5://154.219.104.156:1080 [[机房] 中国 香港 香港 [Vapeline Technology]]
 socks5://128.127.145.102:1080 [[机房] 俄罗斯 彼爾姆邊疆區 索利卡姆斯克 [RUBIN LLC.]]
 socks5://95.164.47.190:4444 [[机房] 德国 黑森州 法兰克福 [WorkTitans B.V.]]
 socks5://3.93.205.12:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]]
@@ -30,4 +31,3 @@ socks5://103.119.97.179:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Com
 socks5://38.47.238.47:1080 [[机房] 美国 加州 洛杉矶 [HONG KONG COMMUNICATIONS INTERNATIONAL CO.,LIMITED]]
 socks5://18.130.105.44:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]]
 socks5://192.124.171.32:2222 [[机房] 俄罗斯 滨海边疆区 海参崴 — Ruvds [MT FINANCE LLC]]
-socks5://152.42.213.94:9999 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SABOTAGE LLC]]
