@@ -1,8 +1,8 @@
-# 代理列表更新时间: 2026-01-16 04:40:02
+# 代理列表更新时间: 2026-01-16 05:00:03
 # 总计: 30 个代理
 
 socks5://213.148.6.11:7777 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [Modern Server Solutions LLP]]
-socks5://194.1.161.55:1080 [[机房] 俄罗斯 莫斯科州 契訶夫 [Transport Telecommunication Company LLC]]
+socks5://194.1.161.55:1080 [[家宽] 俄罗斯 莫斯科州 契訶夫 [Transport Telecommunication Company LLC]]
 socks5://8.209.207.94:1080 [[机房] 日本 东京 东京 — 阿里云 [Shiodome Sumitomo Blog 1-9-2 TOKYO]]
 socks5://198.200.54.88:1080 [[机房] 美国 加州 圣何塞 [PEG TECH INC]]
 socks5://198.200.54.89:1080 [[机房] 美国 加州 圣何塞 [PEG TECH INC]]
