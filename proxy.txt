@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-15 15:20:02
+# 代理列表更新时间: 2026-01-15 15:40:02
 # 总计: 30 个代理
 
+socks5://3.77.194.210:1080 [[机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]]
 socks5://178.44.174.8:1080 [[家宽] 俄罗斯 奥伦堡州 奥伦堡 [Dynamic IP Pools for xDSL and FTTH subscribers of the]]
 socks5://138.201.198.92:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://43.167.238.123:1080 [[机房] 美国 伊利诺伊州 埃尔克格罗夫村 [HostPapa]]
@@ -30,4 +31,3 @@ socks5://35.237.28.196:2222 [[机房] 美国 南卡罗来纳州 北查尔斯顿 
 socks5://109.107.187.18:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://173.249.2.184:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://139.59.30.134:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
-socks5://203.189.154.200:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
