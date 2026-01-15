@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-15 13:40:03
+# 代理列表更新时间: 2026-01-15 14:00:02
 # 总计: 30 个代理
 
+socks5://178.44.174.8:1080 [[家宽] 俄罗斯 奥伦堡州 奥伦堡 [Dynamic IP Pools for xDSL and FTTH subscribers of the]]
+socks5://138.201.198.92:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://43.167.238.123:1080 [[机房] 美国 伊利诺伊州 埃尔克格罗夫村 [HostPapa]]
 socks5://38.147.185.205:1080 [[机房] 中国 香港 香港 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://192.18.142.14:1080 [[机房] 美国 加州 圣何塞 — 甲骨文云 Oracle [Oracle Corporation]]
@@ -29,5 +31,3 @@ socks5://109.107.187.18:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERV
 socks5://173.249.2.184:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://139.59.30.134:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
 socks5://203.189.154.200:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://185.196.117.28:8080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb.Cloud LLC]]
-socks5://15.204.196.146:1080 [[机房] 美国 弗吉尼亚州 赖斯顿 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
