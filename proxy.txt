@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-16 20:00:02
+# 代理列表更新时间: 2026-01-16 20:20:02
 # 总计: 30 个代理
 
+socks5://83.237.2.214:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [MTS PJSC]]
 socks5://74.208.69.88:1080 [[机房] 美国 纽约州 纽约 [IONOS Inc.]]
 socks5://217.175.43.226:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [NTERCOMTEL Limited Company]]
 socks5://8.219.13.78:3333 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
@@ -30,4 +31,3 @@ socks5://213.148.6.11:7777 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [
 socks5://194.1.161.55:1080 [[家宽] 俄罗斯 莫斯科州 契訶夫 [Transport Telecommunication Company LLC]]
 socks5://8.209.207.94:1080 [[机房] 日本 东京 东京 — 阿里云 [Shiodome Sumitomo Blog 1-9-2 TOKYO]]
 socks5://198.200.54.88:1080 [[机房] 美国 加州 圣何塞 [PEG TECH INC]]
-socks5://198.200.54.89:1080 [[机房] 美国 加州 圣何塞 [PEG TECH INC]]
