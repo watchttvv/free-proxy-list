@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-17 05:40:02
+# 代理列表更新时间: 2026-01-17 06:00:03
 # 总计: 30 个代理
 
+socks5://154.94.115.9:1080 [[机房] 泰国 曼谷 曼谷 [Bedge Co Limited]]
 socks5://8.221.141.29:9999 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
 socks5://8.221.142.16:9999 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
 socks5://193.168.5.46:5555 [[家宽] 中国 香港 香港 [Power Line (HK) Co., Limited]]
@@ -30,4 +31,3 @@ socks5://193.168.5.33:5555 [[家宽] 中国 香港 香港 [Power Line (HK) Co., 
 socks5://193.168.5.10:5555 [[家宽] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://193.168.5.8:5555 [[家宽] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://193.168.5.50:5555 [[家宽] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://193.168.5.59:5555 [[家宽] 中国 香港 香港 [Power Line (HK) Co., Limited]]
