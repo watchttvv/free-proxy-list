@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-17 07:20:02
+# 代理列表更新时间: 2026-01-17 07:40:02
 # 总计: 30 个代理
 
+socks5://109.195.20.54:1080 [[机房] 俄罗斯 萨拉托夫州 薩拉托夫 [JSC "ER-Telecom Holding" Saratov Branch]]
 socks5://195.18.10.32:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://195.18.10.216:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://195.18.10.35:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
@@ -30,4 +31,3 @@ socks5://193.168.5.44:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., 
 socks5://193.168.5.47:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://193.168.5.28:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://193.168.5.17:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://193.168.5.33:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
