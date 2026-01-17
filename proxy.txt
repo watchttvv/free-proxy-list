@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-17 18:20:03
+# 代理列表更新时间: 2026-01-17 18:40:03
 # 总计: 30 个代理
 
+socks5://95.244.115.243:1080 [[机房] 意大利 威尼托 维罗纳 [Telecom Italia S.p.A.]]
 socks5://18.185.126.44:1080 [[机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]]
 socks5://1.161.137.229:8080 [[机房] 中国 台湾 台北市 [Data Communication Business Group,]]
 socks5://80.89.237.30:1080 [[机房] 荷兰 北荷兰省 [NovoServe B.V.]]
@@ -30,4 +31,3 @@ socks5://109.120.182.198:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [Baykov
 socks5://18.179.4.55:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
 socks5://212.154.169.90:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 [LLC ?ELECTRONIC COMMERCE CENTER?]]
 socks5://116.212.142.239:1080 [[机房] 柬埔寨 金边 金边 [MekongNet ISP/IXP]]
-socks5://109.195.20.54:1080 [[家宽] 俄罗斯 萨拉托夫州 薩拉托夫 [JSC "ER-Telecom Holding" Saratov Branch]]
