@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-17 08:40:02
+# 代理列表更新时间: 2026-01-17 09:00:02
 # 总计: 30 个代理
 
-socks5://212.154.169.90:1080 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [LLC ?ELECTRONIC COMMERCE CENTER?]]
+socks5://212.154.169.90:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 [LLC ?ELECTRONIC COMMERCE CENTER?]]
 socks5://116.212.142.239:1080 [[机房] 柬埔寨 金边 金边 [MekongNet ISP/IXP]]
 socks5://109.195.20.54:1080 [[家宽] 俄罗斯 萨拉托夫州 薩拉托夫 [JSC "ER-Telecom Holding" Saratov Branch]]
 socks5://195.18.10.32:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
