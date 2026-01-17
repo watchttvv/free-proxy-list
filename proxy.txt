@@ -1,7 +1,8 @@
-# 代理列表更新时间: 2026-01-17 16:40:03
+# 代理列表更新时间: 2026-01-17 17:00:02
 # 总计: 30 个代理
 
-socks5://91.195.86.147:1080 [[机房] 乌克兰 克里米亚 雅尔塔 [KNET TELECOM Ltd]]
+socks5://80.89.237.30:1080 [[机房] 荷兰 北荷兰省 [NovoServe B.V.]]
+socks5://91.195.86.147:1080 [[家宽] 乌克兰 克里米亚 雅尔塔 [KNET TELECOM Ltd]]
 socks5://194.147.215.125:1080 [[机房] 德国 黑森州 法兰克福 [Snowd Security OU]]
 socks5://162.128.64.88:1080 [[机房] 印度尼西亚 雅加达 雅加达 — Zenlayer [Zenlayer (Singapore) PTE. LTD]]
 socks5://146.103.101.34:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
@@ -30,4 +31,3 @@ socks5://116.212.142.239:1080 [[机房] 柬埔寨 金边 金边 [MekongNet ISP/I
 socks5://109.195.20.54:1080 [[家宽] 俄罗斯 萨拉托夫州 薩拉托夫 [JSC "ER-Telecom Holding" Saratov Branch]]
 socks5://195.18.10.32:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://195.18.10.216:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://195.18.10.35:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
