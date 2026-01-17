@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-17 09:00:02
+# 代理列表更新时间: 2026-01-17 09:20:03
 # 总计: 30 个代理
 
+socks5://18.179.4.55:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
 socks5://212.154.169.90:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 [LLC ?ELECTRONIC COMMERCE CENTER?]]
 socks5://116.212.142.239:1080 [[机房] 柬埔寨 金边 金边 [MekongNet ISP/IXP]]
 socks5://109.195.20.54:1080 [[家宽] 俄罗斯 萨拉托夫州 薩拉托夫 [JSC "ER-Telecom Holding" Saratov Branch]]
@@ -30,4 +31,3 @@ socks5://193.168.5.32:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., 
 socks5://193.168.5.13:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://193.168.5.30:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://193.168.5.44:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://193.168.5.47:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
