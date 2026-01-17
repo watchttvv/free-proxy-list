@@ -1,13 +1,10 @@
-# 代理列表更新时间: 2026-01-18 03:00:02
+# 代理列表更新时间: 2026-01-18 03:20:02
 # 总计: 30 个代理
 
 socks5://103.38.237.22:1080 [[家宽] 越南 河内 河内市 [Phu Hai Computer Co., Ltd]]
 socks5://79.143.29.131:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Selectel Network]]
-socks5://89.189.66.51:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://89.189.66.54:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
-socks5://89.189.66.53:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://89.189.71.112:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
-socks5://89.189.71.87:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://113.253.50.254:1111 [[机房] 中国 香港 香港 [HGC Global Communications Limited]]
 socks5://95.142.38.208:1080 [[机房] 俄罗斯 莫斯科 莫斯科 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
@@ -15,13 +12,11 @@ socks5://36.212.4.103:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊
 socks5://109.226.250.132:1080 [[家宽] 俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克 [Orion Telecom LLC]]
 socks5://163.5.31.128:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://163.5.31.47:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://62.16.33.187:1080 [[家宽] 俄罗斯 彼爾姆邊疆區 彼尔姆 [For PPPoE Customers]]
 socks5://80.90.179.29:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [lease for Timeweb]]
 socks5://134.35.130.50:1080 [[家宽] 也门 [Public Telecommunication Corporation]]
 socks5://37.120.162.180:10000 [[机房] 法国 奥克西塔尼大区 [Proxad / Free SAS]]
 socks5://16.78.149.128:1080 [[机房] 印度尼西亚 雅加达 雅加达 — 亚马逊云 Aws [Amazon Data Services Jakarta]]
 socks5://95.244.115.243:1080 [[家宽] 意大利 威尼托 维罗纳 [Telecom Italia S.p.A.]]
-socks5://18.185.126.44:1080 [[机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]]
 socks5://1.161.137.229:8080 [[机房] 中国 台湾 台北市 [Data Communication Business Group,]]
 socks5://80.89.237.30:1080 [[机房] 荷兰 北荷兰省 [NovoServe B.V.]]
 socks5://91.195.86.147:1080 [[家宽] 乌克兰 克里米亚 雅尔塔 [KNET TELECOM Ltd]]
@@ -31,3 +26,8 @@ socks5://146.103.101.34:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERV
 socks5://182.253.123.120:1080 [[家宽] 印度尼西亚 西爪哇省 万隆 [Biznet Networks]]
 socks5://27.11.97.62:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
 socks5://42.118.180.39:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
+socks5://152.114.192.97:8000 [[机房] 德国 黑森州 法兰克福 [HOSTKEY B.V.]]
+socks5://212.237.11.160:1080 [[机房] 意大利 托斯卡纳 阿雷佐 [Aruba S.p.A. - Cloud Services Farm2]]
+socks5://195.18.10.36:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
+socks5://195.18.10.37:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
+socks5://195.18.10.245:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
