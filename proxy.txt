@@ -1,6 +1,12 @@
-# 代理列表更新时间: 2026-01-18 00:00:03
+# 代理列表更新时间: 2026-01-18 01:20:03
 # 总计: 30 个代理
 
+socks5://89.189.66.51:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.66.54:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.66.53:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.71.112:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.71.87:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://113.253.50.254:1111 [[机房] 中国 香港 香港 [HGC Global Communications Limited]]
 socks5://95.142.38.208:1080 [[机房] 俄罗斯 莫斯科 莫斯科 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
 socks5://36.212.4.103:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
@@ -25,9 +31,3 @@ socks5://182.253.123.120:1080 [[家宽] 印度尼西亚 西爪哇省 万隆 [Biz
 socks5://27.11.97.62:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
 socks5://42.118.180.39:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://152.114.192.97:8000 [[机房] 德国 黑森州 法兰克福 [HOSTKEY B.V.]]
-socks5://212.237.11.160:1080 [[机房] 意大利 托斯卡纳 阿雷佐 [Aruba S.p.A. - Cloud Services Farm2]]
-socks5://195.18.10.36:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://195.18.10.37:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://195.18.10.245:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://146.19.56.201:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
-socks5://146.19.56.222:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
