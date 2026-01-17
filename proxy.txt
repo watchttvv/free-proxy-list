@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-17 22:40:04
+# 代理列表更新时间: 2026-01-17 23:00:03
 # 总计: 30 个代理
 
+socks5://95.142.38.208:1080 [[机房] 俄罗斯 莫斯科 莫斯科 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
 socks5://36.212.4.103:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://54.80.190.84:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]]
@@ -30,4 +31,3 @@ socks5://195.18.10.37:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO
 socks5://195.18.10.245:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://146.19.56.201:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
 socks5://146.19.56.222:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
-socks5://146.19.56.216:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
