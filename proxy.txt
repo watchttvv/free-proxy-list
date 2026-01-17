@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-18 04:20:02
+# 代理列表更新时间: 2026-01-18 04:40:03
 # 总计: 30 个代理
 
+socks5://44.200.142.54:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
+socks5://42.112.14.75:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://43.201.33.23:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://103.38.237.22:1080 [[家宽] 越南 河内 河内市 [Phu Hai Computer Co., Ltd]]
 socks5://79.143.29.131:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Selectel Network]]
@@ -29,5 +31,3 @@ socks5://27.11.97.62:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 
 socks5://42.118.180.39:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://152.114.192.97:8000 [[机房] 德国 黑森州 法兰克福 [HOSTKEY B.V.]]
 socks5://212.237.11.160:1080 [[机房] 意大利 托斯卡纳 阿雷佐 [Aruba S.p.A. - Cloud Services Farm2]]
-socks5://195.18.10.36:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://195.18.10.37:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
