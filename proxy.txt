@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-17 20:20:03
+# 代理列表更新时间: 2026-01-17 20:40:02
 # 总计: 30 个代理
 
+socks5://109.226.250.132:1080 [[机房] 俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克 [Orion Telecom LLC]]
+socks5://163.5.31.128:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
+socks5://163.5.31.47:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://62.16.33.187:1080 [[家宽] 俄罗斯 彼爾姆邊疆區 彼尔姆 [For PPPoE Customers]]
 socks5://80.90.179.29:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [lease for Timeweb]]
 socks5://134.35.130.50:1080 [[家宽] 也门 [Public Telecommunication Corporation]]
@@ -28,6 +31,3 @@ socks5://146.19.56.216:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED 
 socks5://146.19.233.55:1080 [[机房] 德国 黑森州 法兰克福 [WorkTitans B.V.]]
 socks5://146.19.56.200:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
 socks5://146.19.56.224:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
-socks5://146.19.56.223:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED LIABILITY COMPANY "I.D.STRATEGY"]]
-socks5://108.66.217.58:1080 [[机房] 美国 加州 尔湾 [AT&T Enterprises, LLC]]
-socks5://62.76.108.30:1080 [[机房] 俄罗斯 卡拉恰耶夫-切尔克西亚共和国 [Cybercom Ltd.]]
