@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-17 11:21:27
+# 代理列表更新时间: 2026-01-17 19:40:02
 # 总计: 30 个代理
 
+socks5://80.90.179.29:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [lease for Timeweb]]
+socks5://134.35.130.50:1080 [[机房] 也门 [Public Telecommunication Corporation]]
 socks5://37.120.162.180:10000 [[机房] 法国 奥克西塔尼大区 [Proxad / Free SAS]]
 socks5://16.78.149.128:1080 [[机房] 印度尼西亚 雅加达 雅加达 — 亚马逊云 Aws [Amazon Data Services Jakarta]]
 socks5://95.244.115.243:1080 [[家宽] 意大利 威尼托 维罗纳 [Telecom Italia S.p.A.]]
@@ -29,5 +31,3 @@ socks5://146.19.56.223:1080 [[家宽] 美国 德克萨斯州 休斯顿 [LIMITED 
 socks5://108.66.217.58:1080 [[机房] 美国 加州 尔湾 [AT&T Enterprises, LLC]]
 socks5://62.76.108.30:1080 [[机房] 俄罗斯 卡拉恰耶夫-切尔克西亚共和国 [Cybercom Ltd.]]
 socks5://44.211.98.12:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
-socks5://109.120.182.198:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [Baykov Ilya Sergeevich]]
-socks5://18.179.4.55:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
