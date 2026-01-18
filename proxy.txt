@@ -1,11 +1,11 @@
-# 代理列表更新时间: 2026-01-18 13:40:03
+# 代理列表更新时间: 2026-01-18 14:00:02
 # 总计: 30 个代理
 
-socks5://89.189.64.109:1080 [[机房] 也门 [YemenNet ADSL Pool]]
-socks5://89.189.64.153:1080 [[机房] 也门 [YemenNet ADSL Pool]]
-socks5://89.189.78.147:1080 [[机房] 也门 [YemenNet ADSL Pool]]
-socks5://89.189.78.27:1080 [[机房] 也门 [YemenNet ADSL Pool]]
-socks5://89.189.78.28:1080 [[机房] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.64.109:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.64.153:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.78.147:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.78.27:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
+socks5://89.189.78.28:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://46.203.233.104:2222 [[机房] 德国 黑森州 法兰克福 [FREAKHOSTING]]
 socks5://43.161.216.7:1080 [[机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]]
 socks5://154.37.219.70:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
