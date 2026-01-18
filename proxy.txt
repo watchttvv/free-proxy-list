@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-01-19 02:40:02
+# 代理列表更新时间: 2026-01-19 03:00:02
 # 总计: 30 个代理
 
-socks5://27.69.167.180:8888 [[机房] 越南 [Viettel Group]]
-socks5://183.81.91.49:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
+socks5://103.179.44.11:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://27.69.167.180:8888 [[家宽] 越南 [Viettel Group]]
+socks5://183.81.91.49:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://103.179.44.140:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://103.179.44.16:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://103.179.44.213:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
@@ -30,4 +31,3 @@ socks5://45.158.220.27:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.,
 socks5://45.158.220.59:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.4:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.60:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.3:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
