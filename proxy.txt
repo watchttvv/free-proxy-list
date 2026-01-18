@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-19 06:40:03
+# 代理列表更新时间: 2026-01-19 07:00:02
 # 总计: 30 个代理
 
+socks5://87.121.38.30:1080 [[机房] 塞尔维亚 中塞尔维亚 贝尔格莱德 [Digital City FZE]]
+socks5://195.62.32.233:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://103.127.99.99:1080 [[机房] 印度尼西亚 西爪哇省 勿加泗 [PT. PINGGA JAYA UTAMA]]
 socks5://34.23.10.179:1080 [[机房] 美国 南卡罗来纳州 北查尔斯顿 — 谷歌云 GCP [Google LLC]]
 socks5://154.90.49.29:1080 [[机房] 印度尼西亚 雅加达 雅加达 [Lightnode Limited]]
@@ -29,5 +31,3 @@ socks5://45.158.220.56:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.,
 socks5://45.158.220.9:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.39:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.25:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.62:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.46:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
