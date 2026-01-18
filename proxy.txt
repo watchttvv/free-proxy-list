@@ -1,6 +1,12 @@
-# 代理列表更新时间: 2026-01-18 16:00:02
+# 代理列表更新时间: 2026-01-18 16:20:02
 # 总计: 30 个代理
 
+socks5://182.237.1.83:10801 [[机房] 美国 加州 洛杉矶 [GTT Americas, LLC]]
+socks5://160.187.131.81:1080 [[机房] 新加坡 新加坡 新加坡 [GOTMYHOST]]
+socks5://160.187.131.85:1080 [[机房] 新加坡 新加坡 新加坡 [GOTMYHOST]]
+socks5://160.187.131.83:1080 [[机房] 新加坡 新加坡 新加坡 [GOTMYHOST]]
+socks5://160.187.131.87:1080 [[机房] 新加坡 新加坡 新加坡 [GOTMYHOST]]
+socks5://160.187.131.84:1080 [[机房] 新加坡 新加坡 新加坡 [GOTMYHOST]]
 socks5://23.95.3.176:1080 [[机房] 美国 纽约州 水牛城 — RackNerd [RackNerd LLC]]
 socks5://88.198.214.227:1080 [[机房] 德国 黑森州 法兰克福 — Hetzner [Hetzner Online GmbH]]
 socks5://92.241.124.199:1080 [[机房] 拉脱维亚 里加 里加 — veesp.com [Veesp datacenter clients]]
@@ -25,9 +31,3 @@ socks5://171.245.82.186:1080 [[家宽] 越南 [Viettel Group]]
 socks5://171.245.80.161:1080 [[家宽] 越南 [Viettel Group]]
 socks5://171.245.82.226:1080 [[家宽] 越南 [Viettel Group]]
 socks5://171.245.82.23:1080 [[家宽] 越南 [Viettel Group]]
-socks5://171.245.83.30:1080 [[家宽] 越南 [Viettel Group]]
-socks5://171.245.85.71:1080 [[家宽] 越南 [Viettel Group]]
-socks5://195.14.27.201:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
-socks5://103.82.246.159:1080 [[家宽] 印度尼西亚 东爪哇省 [PT Aswatama Jaya Mandiri]]
-socks5://45.127.154.143:1080 [[家宽] 柬埔寨 金边 金边 [Telecom Cambodia (T.C.)]]
-socks5://161.35.82.57:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
