@@ -1,6 +1,11 @@
-# 代理列表更新时间: 2026-01-18 11:20:44
+# 代理列表更新时间: 2026-01-18 19:40:02
 # 总计: 30 个代理
 
+socks5://45.77.42.38:40000 [[机房] 美国 宾夕法尼亚州 匹兹堡 [SEI Data, Inc.]]
+socks5://51.79.182.81:40000 [[机房] 美国 加州 萨克拉门托 [AT&T Enterprises, LLC]]
+socks5://109.238.107.179:1080 [[机房] 俄罗斯 普斯科夫州 [KVS Ltd. Broadband customer connections (PPPoE)]]
+socks5://109.238.102.92:1080 [[机房] 俄罗斯 普斯科夫州 [KVS Ltd. Broadband customer connections (PPPoE)]]
+socks5://139.59.101.21:40000 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [Shaw Communications]]
 socks5://202.79.166.50:40000 [[机房] 智利 [Telefonica del Sur S.A]]
 socks5://202.79.166.59:40000 [[机房] 智利 [Telefonica del Sur S.A]]
 socks5://157.173.201.48:40000 [[家宽] 美国 田纳西州 纳什维尔 [T-Mobile USA, Inc.]]
@@ -26,8 +31,3 @@ socks5://27.123.254.251:1080 [[家宽] 孟加拉国 迈门辛专区 [Millennium 
 socks5://185.202.236.78:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://38.242.229.138:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://137.220.48.4:1080 [[机房] 美国 德克萨斯州 达拉斯 — Vultr [Vultr Holdings, LLC]]
-socks5://83.217.209.51:40000 [[机房] 美国 纽约州 纽约 [Charter Communications LLC]]
-socks5://37.9.13.225:40000 [[机房] 捷克 布拉格 布拉格 [STARNET CZ]]
-socks5://92.46.80.234:8080 [[家宽] 哈萨克斯坦 卡拉干达州 卡拉干达 [JSC Kazakhtelecom]]
-socks5://38.55.129.163:40000 [[机房] 韩国 釜山广域市 釜山广域市 [Korea Telecom]]
-socks5://69.164.250.246:40000 [[机房] 美国 明尼苏达州 明尼阿波利斯 [Cogent Communications, LLC]]
