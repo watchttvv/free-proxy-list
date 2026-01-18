@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-18 14:00:02
+# 代理列表更新时间: 2026-01-18 14:20:02
 # 总计: 30 个代理
 
+socks5://109.111.86.232:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [NTERCOMTEL Limited Company]]
 socks5://89.189.64.109:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://89.189.64.153:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://89.189.78.147:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
@@ -30,4 +31,3 @@ socks5://44.200.142.54:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚�
 socks5://42.112.14.75:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://43.201.33.23:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://103.38.237.22:1080 [[家宽] 越南 河内 河内市 [Phu Hai Computer Co., Ltd]]
-socks5://79.143.29.131:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Selectel Network]]
