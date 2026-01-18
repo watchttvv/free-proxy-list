@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-18 11:00:02
+# 代理列表更新时间: 2026-01-18 11:20:03
 # 总计: 30 个代理
 
+socks5://154.37.219.70:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
+socks5://154.37.220.253:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
 socks5://78.153.139.124:1080 [[机房] 芬兰 新地区 赫尔辛基 [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
 socks5://94.159.96.2:4444 [[机房] 德国 黑森州 法兰克福 [H2NEXUS LTD]]
 socks5://194.67.207.11:1080 [[机房] 芬兰 新地区 赫尔辛基 [POWER-SERVERS-ROLE-ORG]]
@@ -29,5 +31,3 @@ socks5://95.142.38.208:1080 [[机房] 俄罗斯 莫斯科 莫斯科 — Cloudfla
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
 socks5://36.212.4.103:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://163.5.31.128:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://163.5.31.47:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://80.90.179.29:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [lease for Timeweb]]
