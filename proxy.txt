@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-18 10:00:03
+# 代理列表更新时间: 2026-01-18 10:20:02
 # 总计: 30 个代理
 
+socks5://194.67.207.11:1080 [[机房] 芬兰 新地区 赫尔辛基 [POWER-SERVERS-ROLE-ORG]]
 socks5://171.245.82.206:1080 [[家宽] 越南 [Viettel Group]]
 socks5://171.245.84.209:1080 [[家宽] 越南 [Viettel Group]]
 socks5://171.245.82.186:1080 [[家宽] 越南 [Viettel Group]]
@@ -30,4 +31,3 @@ socks5://163.5.31.47:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-
 socks5://80.90.179.29:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [lease for Timeweb]]
 socks5://134.35.130.50:1080 [[家宽] 也门 [Public Telecommunication Corporation]]
 socks5://37.120.162.180:10000 [[机房] 法国 奥克西塔尼大区 [Proxad / Free SAS]]
-socks5://16.78.149.128:1080 [[机房] 印度尼西亚 雅加达 雅加达 — 亚马逊云 Aws [Amazon Data Services Jakarta]]
