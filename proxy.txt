@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-19 00:00:03
+# 代理列表更新时间: 2026-01-19 00:20:03
 # 总计: 30 个代理
 
+socks5://141.11.42.163:1080 [[机房] 中国 台湾 彰化县 [Akari Networks (Taipei)]]
+socks5://36.73.210.41:1080 [[机房] 印度尼西亚 东爪哇省 Madiun [PT TELKOM INDONESIA]]
 socks5://107.174.222.172:1080 [[机房] 美国 加州 洛杉矶 [HostPapa]]
 socks5://45.158.220.43:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.5:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
@@ -29,5 +31,3 @@ socks5://45.158.220.53:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.,
 socks5://45.158.220.61:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.12:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.21:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.10:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.37:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
