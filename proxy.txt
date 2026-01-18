@@ -1,7 +1,8 @@
-# 代理列表更新时间: 2026-01-18 08:00:02
+# 代理列表更新时间: 2026-01-18 08:20:02
 # 总计: 30 个代理
 
-socks5://45.127.154.143:1080 [[机房] 柬埔寨 金边 金边 [Telecom Cambodia (T.C.)]]
+socks5://103.82.246.159:1080 [[机房] 印度尼西亚 东爪哇省 [PT Aswatama Jaya Mandiri]]
+socks5://45.127.154.143:1080 [[家宽] 柬埔寨 金边 金边 [Telecom Cambodia (T.C.)]]
 socks5://161.35.82.57:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://205.198.76.38:1111 [[家宽] 中国 香港 香港 [NET 62 192 175 0 24]]
 socks5://44.200.142.54:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
@@ -15,7 +16,6 @@ socks5://113.253.50.254:1111 [[机房] 中国 香港 香港 [HGC Global Communic
 socks5://95.142.38.208:1080 [[机房] 俄罗斯 莫斯科 莫斯科 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
 socks5://36.212.4.103:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
-socks5://109.226.250.132:1080 [[家宽] 俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克 [Orion Telecom LLC]]
 socks5://163.5.31.128:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://163.5.31.47:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://80.90.179.29:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [lease for Timeweb]]
