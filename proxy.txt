@@ -1,7 +1,16 @@
-# 代理列表更新时间: 2026-01-18 08:40:03
+# 代理列表更新时间: 2026-01-18 09:00:02
 # 总计: 30 个代理
 
-socks5://103.82.246.159:1080 [[机房] 印度尼西亚 东爪哇省 [PT Aswatama Jaya Mandiri]]
+socks5://171.245.82.206:1080 [[家宽] 越南 [Viettel Group]]
+socks5://171.245.84.209:1080 [[家宽] 越南 [Viettel Group]]
+socks5://171.245.82.186:1080 [[家宽] 越南 [Viettel Group]]
+socks5://171.245.80.161:1080 [[家宽] 越南 [Viettel Group]]
+socks5://171.245.82.226:1080 [[家宽] 越南 [Viettel Group]]
+socks5://171.245.82.23:1080 [[家宽] 越南 [Viettel Group]]
+socks5://171.245.83.30:1080 [[家宽] 越南 [Viettel Group]]
+socks5://171.245.85.71:1080 [[家宽] 越南 [Viettel Group]]
+socks5://195.14.27.201:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
+socks5://103.82.246.159:1080 [[家宽] 印度尼西亚 东爪哇省 [PT Aswatama Jaya Mandiri]]
 socks5://45.127.154.143:1080 [[家宽] 柬埔寨 金边 金边 [Telecom Cambodia (T.C.)]]
 socks5://161.35.82.57:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://205.198.76.38:1111 [[家宽] 中国 香港 香港 [NET 62 192 175 0 24]]
@@ -22,12 +31,3 @@ socks5://80.90.179.29:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [lease 
 socks5://134.35.130.50:1080 [[家宽] 也门 [Public Telecommunication Corporation]]
 socks5://37.120.162.180:10000 [[机房] 法国 奥克西塔尼大区 [Proxad / Free SAS]]
 socks5://16.78.149.128:1080 [[机房] 印度尼西亚 雅加达 雅加达 — 亚马逊云 Aws [Amazon Data Services Jakarta]]
-socks5://95.244.115.243:1080 [[家宽] 意大利 威尼托 维罗纳 [Telecom Italia S.p.A.]]
-socks5://1.161.137.229:8080 [[机房] 中国 台湾 台北市 [Data Communication Business Group,]]
-socks5://80.89.237.30:1080 [[机房] 荷兰 北荷兰省 [NovoServe B.V.]]
-socks5://91.195.86.147:1080 [[家宽] 乌克兰 克里米亚 雅尔塔 [KNET TELECOM Ltd]]
-socks5://194.147.215.125:1080 [[机房] 德国 黑森州 法兰克福 [Snowd Security OU]]
-socks5://162.128.64.88:1080 [[机房] 印度尼西亚 雅加达 雅加达 — Zenlayer [Zenlayer (Singapore) PTE. LTD]]
-socks5://146.103.101.34:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
-socks5://182.253.123.120:1080 [[家宽] 印度尼西亚 西爪哇省 万隆 [Biznet Networks]]
-socks5://27.11.97.62:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
