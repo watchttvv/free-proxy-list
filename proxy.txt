@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-18 14:20:02
+# 代理列表更新时间: 2026-01-18 14:40:02
 # 总计: 30 个代理
 
+socks5://92.241.124.199:1080 [[机房] 拉脱维亚 里加 里加 — veesp.com [Veesp datacenter clients]]
+socks5://92.241.122.122:1080 [[机房] 俄罗斯 [Smoltelecom PPPoE (dynamic IPs for Citycomm, pool #1)]]
+socks5://77.105.143.242:4444 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://109.111.86.232:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [NTERCOMTEL Limited Company]]
 socks5://89.189.64.109:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://89.189.64.153:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
@@ -28,6 +31,3 @@ socks5://45.127.154.143:1080 [[家宽] 柬埔寨 金边 金边 [Telecom Cambodia
 socks5://161.35.82.57:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://205.198.76.38:1111 [[家宽] 中国 香港 香港 [NET 62 192 175 0 24]]
 socks5://44.200.142.54:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
-socks5://42.112.14.75:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
-socks5://43.201.33.23:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [Amazon.com, Inc.]]
-socks5://103.38.237.22:1080 [[家宽] 越南 河内 河内市 [Phu Hai Computer Co., Ltd]]
