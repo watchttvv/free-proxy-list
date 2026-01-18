@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-18 20:00:02
+# 代理列表更新时间: 2026-01-18 20:20:02
 # 总计: 30 个代理
 
+socks5://172.86.90.107:40000 [[机房] 美国 德克萨斯州 普莱诺 [AT&T Enterprises, LLC]]
 socks5://45.77.42.38:40000 [[机房] 美国 宾夕法尼亚州 匹兹堡 [SEI Data, Inc.]]
 socks5://51.79.182.81:40000 [[机房] 美国 加州 萨克拉门托 [AT&T Enterprises, LLC]]
 socks5://109.238.107.179:1080 [[家宽] 俄罗斯 普斯科夫州 [KVS Ltd. Broadband customer connections (PPPoE)]]
@@ -30,4 +31,3 @@ socks5://110.232.85.196:7080 [[机房] 印度尼西亚 楠榜省 班達楠榜 [P
 socks5://27.123.254.251:1080 [[家宽] 孟加拉国 迈门辛专区 [Millennium Computers & Networking]]
 socks5://185.202.236.78:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://38.242.229.138:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
-socks5://137.220.48.4:1080 [[机房] 美国 德克萨斯州 达拉斯 — Vultr [Vultr Holdings, LLC]]
