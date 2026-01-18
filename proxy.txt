@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-18 19:00:02
+# 代理列表更新时间: 2026-01-18 19:20:03
 # 总计: 30 个代理
 
+socks5://202.79.166.50:40000 [[机房] 智利 [Telefonica del Sur S.A]]
+socks5://202.79.166.59:40000 [[机房] 智利 [Telefonica del Sur S.A]]
 socks5://157.173.201.48:40000 [[家宽] 美国 田纳西州 纳什维尔 [T-Mobile USA, Inc.]]
 socks5://161.248.113.160:1080 [[机房] 日本 东京 东京 [rainbow network limited]]
 socks5://34.10.205.89:1080 [[机房] 巴西 戈亚斯州 戈亚尼亚 [THE FIBER INTERNET BANDA LARGA]]
@@ -29,5 +31,3 @@ socks5://37.9.13.225:40000 [[机房] 捷克 布拉格 布拉格 [STARNET CZ]]
 socks5://92.46.80.234:8080 [[家宽] 哈萨克斯坦 卡拉干达州 卡拉干达 [JSC Kazakhtelecom]]
 socks5://38.55.129.163:40000 [[机房] 韩国 釜山广域市 釜山广域市 [Korea Telecom]]
 socks5://69.164.250.246:40000 [[机房] 美国 明尼苏达州 明尼阿波利斯 [Cogent Communications, LLC]]
-socks5://182.237.1.83:10801 [[机房] 美国 加州 洛杉矶 [GTT Americas, LLC]]
-socks5://160.187.131.81:1080 [[家宽] 新加坡 新加坡 新加坡 [GOTMYHOST]]
