@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-18 12:00:03
+# 代理列表更新时间: 2026-01-18 12:20:02
 # 总计: 30 个代理
 
+socks5://46.203.233.104:2222 [[机房] 德国 黑森州 法兰克福 [FREAKHOSTING]]
 socks5://43.161.216.7:1080 [[机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]]
 socks5://154.37.219.70:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
 socks5://154.37.220.253:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
@@ -30,4 +31,3 @@ socks5://89.189.71.112:1080 [[家宽] 也门 [YemenNet ADSL Pool]]
 socks5://113.253.50.254:1111 [[机房] 中国 香港 香港 [HGC Global Communications Limited]]
 socks5://95.142.38.208:1080 [[机房] 俄罗斯 莫斯科 莫斯科 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
-socks5://36.212.4.103:1080 [[机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Technologies Inc.]]
