@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-18 07:40:03
+# 代理列表更新时间: 2026-01-18 08:00:02
 # 总计: 30 个代理
 
+socks5://45.127.154.143:1080 [[机房] 柬埔寨 金边 金边 [Telecom Cambodia (T.C.)]]
 socks5://161.35.82.57:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean [DigitalOcean, LLC]]
 socks5://205.198.76.38:1111 [[家宽] 中国 香港 香港 [NET 62 192 175 0 24]]
 socks5://44.200.142.54:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
@@ -30,4 +31,3 @@ socks5://162.128.64.88:1080 [[机房] 印度尼西亚 雅加达 雅加达 — Ze
 socks5://146.103.101.34:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
 socks5://182.253.123.120:1080 [[家宽] 印度尼西亚 西爪哇省 万隆 [Biznet Networks]]
 socks5://27.11.97.62:1080 [[机房] 新加坡 新加坡 新加坡 — 微软云 Azure [cloud]]
-socks5://42.118.180.39:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
