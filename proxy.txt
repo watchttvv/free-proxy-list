@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-19 03:00:02
+# 代理列表更新时间: 2026-01-19 03:20:03
 # 总计: 30 个代理
 
+socks5://103.179.44.10:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://103.179.44.11:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://27.69.167.180:8888 [[家宽] 越南 [Viettel Group]]
 socks5://183.81.91.49:1111 [[家宽] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
@@ -9,7 +10,6 @@ socks5://103.179.44.16:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://103.179.44.213:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://141.11.42.163:1080 [[机房] 中国 台湾 彰化县 [Akari Networks (Taipei)]]
 socks5://36.73.210.41:1080 [[机房] 印度尼西亚 东爪哇省 Madiun [PT TELKOM INDONESIA]]
-socks5://107.174.222.172:1080 [[机房] 美国 加州 洛杉矶 [HostPapa]]
 socks5://45.158.220.43:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.5:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.20:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
