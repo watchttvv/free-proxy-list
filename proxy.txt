@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-19 09:20:02
+# 代理列表更新时间: 2026-01-19 09:40:03
 # 总计: 30 个代理
 
+socks5://47.242.12.226:1080 [[机房] 中国 香港 香港 — 阿里云 [ALIBABA CLOUD - HK]]
+socks5://114.41.143.177:1080 [[机房] 中国 台湾 台中市 [Data Communication Business Group,]]
 socks5://156.227.28.8:5555 [[机房] 中国 台湾 台北市 [Antbox Network Limited]]
 socks5://134.199.159.23:1080 [[机房] 澳大利亚 新南威尔士州 悉尼 — DigitalOcean [DigitalOcean, LLC]]
 socks5://206.119.168.194:1080 [[机房] 美国 加州 洛杉矶 [Cogent Communications, LLC]]
@@ -29,5 +31,3 @@ socks5://45.158.220.48:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.,
 socks5://45.158.220.11:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.35:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.14:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.31:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.52:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
