@@ -1,6 +1,12 @@
-# 代理列表更新时间: 2026-01-20 00:20:03
+# 代理列表更新时间: 2026-01-20 00:40:02
 # 总计: 30 个代理
 
+socks5://91.108.244.254:60000 [[机房] 罗马尼亚 [RCS & RDS Residential CGN]]
+socks5://43.250.54.139:60000 [[机房] 德国 汉堡市 汉堡 [Packethub S.A.]]
+socks5://51.79.195.217:60000 [[机房] 危地马拉 危地马拉省 危地马拉市 [Servicios Innovadores de Comunicación y Entretenimiento, S.A]]
+socks5://51.79.200.188:60000 [[机房] 泰国 清迈府 清迈 [TRUE BROADBAND]]
+socks5://51.79.195.160:60000 [[机房] 新加坡 新加坡 [SingNET Broadband]]
+socks5://15.235.156.40:60000 [[机房] 美国 佛罗里达州 奥兰多 [AT&T Enterprises, LLC]]
 socks5://31.182.117.16:1080 [[机房] 波兰 马佐维亚省 華沙 [Toya sp. z o.o.]]
 socks5://152.228.132.13:60000 [[机房] 奥地利 奥地利州 维也纳 [H3G CUSTOMERS NET]]
 socks5://94.103.92.224:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS Hosting]]
@@ -25,9 +31,3 @@ socks5://193.17.95.242:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PI
 socks5://193.17.95.64:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://193.17.95.65:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://193.17.95.243:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://193.17.95.220:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://193.17.95.211:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://193.17.95.241:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://193.17.95.232:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://38.180.203.70:1080 [[机房] 美国 伊利诺伊州 芝加哥 [3NT SOLUTIONS LLP]]
-socks5://77.73.233.88:1080 [[机房] 拉脱维亚 里加 里加 [LV BEGET]]
