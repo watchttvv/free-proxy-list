@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-20 06:20:03
+# 代理列表更新时间: 2026-01-20 06:40:02
 # 总计: 30 个代理
 
+socks5://103.229.126.5:1080 [[机房] 中国 香港 香港 [Hosted in Cloudie Limited in Hong Kong]]
 socks5://124.156.222.36:1080 [[机房] 阿联酋 迪拜 迪拜 [WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD]]
 socks5://146.56.165.248:1111 [[机房] 韩国 首尔特别市 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://37.112.63.173:4444 [[家宽] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [JSC Rostelecom LIR]]
@@ -30,4 +31,3 @@ socks5://45.120.80.115:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 
 socks5://45.120.80.117:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
 socks5://45.120.80.118:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
 socks5://43.163.127.208:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
-socks5://77.105.161.112:60000 [[机房] 越南 胡志明市 胡志明市 [FPT Telecom Company]]
