@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-20 03:20:02
+# 代理列表更新时间: 2026-01-20 03:40:02
 # 总计: 30 个代理
 
+socks5://176.34.40.50:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
 socks5://185.185.51.104:60000 [[机房] 西班牙 加利西亚 維戈 [ggsn-internet.mundo-r.com]]
 socks5://62.60.131.156:60000 [[机房] 英国 英格兰 伦敦 [Plusnet Broadband]]
 socks5://151.243.18.43:60000 [[机房] 美国 加州 维克多维尔 [Frontier Communications Corporation]]
@@ -30,4 +31,3 @@ socks5://118.114.89.114:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT
 socks5://138.128.247.245:1080 [[机房] 美国 纽约州 纽约 [Cloud Web Manage]]
 socks5://77.35.141.169:1080 [[家宽] 俄罗斯 滨海边疆区 海参崴 [Dynamic Broadband Clients]]
 socks5://193.17.95.210:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
-socks5://193.17.95.242:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
