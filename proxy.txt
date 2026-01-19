@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-19 14:20:03
+# 代理列表更新时间: 2026-01-19 14:40:02
 # 总计: 30 个代理
 
+socks5://118.114.89.114:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
+socks5://138.128.247.245:1080 [[机房] 美国 纽约州 纽约 [Cloud Web Manage]]
 socks5://41.175.141.82:1080 [[机房] 南非 豪登省 [Liquid Telecommunications Operations Limited]]
 socks5://77.35.12.184:1080 [[家宽] 俄罗斯 滨海边疆区 海参崴 [Dynamic Broadband Clients]]
 socks5://77.35.141.169:1080 [[家宽] 俄罗斯 滨海边疆区 海参崴 [Dynamic Broadband Clients]]
@@ -29,5 +31,3 @@ socks5://103.127.99.99:1080 [[机房] 印度尼西亚 西爪哇省 勿加泗 [PT
 socks5://34.23.10.179:1080 [[机房] 美国 南卡罗来纳州 北查尔斯顿 — 谷歌云 GCP [Google LLC]]
 socks5://154.90.49.29:1080 [[机房] 印度尼西亚 雅加达 雅加达 [Lightnode Limited]]
 socks5://31.29.180.13:1080 [[家宽] 俄罗斯 下诺夫哥罗德州 阿爾扎馬斯 [Arzamas CSC of Privolgsky macro branch JSC "Comstar-Region"]]
-socks5://103.179.44.124:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://103.179.44.10:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
