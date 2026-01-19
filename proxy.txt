@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2026-01-20 04:20:02
+# 代理列表更新时间: 2026-01-20 04:40:03
 # 总计: 30 个代理
 
+socks5://117.7.80.150:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
+socks5://117.7.81.125:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
+socks5://117.7.86.13:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
+socks5://117.7.81.57:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://176.34.40.50:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
 socks5://185.185.51.104:60000 [[机房] 西班牙 加利西亚 維戈 [ggsn-internet.mundo-r.com]]
 socks5://62.60.131.156:60000 [[机房] 英国 英格兰 伦敦 [Plusnet Broadband]]
@@ -27,7 +31,3 @@ socks5://77.105.161.112:60000 [[机房] 越南 胡志明市 胡志明市 [FPT Te
 socks5://150.107.5.109:1080 [[机房] 柬埔寨 金边 金边 [Angkor Data Communication]]
 socks5://185.28.85.88:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Hosting VDS]]
 socks5://159.198.76.142:1080 [[机房] 美国 加州 洛杉矶 [Namecheap, Inc.]]
-socks5://118.114.89.114:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
-socks5://138.128.247.245:1080 [[机房] 美国 纽约州 纽约 [Cloud Web Manage]]
-socks5://77.35.141.169:1080 [[家宽] 俄罗斯 滨海边疆区 海参崴 [Dynamic Broadband Clients]]
-socks5://193.17.95.210:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
