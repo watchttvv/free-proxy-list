@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-19 23:00:04
+# 代理列表更新时间: 2026-01-19 23:20:03
 # 总计: 30 个代理
 
+socks5://152.228.132.13:60000 [[机房] 奥地利 奥地利州 维也纳 [H3G CUSTOMERS NET]]
 socks5://94.103.92.224:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS Hosting]]
 socks5://45.120.80.116:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
 socks5://45.120.80.115:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
@@ -30,4 +31,3 @@ socks5://193.17.95.232:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PI
 socks5://38.180.203.70:1080 [[机房] 美国 伊利诺伊州 芝加哥 [3NT SOLUTIONS LLP]]
 socks5://77.73.233.88:1080 [[机房] 拉脱维亚 里加 里加 [LV BEGET]]
 socks5://194.59.207.74:1080 [[机房] 美国 纽约州 纽约 [Verizon Business]]
-socks5://47.242.12.226:1080 [[机房] 中国 香港 香港 — 阿里云 [ALIBABA CLOUD - HK]]
