@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-20 07:20:03
+# 代理列表更新时间: 2026-01-20 07:40:02
 # 总计: 30 个代理
 
+socks5://58.221.58.60:1080 [[机房] 中国 香港 香港 — 阿里云 [Aliyun Computing Co.LTD]]
+socks5://46.19.66.190:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [JSC "TIMEWEB"]]
 socks5://103.229.126.5:1080 [[机房] 中国 香港 香港 [Hosted in Cloudie Limited in Hong Kong]]
 socks5://124.156.222.36:1080 [[机房] 阿联酋 迪拜 迪拜 [WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD]]
 socks5://146.56.165.248:1111 [[机房] 韩国 首尔特别市 — 甲骨文云 Oracle [Oracle Corporation]]
@@ -29,5 +31,3 @@ socks5://94.103.92.224:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS 
 socks5://45.120.80.116:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
 socks5://45.120.80.115:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
 socks5://45.120.80.117:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
-socks5://45.120.80.118:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
-socks5://43.163.127.208:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
