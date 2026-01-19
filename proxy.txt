@@ -1,7 +1,9 @@
-# 代理列表更新时间: 2026-01-19 07:40:02
+# 代理列表更新时间: 2026-01-19 08:00:02
 # 总计: 30 个代理
 
-socks5://193.108.58.29:1080 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [CA INETCLOUD]]
+socks5://206.119.168.194:1080 [[机房] 美国 加州 洛杉矶 [Cogent Communications, LLC]]
+socks5://206.119.178.35:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
+socks5://193.108.58.29:1080 [[家宽] 加拿大 不列颠哥伦比亚 温哥华 [CA INETCLOUD]]
 socks5://87.121.38.30:1080 [[机房] 塞尔维亚 中塞尔维亚 贝尔格莱德 [Digital City FZE]]
 socks5://195.62.32.233:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
 socks5://103.127.99.99:1080 [[机房] 印度尼西亚 西爪哇省 勿加泗 [PT. PINGGA JAYA UTAMA]]
@@ -29,5 +31,3 @@ socks5://45.158.220.31:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.,
 socks5://45.158.220.52:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.32:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.56:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.9:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.39:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
