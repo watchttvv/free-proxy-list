@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-20 05:00:02
+# 代理列表更新时间: 2026-01-20 05:20:02
 # 总计: 30 个代理
 
-socks5://37.112.63.173:4444 [[机房] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [JSC Rostelecom LIR]]
+socks5://37.112.63.173:4444 [[家宽] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [JSC Rostelecom LIR]]
 socks5://117.7.80.150:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://117.7.81.125:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
 socks5://117.7.86.13:1111 [[机房] 越南 [AdditionalIP range for 3G service of Viettel in Ha Noi]]
