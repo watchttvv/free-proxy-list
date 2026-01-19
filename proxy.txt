@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-19 08:20:02
+# 代理列表更新时间: 2026-01-19 08:40:03
 # 总计: 30 个代理
 
+socks5://134.199.159.23:1080 [[机房] 澳大利亚 新南威尔士州 悉尼 — DigitalOcean [DigitalOcean, LLC]]
 socks5://206.119.168.194:1080 [[机房] 美国 加州 洛杉矶 [Cogent Communications, LLC]]
 socks5://206.119.178.35:1080 [[机房] 中国 香港 香港 [Cogent Communications, LLC]]
 socks5://193.108.58.29:1080 [[家宽] 加拿大 不列颠哥伦比亚 温哥华 [CA INETCLOUD]]
@@ -30,4 +31,3 @@ socks5://45.158.220.14:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.,
 socks5://45.158.220.31:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.52:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.158.220.32:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.158.220.56:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
