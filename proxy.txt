@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-01-20 03:00:02
+# 代理列表更新时间: 2026-01-20 03:20:02
 # 总计: 30 个代理
 
 socks5://185.185.51.104:60000 [[机房] 西班牙 加利西亚 維戈 [ggsn-internet.mundo-r.com]]
@@ -24,10 +24,10 @@ socks5://45.120.80.118:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 
 socks5://43.163.127.208:1080 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
 socks5://77.105.161.112:60000 [[机房] 越南 胡志明市 胡志明市 [FPT Telecom Company]]
 socks5://150.107.5.109:1080 [[机房] 柬埔寨 金边 金边 [Angkor Data Communication]]
-socks5://95.80.103.217:1080 [[机房] 俄罗斯 鄂木斯克州 鄂木斯克 [Omsk Russia]]
 socks5://185.28.85.88:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Hosting VDS]]
 socks5://159.198.76.142:1080 [[机房] 美国 加州 洛杉矶 [Namecheap, Inc.]]
-socks5://78.85.189.212:1080 [[家宽] 俄罗斯 乌德穆尔蒂亚共和国 伊熱夫斯克 [abuse mailbox: [email protected]]]
 socks5://118.114.89.114:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
 socks5://138.128.247.245:1080 [[机房] 美国 纽约州 纽约 [Cloud Web Manage]]
-socks5://41.175.141.82:1080 [[机房] 南非 豪登省 [Liquid Telecommunications Operations Limited]]
+socks5://77.35.141.169:1080 [[家宽] 俄罗斯 滨海边疆区 海参崴 [Dynamic Broadband Clients]]
+socks5://193.17.95.210:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
+socks5://193.17.95.242:1080 [[机房] 荷兰 弗莱福兰省 莱利斯塔德 [PIO-Hosting GmbH]]
