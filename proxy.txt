@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-20 07:40:02
+# 代理列表更新时间: 2026-01-20 08:00:02
 # 总计: 30 个代理
 
+socks5://103.239.54.22:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://103.239.52.157:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://58.221.58.60:1080 [[机房] 中国 香港 香港 — 阿里云 [Aliyun Computing Co.LTD]]
 socks5://46.19.66.190:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [JSC "TIMEWEB"]]
 socks5://103.229.126.5:1080 [[机房] 中国 香港 香港 [Hosted in Cloudie Limited in Hong Kong]]
@@ -29,5 +31,3 @@ socks5://31.182.117.16:1080 [[机房] 波兰 马佐维亚省 華沙 [Toya sp. z 
 socks5://152.228.132.13:60000 [[机房] 奥地利 奥地利州 维也纳 [H3G CUSTOMERS NET]]
 socks5://94.103.92.224:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [VDSINA VDS Hosting]]
 socks5://45.120.80.116:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
-socks5://45.120.80.115:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
-socks5://45.120.80.117:5555 [[机房] 中国 香港 香港 [7/F, TRANS ASIA CTR 18 KIN HONG ST, KWAI CHUNG HONGKONG]]
