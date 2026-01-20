@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-20 19:00:03
+# 代理列表更新时间: 2026-01-20 19:20:03
 # 总计: 30 个代理
 
+socks5://144.76.94.91:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
 socks5://107.172.48.70:1080 [[机房] 美国 加州 洛杉矶 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://94.75.191.8:1080 [[家宽] 俄罗斯 布良斯克州 [PJSC Rostelecom, Bryansk branch]]
 socks5://35.76.216.108:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon.com, Inc.]]
@@ -30,4 +31,3 @@ socks5://45.156.218.161:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.
 socks5://45.156.218.141:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.156.216.85:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.156.216.83:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.216.90:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
