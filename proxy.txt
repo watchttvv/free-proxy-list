@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-20 15:20:02
+# 代理列表更新时间: 2026-01-20 15:40:02
 # 总计: 30 个代理
 
+socks5://94.154.35.74:1080 [[机房] 德国 黑森州 法兰克福 [Individual entrepreneur Dyachenko Valentina Ivanovna]]
 socks5://94.253.1.60:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Flex inteconnection Moscow district]]
 socks5://119.7.130.21:1080 [[家宽] 美国 犹他州 德雷珀 [FiberState, LLC]]
 socks5://78.46.109.69:1080 [[机房] 意大利 拉齐奥大区 罗马市 [MOBILE SOUTH EAST 57]]
@@ -30,4 +31,3 @@ socks5://43.250.54.139:60000 [[机房] 德国 汉堡市 汉堡 [Packethub S.A.]]
 socks5://51.79.195.217:60000 [[机房] 危地马拉 危地马拉省 危地马拉市 [Servicios Innovadores de Comunicación y Entretenimiento, S.A]]
 socks5://51.79.200.188:60000 [[机房] 泰国 清迈府 清迈 [TRUE BROADBAND]]
 socks5://51.79.195.160:60000 [[家宽] 新加坡 新加坡 [SingNET Broadband]]
-socks5://15.235.156.40:60000 [[机房] 美国 佛罗里达州 奥兰多 [AT&T Enterprises, LLC]]
