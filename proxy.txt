@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-21 03:00:02
+# 代理列表更新时间: 2026-01-21 03:20:02
 # 总计: 30 个代理
 
+socks5://198.199.76.11:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://193.221.203.111:1080 [[机房] 芬兰 新地区 赫尔辛基 [Baykov Ilya Sergeevich]]
 socks5://71.19.243.68:1080 [[家宽] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
 socks5://71.19.243.65:1080 [[家宽] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
@@ -30,4 +31,3 @@ socks5://45.156.216.70:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.,
 socks5://45.156.218.149:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.156.218.155:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.156.216.78:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.216.112:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
