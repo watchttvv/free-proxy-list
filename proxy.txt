@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-01-20 23:00:03
+# 代理列表更新时间: 2026-01-20 23:20:02
 # 总计: 30 个代理
 
+socks5://203.31.40.151:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [SEBEK sp. z o.o]]
 socks5://37.235.237.94:1080 [[机房] 俄罗斯 坦波夫州 坦波夫 [LANTA Ltd]]
-socks5://140.235.10.20:1080 [[机房] 新加坡 新加坡 新加坡 [SAKURA LTD.]]
+socks5://140.235.10.20:1080 [[家宽] 新加坡 新加坡 新加坡 [SAKURA LTD.]]
 socks5://62.210.195.241:1080 [[机房] 美国 宾夕法尼亚州 费城 [Verizon Business]]
 socks5://18.166.110.75:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://45.61.184.128:1080 [[机房] 美国 佛罗里达州 迈阿密 — BuyVM [FranTech Solutions]]
@@ -30,4 +31,3 @@ socks5://45.156.218.177:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co.
 socks5://45.156.218.174:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.156.216.74:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.156.216.124:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.218.144:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
