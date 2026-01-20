@@ -1,6 +1,15 @@
-# 代理列表更新时间: 2026-01-21 05:00:02
+# 代理列表更新时间: 2026-01-21 05:20:03
 # 总计: 30 个代理
 
+socks5://160.187.141.45:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://160.187.141.64:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://160.187.141.72:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://160.187.141.134:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://160.187.141.44:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://160.187.141.77:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://160.187.141.43:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://160.187.141.82:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
+socks5://185.85.75.58:1080 [[机房] 土耳其 布尔萨省 布尔萨 [Data TR Bilisim Teknoloji Hizmetleri]]
 socks5://198.199.76.11:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://193.221.203.111:1080 [[机房] 芬兰 新地区 赫尔辛基 [Baykov Ilya Sergeevich]]
 socks5://71.19.243.68:1080 [[家宽] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
@@ -22,12 +31,3 @@ socks5://94.75.191.8:1080 [[家宽] 俄罗斯 布良斯克州 [PJSC Rostelecom, 
 socks5://35.76.216.108:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://45.156.218.186:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
 socks5://45.156.218.179:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.216.66:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.218.162:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.218.171:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.218.146:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.218.185:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.216.70:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.218.149:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.218.155:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
-socks5://45.156.216.78:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
