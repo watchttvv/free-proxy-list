@@ -1,6 +1,14 @@
-# 代理列表更新时间: 2026-01-21 12:00:02
+# 代理列表更新时间: 2026-01-21 12:20:02
 # 总计: 30 个代理
 
+socks5://194.163.182.6:1080 [[机房] 法国 大东部大区 — Contabo [CONTABO]]
+socks5://124.248.190.47:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://203.189.159.120:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://109.120.151.87:443 [[机房] 芬兰 新地区 赫尔辛基 [AEZA NETWORK HELSINKI]]
+socks5://130.185.122.199:8090 [[机房] 德国 黑森州 法兰克福 [ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C]]
+socks5://110.235.249.88:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://103.155.184.51:9898 [[机房] 孟加拉国 达卡专区 达卡 [BCL Online Service]]
+socks5://185.54.178.193:1080 [[机房] 俄罗斯 伊尔库茨克州 [ENPLUS TELECOM DIRECT DOMSETI]]
 socks5://70.39.193.74:1080 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
 socks5://103.85.227.238:9999 [[机房] 美国 加州 洛杉矶 [Vapeline Technology]]
 socks5://181.6.91.101:1080 [[机房] 美国 佛罗里达州 迈阿密 — Vultr [Vultr Holdings, LLC]]
@@ -23,11 +31,3 @@ socks5://178.216.223.147:1080 [[机房] 俄罗斯 鄂木斯克州 鄂木斯克 [
 socks5://45.143.197.69:1080 [[机房] 英国 英格兰 索利赫爾 [Daniel Jackson]]
 socks5://160.187.141.45:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://160.187.141.64:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://160.187.141.72:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://160.187.141.134:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://160.187.141.44:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://160.187.141.77:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://160.187.141.43:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://160.187.141.82:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
-socks5://185.85.75.58:1080 [[机房] 土耳其 布尔萨省 布尔萨 [Data TR Bilisim Teknoloji Hizmetleri]]
-socks5://198.199.76.11:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
