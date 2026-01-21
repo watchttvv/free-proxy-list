@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-21 10:20:02
+# 代理列表更新时间: 2026-01-21 10:40:02
 # 总计: 30 个代理
 
+socks5://82.149.134.95:1080 [[机房] 俄罗斯 摩爾曼斯克州 摩爾曼斯克 [Net By Net Holding LLC]]
+socks5://16.170.225.251:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 亚马逊云 Aws [Amazon Data Services Sweden]]
 socks5://136.244.68.67:8888 [[机房] 英国 英格兰 伦敦 — Vultr [Vultr Holdings, LLC]]
 socks5://202.58.16.236:1080 [[家宽] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
 socks5://94.253.1.60:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Flex inteconnection Moscow district]]
@@ -29,5 +31,3 @@ socks5://71.19.243.67:1080 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [
 socks5://203.31.40.151:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [SEBEK sp. z o.o]]
 socks5://37.235.237.94:1080 [[机房] 俄罗斯 坦波夫州 坦波夫 [LANTA Ltd]]
 socks5://140.235.10.20:1080 [[家宽] 新加坡 新加坡 新加坡 [SAKURA LTD.]]
-socks5://62.210.195.241:1080 [[机房] 美国 宾夕法尼亚州 费城 [Verizon Business]]
-socks5://18.166.110.75:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
