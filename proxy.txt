@@ -1,6 +1,12 @@
-# 代理列表更新时间: 2026-01-21 11:20:02
+# 代理列表更新时间: 2026-01-21 11:40:02
 # 总计: 30 个代理
 
+socks5://181.6.91.101:1080 [[机房] 美国 佛罗里达州 迈阿密 — Vultr [Vultr Holdings, LLC]]
+socks5://181.6.224.137:1080 [[机房] 美国 弗吉尼亚州 马纳萨斯 [US NETCUP KVM MNZ]]
+socks5://181.6.12.25:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
+socks5://181.6.225.205:1080 [[机房] 美国 弗吉尼亚州 马纳萨斯 [US NETCUP KVM MNZ]]
+socks5://181.6.91.172:1080 [[机房] 美国 佛罗里达州 迈阿密 — Linode [Linode]]
+socks5://45.148.244.200:1080 [[机房] 荷兰 上艾瑟尔省 兹沃勒 [ALEXHOST SRL]]
 socks5://82.149.134.95:1080 [[家宽] 俄罗斯 摩爾曼斯克州 摩爾曼斯克 [Net By Net Holding LLC]]
 socks5://16.170.225.251:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 亚马逊云 Aws [Amazon Data Services Sweden]]
 socks5://136.244.68.67:8888 [[机房] 英国 英格兰 伦敦 — Vultr [Vultr Holdings, LLC]]
@@ -25,9 +31,3 @@ socks5://185.85.75.58:1080 [[机房] 土耳其 布尔萨省 布尔萨 [Data TR B
 socks5://198.199.76.11:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://193.221.203.111:1080 [[机房] 芬兰 新地区 赫尔辛基 [Baykov Ilya Sergeevich]]
 socks5://71.19.243.68:1080 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
-socks5://71.19.243.65:1080 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
-socks5://71.19.243.66:1080 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
-socks5://71.19.243.67:1080 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
-socks5://203.31.40.151:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [SEBEK sp. z o.o]]
-socks5://37.235.237.94:1080 [[机房] 俄罗斯 坦波夫州 坦波夫 [LANTA Ltd]]
-socks5://140.235.10.20:1080 [[机房] 新加坡 新加坡 新加坡 [SAKURA LTD.]]
