@@ -1,6 +1,14 @@
-# 代理列表更新时间: 2026-01-21 09:40:02
+# 代理列表更新时间: 2026-01-21 10:00:02
 # 总计: 30 个代理
 
+socks5://202.58.16.236:1080 [[机房] 柬埔寨 金边 金边 [Mega Truenet Communication Co., Ltd.]]
+socks5://94.253.1.60:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Flex inteconnection Moscow district]]
+socks5://103.115.108.13:1234 [[机房] 中国 台湾 台北市 [TUCD]]
+socks5://95.80.103.217:1080 [[机房] 俄罗斯 鄂木斯克州 鄂木斯克 [Omsk Russia]]
+socks5://103.82.246.159:1080 [[机房] 印度尼西亚 雅加达 雅加达 [PT Aswatama Jaya Mandiri]]
+socks5://107.174.222.172:1080 [[机房] 美国 加州 洛杉矶 [HostPapa]]
+socks5://38.55.129.163:40000 [[机房] 英国 英格兰 伦敦 [YouFibre Limited]]
+socks5://178.216.223.147:1080 [[机房] 俄罗斯 鄂木斯克州 鄂木斯克 [MTS PJSC]]
 socks5://45.143.197.69:1080 [[机房] 英国 英格兰 索利赫爾 [Daniel Jackson]]
 socks5://160.187.141.45:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://160.187.141.64:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
@@ -23,11 +31,3 @@ socks5://140.235.10.20:1080 [[家宽] 新加坡 新加坡 新加坡 [SAKURA LTD.
 socks5://62.210.195.241:1080 [[机房] 美国 宾夕法尼亚州 费城 [Verizon Business]]
 socks5://18.166.110.75:1080 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://45.61.184.128:1080 [[机房] 美国 佛罗里达州 迈阿密 — BuyVM [FranTech Solutions]]
-socks5://138.124.108.103:1080 [[机房] 德国 黑森州 法兰克福 [Aeza International LTD]]
-socks5://102.215.228.13:1080 [[机房] 德国 柏林 柏林 [DASABO OU]]
-socks5://102.215.228.9:1080 [[机房] 德国 柏林 柏林 [DASABO OU]]
-socks5://144.76.94.91:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
-socks5://107.172.48.70:1080 [[机房] 美国 加州 洛杉矶 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
-socks5://94.75.191.8:1080 [[家宽] 俄罗斯 布良斯克州 [PJSC Rostelecom, Bryansk branch]]
-socks5://35.76.216.108:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon.com, Inc.]]
-socks5://45.156.218.186:5555 [[机房] 中国 香港 香港 [Power Line (HK) Co., Limited]]
