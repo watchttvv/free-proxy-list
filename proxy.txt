@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-22 04:20:02
+# 代理列表更新时间: 2026-01-22 04:40:02
 # 总计: 30 个代理
 
+socks5://185.218.19.234:8080 [[机房] 德国 黑森州 法兰克福 [Huize Holdings LLC]]
 socks5://38.148.249.171:1080 [[机房] 美国 加州 洛杉矶 [KURUN CLOUD INC]]
 socks5://87.255.230.139:1080 [[家宽] 俄罗斯 伊万诺沃州 伊万诺沃 [Ivanovo reginoal Internet service provider]]
 socks5://146.235.19.84:10850 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
@@ -30,4 +31,3 @@ socks5://110.235.249.88:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Onl
 socks5://70.39.193.74:1080 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
 socks5://103.85.227.238:9999 [[机房] 美国 加州 洛杉矶 [Vapeline Technology]]
 socks5://45.148.244.200:1080 [[机房] 荷兰 上艾瑟尔省 兹沃勒 [ALEXHOST SRL]]
-socks5://16.170.225.251:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 亚马逊云 Aws [Amazon Data Services Sweden]]
