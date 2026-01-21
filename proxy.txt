@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-21 11:40:02
+# 代理列表更新时间: 2026-01-21 12:00:02
 # 总计: 30 个代理
 
+socks5://70.39.193.74:1080 [[机房] 美国 加州 洛杉矶 [GTT Communications Inc.]]
+socks5://103.85.227.238:9999 [[机房] 美国 加州 洛杉矶 [Vapeline Technology]]
 socks5://181.6.91.101:1080 [[机房] 美国 佛罗里达州 迈阿密 — Vultr [Vultr Holdings, LLC]]
 socks5://181.6.224.137:1080 [[机房] 美国 弗吉尼亚州 马纳萨斯 [US NETCUP KVM MNZ]]
 socks5://181.6.12.25:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
@@ -29,5 +31,3 @@ socks5://160.187.141.43:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://160.187.141.82:1080 [[机房] 新加坡 新加坡 新加坡 [NIXI]]
 socks5://185.85.75.58:1080 [[机房] 土耳其 布尔萨省 布尔萨 [Data TR Bilisim Teknoloji Hizmetleri]]
 socks5://198.199.76.11:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
-socks5://193.221.203.111:1080 [[机房] 芬兰 新地区 赫尔辛基 [Baykov Ilya Sergeevich]]
-socks5://71.19.243.68:1080 [[机房] 加拿大 不列颠哥伦比亚 温哥华 [eSecureData]]
