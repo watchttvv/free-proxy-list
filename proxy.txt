@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-01-21 15:40:02
+# 代理列表更新时间: 2026-01-21 16:00:03
 # 总计: 30 个代理
 
+socks5://175.160.130.175:1080 [[机房] 中国 香港 香港 [NetLab Global]]
 socks5://36.73.211.9:1080 [[机房] 印度尼西亚 东爪哇省 Madiun [PT TELKOM INDONESIA]]
-socks5://111.67.103.89:1080 [[机房] 新加坡 新加坡 新加坡 [Mega Truenet Communication Co., Ltd.]]
+socks5://111.67.103.89:1080 [[家宽] 新加坡 新加坡 新加坡 [Mega Truenet Communication Co., Ltd.]]
 socks5://182.136.208.16:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
 socks5://194.163.182.6:1080 [[机房] 法国 大东部大区 — Contabo [CONTABO]]
 socks5://124.248.190.47:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
@@ -30,4 +31,3 @@ socks5://95.80.103.217:1080 [[机房] 俄罗斯 鄂木斯克州 鄂木斯克 [Om
 socks5://103.82.246.159:1080 [[家宽] 印度尼西亚 雅加达 雅加达 [PT Aswatama Jaya Mandiri]]
 socks5://107.174.222.172:1080 [[机房] 美国 加州 洛杉矶 [HostPapa]]
 socks5://38.55.129.163:40000 [[机房] 英国 英格兰 伦敦 [YouFibre Limited]]
-socks5://178.216.223.147:1080 [[机房] 俄罗斯 鄂木斯克州 鄂木斯克 [MTS PJSC]]
