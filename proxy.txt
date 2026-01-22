@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2026-01-22 12:20:02
+# 代理列表更新时间: 2026-01-22 12:40:03
 # 总计: 30 个代理
 
+socks5://88.216.68.8:9077 [[机房] 美国 德克萨斯州 沃思堡 [Quintex Alliance Consulting]]
+socks5://88.216.215.146:9082 [[机房] 美国 加州 圣何塞 [Emerald Onion]]
+socks5://88.216.68.41:9080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [TOR EXIT AND MORE]]
+socks5://88.216.215.144:9086 [[机房] 德国 巴伐利亚 埃尔朗根 [F3 Netze e.V.]]
 socks5://37.228.117.114:1080 [[机房] 亚美尼亚 埃里温市 埃里温 [WorkTitans B.V.]]
 socks5://139.180.217.99:1080 [[机房] 新加坡 新加坡 新加坡 — Vultr [SGP_VULTR_CUST]]
 socks5://82.223.165.28:4733 [[机房] 西班牙 马德里自治区 马德里 [arsys.es]]
@@ -27,7 +31,3 @@ socks5://36.255.98.169:4002 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner 
 socks5://36.255.98.164:4064 [[机房] 美国 纽约州 水牛城 [HostPapa]]
 socks5://36.255.98.163:5001 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
 socks5://36.255.98.162:10809 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
-socks5://36.255.98.161:5338 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
-socks5://36.255.98.160:5466 [[机房] 新加坡 新加坡 新加坡 [Godaddy.com]]
-socks5://36.255.98.160:7588 [[机房] 美国 亚利桑那州 凤凰城 [GoDaddy.com, LLC]]
-socks5://90.188.95.54:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Iron Hosting Centre LTD]]
