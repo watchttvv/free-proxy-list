@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2026-01-22 11:00:02
+# 代理列表更新时间: 2026-01-22 11:20:03
 # 总计: 30 个代理
 
+socks5://64.227.131.240:1080 [[机房] 印度 卡纳塔克邦 — DigitalOcean [DigitalOcean, LLC]]
+socks5://62.60.131.203:11545 [[机房] 法国 法兰西岛大区 巴黎 — OVH [OVH SAS]]
+socks5://62.60.131.178:5230 [[机房] 法国 上法兰西大区 加来 — OVH [OVH SAS]]
+socks5://62.60.131.204:8888 [[机房] 美国 弗吉尼亚州 利斯堡 [DreamHost]]
 socks5://103.146.26.237:1080 [[机房] 印度尼西亚 亚齐特别行政区 [PT Indomedia Solusi net]]
 socks5://5.255.113.177:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [TIG]]
 socks5://5.199.166.243:9064 [[机房] 瑞士 弗里堡 — BuyVM [BuyVM]]
@@ -27,7 +31,3 @@ socks5://195.35.113.29:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Terra
 socks5://79.112.97.193:1080 [[机房] 西班牙 马德里自治区 马德里 [DIGI SPAIN TELECOM S.L.]]
 socks5://185.218.19.234:8080 [[机房] 德国 黑森州 法兰克福 [Huize Holdings LLC]]
 socks5://38.148.249.171:1080 [[机房] 美国 加州 洛杉矶 [KURUN CLOUD INC]]
-socks5://87.255.230.139:1080 [[家宽] 俄罗斯 伊万诺沃州 伊万诺沃 [Ivanovo reginoal Internet service provider]]
-socks5://146.235.19.84:10850 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
-socks5://185.216.85.206:12345 [[机房] 荷兰 弗莱福兰省 德龙滕 [Iron Hosting Centre LTD]]
-socks5://116.105.28.89:9185 [[家宽] 越南 岘港 岘港 [Viettel Group]]
