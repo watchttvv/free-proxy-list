@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-22 10:20:03
+# 代理列表更新时间: 2026-01-22 10:40:02
 # 总计: 30 个代理
 
+socks5://47.83.211.225:1011 [[机房] 中国 香港 香港 — 阿里云 [Alibaba Cloud LLC]]
+socks5://47.236.20.209:1145 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud LLC]]
 socks5://129.151.198.68:1111 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://37.120.162.180:13271 [[机房] 德国 巴伐利亚 慕尼黑 [Telefonica O2 Germany GmbH & Co. OHG]]
 socks5://36.255.98.180:14729 [[机房] 法国 法兰西岛大区 巴黎 — OVH [OVH SAS]]
@@ -29,5 +31,3 @@ socks5://116.105.22.23:9189 [[家宽] 越南 [Viettel Group]]
 socks5://116.105.24.222:9193 [[家宽] 越南 [Viettel Group]]
 socks5://116.105.27.214:9166 [[家宽] 越南 [Viettel Group]]
 socks5://8.222.160.208:3333 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
-socks5://82.115.49.147:1080 [[家宽] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [PS Internet Company LLC]]
-socks5://181.102.38.55:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo GmbH]]
