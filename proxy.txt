@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-22 13:40:03
+# 代理列表更新时间: 2026-01-22 14:00:03
 # 总计: 30 个代理
 
+socks5://38.196.232.245:1080 [[机房] 委内瑞拉 [Cogent Communications, LLC]]
 socks5://88.216.68.8:9077 [[机房] 美国 德克萨斯州 沃思堡 [Quintex Alliance Consulting]]
 socks5://88.216.215.146:9082 [[机房] 美国 加州 圣何塞 [Emerald Onion]]
 socks5://88.216.68.41:9080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [TOR EXIT AND MORE]]
@@ -30,4 +31,3 @@ socks5://36.255.98.167:6379 [[机房] 法国 法兰西岛大区 巴黎 — OVH [
 socks5://36.255.98.169:4002 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [CLOUD HEL1]]
 socks5://36.255.98.164:4064 [[机房] 美国 纽约州 水牛城 [HostPapa]]
 socks5://36.255.98.163:5001 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
-socks5://36.255.98.162:10809 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
