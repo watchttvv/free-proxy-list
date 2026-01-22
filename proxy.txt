@@ -1,11 +1,11 @@
-# 代理列表更新时间: 2026-01-22 22:40:02
+# 代理列表更新时间: 2026-01-22 23:00:03
 # 总计: 30 个代理
 
 socks5://103.127.133.130:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
 socks5://103.127.133.131:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
 socks5://103.127.133.132:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
 socks5://103.127.133.151:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
-socks5://37.142.196.98:1080 [[机房] 以色列 特拉维夫 特拉维夫 [BROADBAND-CABLES]]
+socks5://37.142.196.98:1080 [[家宽] 以色列 特拉维夫 特拉维夫 [BROADBAND-CABLES]]
 socks5://103.127.133.77:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
 socks5://109.94.67.250:1080 [[机房] 俄罗斯 特维尔州 [Annet Ltd.]]
 socks5://118.99.3.133:1111 [[家宽] 中国 香港 香港 [Forewin Telecom Group Limited, ISP at HK]]
