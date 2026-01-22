@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-22 21:00:02
+# 代理列表更新时间: 2026-01-22 21:20:03
 # 总计: 30 个代理
 
+socks5://118.99.3.133:1111 [[机房] 中国 香港 香港 [Forewin Telecom Group Limited, ISP at HK]]
 socks5://62.16.33.187:1080 [[家宽] 俄罗斯 彼爾姆邊疆區 彼尔姆 [For PPPoE Customers]]
 socks5://34.65.252.251:1080 [[机房] 瑞士 苏黎世 苏黎世 — 谷歌云 GCP [Google LLC]]
 socks5://103.245.255.253:1080 [[家宽] 越南 胡志明市 胡志明市 [ZINGPLAY VIETNAM COMPANY LIMITED]]
@@ -30,4 +31,3 @@ socks5://5.199.166.243:9064 [[机房] 瑞士 弗里堡 — BuyVM [BuyVM]]
 socks5://5.199.166.244:9104 [[机房] 奥地利 奥地利州 维也纳 [Foundation for Applied Privacy]]
 socks5://47.83.211.225:1011 [[机房] 中国 香港 香港 — 阿里云 [Alibaba Cloud LLC]]
 socks5://47.236.20.209:1145 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud LLC]]
-socks5://129.151.198.68:1111 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 甲骨文云 Oracle [Oracle Corporation]]
