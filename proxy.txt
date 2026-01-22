@@ -1,8 +1,8 @@
-# 代理列表更新时间: 2026-01-22 19:00:03
+# 代理列表更新时间: 2026-01-22 19:20:03
 # 总计: 30 个代理
 
 socks5://34.65.252.251:1080 [[机房] 瑞士 苏黎世 苏黎世 — 谷歌云 GCP [Google LLC]]
-socks5://103.245.255.253:1080 [[机房] 越南 胡志明市 胡志明市 [ZINGPLAY VIETNAM COMPANY LIMITED]]
+socks5://103.245.255.253:1080 [[家宽] 越南 胡志明市 胡志明市 [ZINGPLAY VIETNAM COMPANY LIMITED]]
 socks5://162.243.174.9:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://43.230.192.242:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://159.253.169.225:1080 [[机房] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [JSC "Redcom-lnternet"]]
