@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-22 14:00:03
+# 代理列表更新时间: 2026-01-22 14:20:03
 # 总计: 30 个代理
 
+socks5://51.68.209.5:1080 [[机房] 英国 英格兰 伦敦 — OVH [OVH Ltd]]
+socks5://155.138.224.49:1080 [[机房] 美国 乔治亚州 亚特兰大 — Vultr [Vultr Holdings, LLC]]
 socks5://38.196.232.245:1080 [[机房] 委内瑞拉 [Cogent Communications, LLC]]
 socks5://88.216.68.8:9077 [[机房] 美国 德克萨斯州 沃思堡 [Quintex Alliance Consulting]]
 socks5://88.216.215.146:9082 [[机房] 美国 加州 圣何塞 [Emerald Onion]]
@@ -29,5 +31,3 @@ socks5://36.255.98.177:6343 [[机房] 美国 佛罗里达州 迈阿密 [Internet
 socks5://36.255.98.178:7666 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
 socks5://36.255.98.167:6379 [[机房] 法国 法兰西岛大区 巴黎 — OVH [OVH SAS]]
 socks5://36.255.98.169:4002 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [CLOUD HEL1]]
-socks5://36.255.98.164:4064 [[机房] 美国 纽约州 水牛城 [HostPapa]]
-socks5://36.255.98.163:5001 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
