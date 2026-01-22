@@ -1,6 +1,10 @@
-# 代理列表更新时间: 2026-01-22 10:40:02
+# 代理列表更新时间: 2026-01-22 11:00:02
 # 总计: 30 个代理
 
+socks5://103.146.26.237:1080 [[机房] 印度尼西亚 亚齐特别行政区 [PT Indomedia Solusi net]]
+socks5://5.255.113.177:1080 [[机房] 荷兰 弗莱福兰省 德龙滕 [TIG]]
+socks5://5.199.166.243:9064 [[机房] 瑞士 弗里堡 — BuyVM [BuyVM]]
+socks5://5.199.166.244:9104 [[机房] 奥地利 奥地利州 维也纳 [Foundation for Applied Privacy]]
 socks5://47.83.211.225:1011 [[机房] 中国 香港 香港 — 阿里云 [Alibaba Cloud LLC]]
 socks5://47.236.20.209:1145 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud LLC]]
 socks5://129.151.198.68:1111 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 甲骨文云 Oracle [Oracle Corporation]]
@@ -27,7 +31,3 @@ socks5://87.255.230.139:1080 [[家宽] 俄罗斯 伊万诺沃州 伊万诺沃 [I
 socks5://146.235.19.84:10850 [[机房] 新加坡 新加坡 — 甲骨文云 Oracle [Oracle Corporation]]
 socks5://185.216.85.206:12345 [[机房] 荷兰 弗莱福兰省 德龙滕 [Iron Hosting Centre LTD]]
 socks5://116.105.28.89:9185 [[家宽] 越南 岘港 岘港 [Viettel Group]]
-socks5://116.105.22.23:9189 [[家宽] 越南 [Viettel Group]]
-socks5://116.105.24.222:9193 [[家宽] 越南 [Viettel Group]]
-socks5://116.105.27.214:9166 [[家宽] 越南 [Viettel Group]]
-socks5://8.222.160.208:3333 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
