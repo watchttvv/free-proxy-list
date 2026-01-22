@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-22 14:40:02
+# 代理列表更新时间: 2026-01-22 15:00:02
 # 总计: 30 个代理
 
+socks5://159.253.169.225:1080 [[机房] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [JSC "Redcom-lnternet"]]
+socks5://80.242.56.225:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb.Cloud LLC]]
 socks5://51.68.209.5:1080 [[机房] 英国 英格兰 伦敦 — OVH [OVH Ltd]]
 socks5://155.138.224.49:1080 [[机房] 美国 乔治亚州 亚特兰大 — Vultr [Vultr Holdings, LLC]]
 socks5://38.196.232.245:1080 [[机房] 委内瑞拉 [Cogent Communications, LLC]]
@@ -29,5 +31,3 @@ socks5://36.255.98.180:14729 [[机房] 法国 法兰西岛大区 巴黎 — OVH 
 socks5://36.255.98.175:7234 [[机房] 德国 巴伐利亚 贡岑豪森 — Hetzner [Hetzner Online GmbH]]
 socks5://36.255.98.177:6343 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
 socks5://36.255.98.178:7666 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
-socks5://36.255.98.167:6379 [[机房] 法国 法兰西岛大区 巴黎 — OVH [OVH SAS]]
-socks5://36.255.98.169:4002 [[机房] 芬兰 新地区 赫尔辛基 — Hetzner [CLOUD HEL1]]
