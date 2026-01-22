@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-22 17:20:02
+# 代理列表更新时间: 2026-01-22 17:40:03
 # 总计: 30 个代理
 
+socks5://162.243.174.9:1080 [[机房] 美国 新泽西州 北伯根 — DigitalOcean [DigitalOcean, LLC]]
 socks5://43.230.192.242:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://159.253.169.225:1080 [[机房] 俄罗斯 哈巴罗夫斯克边疆区 伯力 [JSC "Redcom-lnternet"]]
 socks5://80.242.56.225:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb.Cloud LLC]]
@@ -30,4 +31,3 @@ socks5://129.151.198.68:1111 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩
 socks5://37.120.162.180:13271 [[机房] 德国 巴伐利亚 慕尼黑 [Telefonica O2 Germany GmbH & Co. OHG]]
 socks5://36.255.98.180:14729 [[机房] 法国 法兰西岛大区 巴黎 — OVH [OVH SAS]]
 socks5://36.255.98.175:7234 [[机房] 德国 巴伐利亚 贡岑豪森 — Hetzner [Hetzner Online GmbH]]
-socks5://36.255.98.177:6343 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
