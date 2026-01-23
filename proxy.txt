@@ -1,6 +1,9 @@
-# 代理列表更新时间: 2026-01-23 22:20:02
+# 代理列表更新时间: 2026-01-23 22:40:02
 # 总计: 30 个代理
 
+socks5://149.104.4.88:10809 [[机房] 中国 香港 香港 [Converged Communications Limited]]
+socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL PTE. LTD.]]
+socks5://95.106.243.139:1080 [[机房] 俄罗斯 布良斯克州 [PJSC Rostelecom, Bryansk branch]]
 socks5://47.83.231.149:50161 [[机房] 中国 香港 香港 — 阿里云 [Alibaba Cloud LLC]]
 socks5://149.129.56.184:50161 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [1 Raffles Place, # 59-00 One Raffles Place]]
 socks5://18.232.52.55:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]]
@@ -28,6 +31,3 @@ socks5://110.179.81.27:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudfla
 socks5://51.77.52.223:1080 [[机房] 波兰 马佐维亚省 華沙 — OVH [OVH Sp. z o. o.]]
 socks5://79.20.161.144:1080 [[机房] 意大利 伦巴第大区 米兰 [NAS DHCP Pool PESCARA]]
 socks5://89.110.82.251:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
-socks5://8.208.83.161:1080 [[机房] 英国 英格兰 伦敦 — 阿里云 [Aliyun Computing Co.LTD]]
-socks5://104.219.236.127:1080 [[机房] 美国 纽约州 水牛城 [DataWagon LLC]]
-socks5://146.103.126.134:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
