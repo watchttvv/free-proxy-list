@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-23 10:40:02
+# 代理列表更新时间: 2026-01-23 11:00:03
 # 总计: 30 个代理
 
+socks5://110.179.81.27:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://51.77.52.223:1080 [[机房] 波兰 马佐维亚省 華沙 — OVH [OVH Sp. z o. o.]]
 socks5://79.20.161.144:1080 [[机房] 意大利 伦巴第大区 米兰 [NAS DHCP Pool PESCARA]]
 socks5://89.110.82.251:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]]
@@ -30,4 +31,3 @@ socks5://51.68.209.5:1080 [[机房] 英国 英格兰 伦敦 — OVH [OVH Ltd]]
 socks5://155.138.224.49:1080 [[机房] 美国 乔治亚州 亚特兰大 — Vultr [Vultr Holdings, LLC]]
 socks5://38.196.232.245:1080 [[机房] 委内瑞拉 [Cogent Communications, LLC]]
 socks5://88.216.68.8:9077 [[机房] 美国 德克萨斯州 沃思堡 [Quintex Alliance Consulting]]
-socks5://88.216.68.41:9080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [TOR EXIT AND MORE]]
