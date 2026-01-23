@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-24 03:20:03
+# 代理列表更新时间: 2026-01-24 03:40:02
 # 总计: 30 个代理
 
+socks5://85.215.229.223:1080 [[机房] 德国 柏林 柏林 [IONOS SE]]
 socks5://95.52.202.2:1080 [[家宽] 俄罗斯 涅涅茨地区 [Arkhangelsk branch of the PJSC "Rostelecom" North-West Region]]
 socks5://103.175.220.6:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT Biznet Gio Nusantara]]
 socks5://103.175.220.58:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT Biznet Gio Nusantara]]
@@ -30,4 +31,3 @@ socks5://45.12.90.43:5555 [[机房] 美国 加州 洛杉矶 — CeraNetworks [Ho
 socks5://34.84.179.128:1080 [[机房] 日本 东京 东京 — 谷歌云 GCP [Google LLC]]
 socks5://110.179.81.27:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://51.77.52.223:1080 [[机房] 波兰 马佐维亚省 華沙 — OVH [OVH Sp. z o. o.]]
-socks5://79.20.161.144:1080 [[机房] 意大利 伦巴第大区 米兰 [NAS DHCP Pool PESCARA]]
