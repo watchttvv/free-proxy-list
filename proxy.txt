@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-23 15:00:03
+# 代理列表更新时间: 2026-01-23 15:20:03
 # 总计: 30 个代理
 
+socks5://185.244.208.84:5555 [[机房] 中国 香港 香港 — G-Core Labs [G-Core Labs Customer assignment]]
 socks5://8.211.133.76:1234 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
 socks5://151.241.154.9:1080 [[家宽] 巴西 圣保罗 坎皮纳斯 [ALGAR TELECOM S/A]]
 socks5://31.170.186.63:1080 [[家宽] 俄罗斯 [JSC "Yurgatelekom"]]
@@ -30,4 +31,3 @@ socks5://103.127.133.131:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [
 socks5://103.127.133.132:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
 socks5://103.127.133.151:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
 socks5://37.142.196.98:1080 [[家宽] 以色列 特拉维夫 特拉维夫 [BROADBAND-CABLES]]
-socks5://103.127.133.77:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT. BERKAH PUTRI RAMADANI]]
