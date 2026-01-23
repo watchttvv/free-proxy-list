@@ -1,7 +1,8 @@
-# 代理列表更新时间: 2026-01-23 19:00:02
+# 代理列表更新时间: 2026-01-23 19:20:02
 # 总计: 30 个代理
 
-socks5://62.16.33.187:1080 [[机房] 俄罗斯 彼爾姆邊疆區 彼尔姆 [For PPPoE Customers]]
+socks5://18.117.90.61:1080 [[机房] 美国 俄亥俄州 哥伦布 — 亚马逊云 Aws [Amazon Technologies Inc.]]
+socks5://62.16.33.187:1080 [[家宽] 俄罗斯 彼爾姆邊疆區 彼尔姆 [For PPPoE Customers]]
 socks5://109.248.235.33:1080 [[家宽] 俄罗斯 阿尔泰边疆区 [Individual Entrepreneur Dmitriy Fokin]]
 socks5://109.248.250.25:1080 [[机房] 俄罗斯 新西伯利亚州 新西伯利亚 [Krek Ltd.]]
 socks5://38.60.198.245:1080 [[机房] 美国 纽约州 纽约 [IT Hostline Ltd]]
@@ -30,4 +31,3 @@ socks5://77.51.92.91:10808 [[家宽] 俄罗斯 莫斯科州 梅季希 [ex-netnam
 socks5://217.60.5.145:10808 [[机房] 法国 法兰西岛大区 巴黎 [CGI GLOBAL LIMITED]]
 socks5://176.123.1.101:10808 [[机房] 摩尔多瓦 基希讷乌市 基希讷乌 [ALEXHOST SRL]]
 socks5://129.159.152.152:6666 [[机房] 以色列 耶路撒冷 耶路撒冷 — 甲骨文云 Oracle [Oracle Corporation]]
-socks5://54.36.15.110:10808 [[机房] 法国 上法兰西大区 里尔 — OVH [aldukhy Fadhil]]
