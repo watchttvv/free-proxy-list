@@ -1,8 +1,8 @@
-# 代理列表更新时间: 2026-01-23 13:40:02
+# 代理列表更新时间: 2026-01-23 14:00:02
 # 总计: 30 个代理
 
-socks5://31.170.186.63:1080 [[机房] 俄罗斯 [JSC "Yurgatelekom"]]
-socks5://103.239.52.100:1080 [[机房] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://31.170.186.63:1080 [[家宽] 俄罗斯 [JSC "Yurgatelekom"]]
+socks5://103.239.52.100:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://176.126.86.190:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — HostHatch [HostHatch LLC]]
 socks5://147.45.96.130:10808 [[机房] 德国 黑森州 法兰克福 [WAIcore Ltd]]
 socks5://45.12.90.43:5555 [[机房] 美国 加州 洛杉矶 — CeraNetworks [Hostsymbol Pte. Ltd.]]
