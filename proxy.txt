@@ -1,7 +1,8 @@
-# 代理列表更新时间: 2026-01-23 23:00:03
+# 代理列表更新时间: 2026-01-23 23:20:03
 # 总计: 30 个代理
 
-socks5://185.35.193.38:1080 [[机房] 俄罗斯 克拉斯诺达尔边疆区 克拉斯诺达尔 [Novorossiisk broadband network]]
+socks5://5.189.201.200:1234 [[机房] 俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克 [EdgeCenter LLC]]
+socks5://185.35.193.38:1080 [[家宽] 俄罗斯 克拉斯诺达尔边疆区 克拉斯诺达尔 [Novorossiisk broadband network]]
 socks5://149.104.4.88:10809 [[机房] 中国 香港 香港 [Converged Communications Limited]]
 socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL PTE. LTD.]]
 socks5://95.106.243.139:1080 [[家宽] 俄罗斯 布良斯克州 [PJSC Rostelecom, Bryansk branch]]
@@ -30,4 +31,3 @@ socks5://45.12.90.43:5555 [[机房] 美国 加州 洛杉矶 — CeraNetworks [Ho
 socks5://34.84.179.128:1080 [[机房] 日本 东京 东京 — 谷歌云 GCP [Google LLC]]
 socks5://110.179.81.27:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://51.77.52.223:1080 [[机房] 波兰 马佐维亚省 華沙 — OVH [OVH Sp. z o. o.]]
-socks5://79.20.161.144:1080 [[机房] 意大利 伦巴第大区 米兰 [NAS DHCP Pool PESCARA]]
