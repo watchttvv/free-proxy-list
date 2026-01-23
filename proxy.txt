@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-24 02:40:02
+# 代理列表更新时间: 2026-01-24 03:00:02
 # 总计: 30 个代理
 
-socks5://95.52.202.2:1080 [[机房] 俄罗斯 涅涅茨地区 [Arkhangelsk branch of the PJSC "Rostelecom" North-West Region]]
+socks5://95.52.202.2:1080 [[家宽] 俄罗斯 涅涅茨地区 [Arkhangelsk branch of the PJSC "Rostelecom" North-West Region]]
 socks5://94.51.136.69:1080 [[机房] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [PJSC Rostelecom]]
 socks5://103.175.220.6:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT Biznet Gio Nusantara]]
 socks5://103.175.220.58:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT Biznet Gio Nusantara]]
