@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-23 11:20:02
+# 代理列表更新时间: 2026-01-23 11:40:02
 # 总计: 30 个代理
 
+socks5://45.12.90.43:5555 [[机房] 美国 加州 洛杉矶 — CeraNetworks [Hostsymbol Pte. Ltd.]]
 socks5://34.84.179.128:1080 [[机房] 日本 东京 东京 — 谷歌云 GCP [Google LLC]]
 socks5://110.179.81.27:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://51.77.52.223:1080 [[机房] 波兰 马佐维亚省 華沙 — OVH [OVH Sp. z o. o.]]
@@ -30,4 +31,3 @@ socks5://162.243.174.9:1080 [[机房] 美国 新泽西州 北伯根 — DigitalO
 socks5://80.242.56.225:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb.Cloud LLC]]
 socks5://51.68.209.5:1080 [[机房] 英国 英格兰 伦敦 — OVH [OVH Ltd]]
 socks5://155.138.224.49:1080 [[机房] 美国 乔治亚州 亚特兰大 — Vultr [Vultr Holdings, LLC]]
-socks5://38.196.232.245:1080 [[机房] 委内瑞拉 [Cogent Communications, LLC]]
