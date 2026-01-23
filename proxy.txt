@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-24 00:20:04
+# 代理列表更新时间: 2026-01-24 00:40:03
 # 总计: 30 个代理
 
+socks5://103.175.220.6:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT Biznet Gio Nusantara]]
+socks5://103.175.220.58:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [PT Biznet Gio Nusantara]]
 socks5://185.6.229.66:1080 [[机房] 俄罗斯 普斯科夫州 [KVS Ltd. Broadband customer connections (PPPoE)]]
 socks5://5.189.201.200:1234 [[机房] 俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克 [EdgeCenter LLC]]
 socks5://185.35.193.38:1080 [[家宽] 俄罗斯 克拉斯诺达尔边疆区 克拉斯诺达尔 [Novorossiisk broadband network]]
@@ -29,5 +31,3 @@ socks5://103.239.52.100:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Onl
 socks5://176.126.86.190:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — HostHatch [HostHatch LLC]]
 socks5://147.45.96.130:10808 [[机房] 德国 黑森州 法兰克福 [WAIcore Ltd]]
 socks5://45.12.90.43:5555 [[机房] 美国 加州 洛杉矶 — CeraNetworks [Hostsymbol Pte. Ltd.]]
-socks5://34.84.179.128:1080 [[机房] 日本 东京 东京 — 谷歌云 GCP [Google LLC]]
-socks5://110.179.81.27:1080 [[机房] 新加坡 新加坡 新加坡 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
