@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-24 06:00:02
+# 代理列表更新时间: 2026-01-24 06:20:02
 # 总计: 30 个代理
 
+socks5://62.60.217.179:1080 [[机房] 德国 黑森州 法兰克福 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://85.208.108.12:10808 [[机房] 加拿大 安大略 多伦多 [WorkTitans B.V.]]
 socks5://35.72.90.28:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
 socks5://85.215.229.223:1080 [[机房] 德国 柏林 柏林 [IONOS SE]]
@@ -30,4 +31,3 @@ socks5://103.239.52.100:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Onl
 socks5://176.126.86.190:1080 [[机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — HostHatch [HostHatch LLC]]
 socks5://147.45.96.130:10808 [[机房] 德国 黑森州 法兰克福 [WAIcore Ltd]]
 socks5://45.12.90.43:5555 [[机房] 美国 加州 洛杉矶 — CeraNetworks [Hostsymbol Pte. Ltd.]]
-socks5://34.84.179.128:1080 [[机房] 日本 东京 东京 — 谷歌云 GCP [Google LLC]]
