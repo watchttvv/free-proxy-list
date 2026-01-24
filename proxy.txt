@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-01-24 18:20:02
+# 代理列表更新时间: 2026-01-24 18:40:02
 # 总计: 30 个代理
 
 socks5://89.251.26.111:5555 [[机房] 中国 香港 香港 [ALICE NETWORKS LTD]]
@@ -10,12 +10,7 @@ socks5://178.170.181.118:1080 [[机房] 俄罗斯 罗斯托夫州 頓涅茨克 [
 socks5://172.111.169.87:1080 [[机房] 德国 黑森州 法兰克福 [Internet Security - DE]]
 socks5://36.255.98.175:4444 [[机房] 美国 佛罗里达州 迈阿密 [Internet Names For Business Inc.]]
 socks5://36.255.98.150:4444 [[机房] 德国 巴伐利亚 — Hetzner [HOS-1815598]]
-socks5://181.101.237.69:1080 [[机房] 美国 弗吉尼亚州 马纳萨斯 [netcup GmbH]]
-socks5://181.101.82.101:1080 [[机房] 美国 德克萨斯州 达拉斯 — Vultr [Vultr Holdings, LLC]]
-socks5://181.101.246.35:1080 [[机房] 美国 佛罗里达州 迈阿密 — Vultr [Vultr Holdings, LLC]]
 socks5://181.101.24.205:8080 [[机房] 阿根廷 圣菲省 罗萨里奥 [Dattatec Corp]]
-socks5://181.101.111.97:1080 [[机房] 美国 新泽西州 克利夫顿 — DigitalOcean [DigitalOcean, LLC]]
-socks5://181.101.223.132:1080 [[机房] 美国 新泽西州 克利夫顿 — DigitalOcean [DigitalOcean, LLC]]
 socks5://47.77.192.29:1080 [[机房] 美国 加州 洛杉矶 — 阿里云 [Alibaba Cloud LLC]]
 socks5://18.163.6.57:9999 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://107.172.72.247:1080 [[机房] 美国 弗吉尼亚州 阿什本 — RackNerd [RackNerd LLC]]
@@ -31,3 +26,8 @@ socks5://103.175.220.58:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [P
 socks5://5.189.201.200:1234 [[机房] 俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克 [EdgeCenter LLC]]
 socks5://185.35.193.38:1080 [[家宽] 俄罗斯 克拉斯诺达尔边疆区 克拉斯诺达尔 [Novorossiisk broadband network]]
 socks5://149.104.4.88:10809 [[机房] 中国 香港 香港 [Converged Communications Limited]]
+socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL PTE. LTD.]]
+socks5://95.106.243.139:1080 [[家宽] 俄罗斯 布良斯克州 [PJSC Rostelecom, Bryansk branch]]
+socks5://47.83.231.149:50161 [[机房] 中国 香港 香港 — 阿里云 [Alibaba Cloud LLC]]
+socks5://149.129.56.184:50161 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [1 Raffles Place, # 59-00 One Raffles Place]]
+socks5://18.232.52.55:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]]
