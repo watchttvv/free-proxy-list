@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-25 01:20:03
+# 代理列表更新时间: 2026-01-25 01:40:04
 # 总计: 30 个代理
 
+socks5://181.6.194.220:1080 [[机房] 美国 弗吉尼亚州 马纳萨斯 [US NETCUP KVM MNZ]]
+socks5://181.6.7.126:1080 [[机房] 美国 新泽西州 克利夫顿 — DigitalOcean [DigitalOcean, LLC]]
 socks5://38.60.195.175:8888 [[机房] 马来西亚 吉隆坡 吉隆坡 [Kaopu Cloud HK Limited]]
 socks5://185.51.76.119:1080 [[机房] 丹麦 中日德兰大区 [Network assigned to SSDVPS Customers]]
 socks5://185.51.76.160:1080 [[机房] 丹麦 中日德兰大区 [Network assigned to SSDVPS Customers]]
@@ -29,5 +31,3 @@ socks5://89.251.26.111:5555 [[机房] 中国 香港 香港 [ALICE NETWORKS LTD]]
 socks5://107.161.90.121:1080 [[机房] 美国 德克萨斯州 达拉斯 [HostPapa]]
 socks5://38.47.238.103:1080 [[机房] 美国 明尼苏达州 明尼阿波利斯 [Cogent Communications, LLC]]
 socks5://45.88.89.65:6666 [[机房] 荷兰 林堡省 [Albanian Hosting SH.P.K.]]
-socks5://138.68.247.51:1080 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
-socks5://178.170.181.118:1080 [[机房] 俄罗斯 罗斯托夫州 頓涅茨克 [AirLink Ltd.]]
