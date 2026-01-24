@@ -1,6 +1,12 @@
-# 代理列表更新时间: 2026-01-24 07:40:03
+# 代理列表更新时间: 2026-01-24 08:00:02
 # 总计: 30 个代理
 
+socks5://181.101.237.69:1080 [[机房] 美国 弗吉尼亚州 马纳萨斯 [netcup GmbH]]
+socks5://181.101.82.101:1080 [[机房] 美国 德克萨斯州 达拉斯 — Vultr [Vultr Holdings, LLC]]
+socks5://181.101.246.35:1080 [[机房] 美国 佛罗里达州 迈阿密 — Vultr [Vultr Holdings, LLC]]
+socks5://181.101.24.205:8080 [[机房] 阿根廷 圣菲省 罗萨里奥 [Dattatec Corp]]
+socks5://181.101.111.97:1080 [[机房] 美国 新泽西州 克利夫顿 — DigitalOcean [DigitalOcean, LLC]]
+socks5://181.101.223.132:1080 [[机房] 美国 新泽西州 克利夫顿 — DigitalOcean [DigitalOcean, LLC]]
 socks5://47.77.192.29:1080 [[机房] 美国 加州 洛杉矶 — 阿里云 [Alibaba Cloud LLC]]
 socks5://18.163.6.57:9999 [[机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon Data Services Hong Kong]]
 socks5://107.172.72.247:1080 [[机房] 美国 弗吉尼亚州 阿什本 — RackNerd [RackNerd LLC]]
@@ -25,9 +31,3 @@ socks5://139.180.200.200:1080 [[机房] 日本 东京 东京 — Vultr [TYO_VULT
 socks5://94.31.176.234:10808 [[家宽] 俄罗斯 斯维尔德洛夫斯克州 叶卡捷琳堡 [LLC "KomTehCentr"]]
 socks5://18.117.90.61:1080 [[机房] 美国 俄亥俄州 哥伦布 — 亚马逊云 Aws [Amazon Technologies Inc.]]
 socks5://109.248.250.25:1080 [[机房] 俄罗斯 新西伯利亚州 新西伯利亚 [Krek Ltd.]]
-socks5://38.60.198.245:1080 [[机房] 美国 纽约州 纽约 [IT Hostline Ltd]]
-socks5://114.243.102.81:10808 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud LLC]]
-socks5://125.119.18.215:12345 [[家宽] 美国 加州 洛杉矶 [ZMTO]]
-socks5://185.244.208.84:5555 [[机房] 中国 香港 香港 — G-Core Labs [G-Core Labs Customer assignment]]
-socks5://8.211.133.76:1234 [[机房] 日本 东京 东京 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
-socks5://151.241.154.9:1080 [[家宽] 巴西 圣保罗 坎皮纳斯 [ALGAR TELECOM S/A]]
