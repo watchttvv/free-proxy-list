@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-25 06:40:02
+# 代理列表更新时间: 2026-01-25 07:00:03
 # 总计: 30 个代理
 
+socks5://195.14.27.239:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
 socks5://185.21.141.238:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Directive LLC]]
 socks5://38.60.195.175:8888 [[机房] 马来西亚 吉隆坡 吉隆坡 [Kaopu Cloud HK Limited]]
 socks5://185.51.76.119:1080 [[机房] 丹麦 中日德兰大区 [Network assigned to SSDVPS Customers]]
@@ -30,4 +31,3 @@ socks5://107.172.72.247:1080 [[机房] 美国 弗吉尼亚州 阿什本 — Rack
 socks5://185.17.123.152:1080 [[机房] 德国 黑森州 法兰克福 [TK Rustelekom LLC]]
 socks5://62.60.217.179:1080 [[机房] 德国 黑森州 法兰克福 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
 socks5://85.208.108.12:10808 [[机房] 加拿大 安大略 多伦多 [WorkTitans B.V.]]
-socks5://35.72.90.28:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
