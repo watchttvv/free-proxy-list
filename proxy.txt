@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-24 16:00:03
+# 代理列表更新时间: 2026-01-24 16:20:02
 # 总计: 30 个代理
 
+socks5://89.251.26.111:5555 [[机房] 中国 香港 香港 [ALICE NETWORKS LTD]]
 socks5://107.161.90.121:1080 [[机房] 美国 德克萨斯州 达拉斯 [HostPapa]]
 socks5://38.47.238.103:1080 [[机房] 美国 明尼苏达州 明尼阿波利斯 [Cogent Communications, LLC]]
 socks5://45.88.89.65:6666 [[机房] 荷兰 林堡省 [Albanian Hosting SH.P.K.]]
@@ -30,4 +31,3 @@ socks5://103.175.220.58:1080 [[机房] 印度尼西亚 西爪哇省 茂物市 [P
 socks5://5.189.201.200:1234 [[机房] 俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克 [EdgeCenter LLC]]
 socks5://185.35.193.38:1080 [[家宽] 俄罗斯 克拉斯诺达尔边疆区 克拉斯诺达尔 [Novorossiisk broadband network]]
 socks5://149.104.4.88:10809 [[机房] 中国 香港 香港 [Converged Communications Limited]]
-socks5://149.104.25.109:10808 [[机房] 中国 香港 香港 [STARCLOUD GLOBAL PTE. LTD.]]
