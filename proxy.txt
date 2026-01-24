@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-24 21:00:02
+# 代理列表更新时间: 2026-01-24 21:20:02
 # 总计: 30 个代理
 
+socks5://181.215.45.229:1080 [[机房] 巴西 圣保罗 圣保罗 [IPXO]]
 socks5://185.185.51.104:60000 [[机房] 西班牙 马德里自治区 马德里 [VODAFONE ESPANA S.A.U.]]
 socks5://8.208.83.161:1080 [[机房] 英国 英格兰 伦敦 — 阿里云 [Aliyun Computing Co.LTD]]
 socks5://8.220.194.115:1080 [[机房] 韩国 首尔特别市 首尔特别市 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
@@ -30,4 +31,3 @@ socks5://18.163.6.57:9999 [[机房] 中国 香港 香港 — 亚马逊云 Aws [A
 socks5://107.172.72.247:1080 [[机房] 美国 弗吉尼亚州 阿什本 — RackNerd [RackNerd LLC]]
 socks5://185.17.123.152:1080 [[机房] 德国 黑森州 法兰克福 [TK Rustelekom LLC]]
 socks5://114.134.185.160:1080 [[机房] 中国 香港 香港 [VAPELINE TECHNOLOGY(HK).,LIMITED]]
-socks5://62.60.217.179:1080 [[机房] 德国 黑森州 法兰克福 — Cloudflare CDN 节点 [CLOUDFLAREWARP]]
