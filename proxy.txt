@@ -1,7 +1,7 @@
-# 代理列表更新时间: 2026-01-25 10:40:03
+# 代理列表更新时间: 2026-01-25 11:00:02
 # 总计: 30 个代理
 
-socks5://77.82.233.136:1080 [[机房] 俄罗斯 堪察加半岛 堪察加的彼得巴甫洛夫斯克 [Dynamic distribution IP's for broadband services]]
+socks5://77.82.233.136:1080 [[家宽] 俄罗斯 堪察加半岛 堪察加的彼得巴甫洛夫斯克 [Dynamic distribution IP's for broadband services]]
 socks5://193.42.62.193:1080 [[家宽] 法国 大东部大区 斯特拉斯堡 [Racknerd]]
 socks5://37.49.228.70:1080 [[家宽] 荷兰 北荷兰省 阿姆斯特丹 [ESTOXY OU]]
 socks5://103.219.251.22:1080 [[机房] 印度尼西亚 雅加达 雅加达 [PT Ikubaru Indonesia]]
