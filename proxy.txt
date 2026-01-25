@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-25 12:40:03
+# 代理列表更新时间: 2026-01-25 13:00:02
 # 总计: 30 个代理
 
+socks5://109.248.161.114:1080 [[机房] 芬兰 新地区 赫尔辛基 [CGI GLOBAL LIMITED]]
+socks5://109.248.64.255:1080 [[机房] 俄罗斯 特维尔州 [LAN-Optic, Ltd]]
 socks5://84.247.164.40:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://125.27.149.145:9999 [[机房] 泰国 班武里府 [TOT Public Company Limited Bangkok]]
 socks5://77.82.233.136:1080 [[家宽] 俄罗斯 堪察加半岛 堪察加的彼得巴甫洛夫斯克 [Dynamic distribution IP's for broadband services]]
@@ -29,5 +31,3 @@ socks5://34.210.43.58:1080 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊
 socks5://107.161.90.121:1080 [[机房] 美国 德克萨斯州 达拉斯 [HostPapa]]
 socks5://38.47.238.103:1080 [[机房] 美国 明尼苏达州 明尼阿波利斯 [Cogent Communications, LLC]]
 socks5://45.88.89.65:6666 [[机房] 荷兰 林堡省 [Albanian Hosting SH.P.K.]]
-socks5://138.68.247.51:1080 [[机房] 美国 加州 圣克拉拉 — DigitalOcean [DigitalOcean, LLC]]
-socks5://178.170.181.118:1080 [[机房] 俄罗斯 罗斯托夫州 頓涅茨克 [AirLink Ltd.]]
