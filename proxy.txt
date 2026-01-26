@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-26 20:40:02
+# 代理列表更新时间: 2026-01-26 21:00:02
 # 总计: 30 个代理
 
+socks5://118.107.78.82:1080 [[机房] 澳大利亚 新南威尔士州 悉尼 — OVH [OVH Australia PTY LTD]]
 socks5://101.50.116.66:1080 [[机房] 巴基斯坦 旁遮普省 拉瓦尔品第 [Naya Tel (Pvt.) Limited]]
 socks5://185.236.66.125:1080 [[机房] 俄罗斯 沃洛格达州 沃洛格达 [BAZA.NET LLC]]
 socks5://5.161.97.53:1080 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
@@ -30,4 +31,3 @@ socks5://18.205.59.71:1080 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马
 socks5://157.20.182.49:1080 [[家宽] 葡萄牙 里斯本区 里斯本 [Servico de Estrangeiros e Fronteiras]]
 socks5://37.1.209.52:8080 [[机房] 美国 伊利诺伊州 芝加哥 [IROKO Networks Corporation]]
 socks5://84.247.164.40:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
-socks5://125.27.149.145:9999 [[机房] 泰国 班武里府 [TOT Public Company Limited Bangkok]]
