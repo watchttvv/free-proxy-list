@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-27 04:40:03
+# 代理列表更新时间: 2026-01-27 05:00:02
 # 总计: 30 个代理
 
+socks5://185.250.41.18:1080 [[机房] 德国 黑森州 法兰克福 — OVH [OVH GmbH]]
+socks5://47.130.150.40:1080 [[机房] 新加坡 新加坡 新加坡 [HOME TEAM SCIENCE AND TECHNOLOGY AGENCY]]
 socks5://185.87.255.117:1080 [[家宽] 英国 英格兰 伦敦 [Fast Panda Limited]]
 socks5://87.121.218.218:1080 [[家宽] 德国 黑森州 法兰克福 [Xorek.Cloud Frankfurt]]
 socks5://69.5.189.16:1080 [[家宽] 沙特阿拉伯 麦加省 吉达 [cdnw reassigned]]
@@ -29,5 +31,3 @@ socks5://209.126.81.231:1080 [[机房] 美国 密苏里州 圣路易斯 — Cont
 socks5://223.240.177.2:1111 [[机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]]
 socks5://37.1.209.52:8080 [[机房] 美国 伊利诺伊州 芝加哥 [IROKO Networks Corporation]]
 socks5://84.247.164.40:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
-socks5://125.27.149.145:9999 [[机房] 泰国 班武里府 [TOT Public Company Limited Bangkok]]
-socks5://37.49.228.70:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [ESTOXY OU]]
