@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-26 20:00:03
+# 代理列表更新时间: 2026-01-26 20:20:03
 # 总计: 30 个代理
 
+socks5://185.236.66.125:1080 [[机房] 俄罗斯 沃洛格达州 沃洛格达 [BAZA.NET LLC]]
 socks5://5.161.97.53:1080 [[机房] 美国 弗吉尼亚州 阿什本 — Hetzner [Hetzner Online GmbH]]
 socks5://158.69.212.162:1080 [[机房] 加拿大 魁北克省 博阿努瓦 — OVH [OVH Hosting, Inc.]]
 socks5://173.242.53.143:1080 [[机房] 乌克兰 基辅州 基辅 [Hosting Ukraine LTD]]
@@ -30,4 +31,3 @@ socks5://37.1.209.52:8080 [[机房] 美国 伊利诺伊州 芝加哥 [IROKO Netw
 socks5://84.247.164.40:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://125.27.149.145:9999 [[机房] 泰国 班武里府 [TOT Public Company Limited Bangkok]]
 socks5://77.82.233.136:1080 [[家宽] 俄罗斯 堪察加半岛 堪察加的彼得巴甫洛夫斯克 [Dynamic distribution IP's for broadband services]]
-socks5://37.49.228.70:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [ESTOXY OU]]
