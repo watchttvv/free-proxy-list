@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-26 09:40:04
+# 代理列表更新时间: 2026-01-26 10:00:02
 # 总计: 30 个代理
 
+socks5://202.44.211.152:9999 [[机房] 泰国 曼谷 曼谷 [Internet Thailand Company Limited]]
 socks5://88.206.51.47:9999 [[机房] 俄罗斯 车里雅宾斯克州 车里雅宾斯克 [Intersvyaz-2 JSC]]
 socks5://213.165.35.182:1111 [[机房] 美国 德克萨斯州 达拉斯 [Quintex Alliance Consulting]]
 socks5://103.177.162.103:3128 [[机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]]
@@ -30,4 +31,3 @@ socks5://185.21.141.238:1080 [[机房] 俄罗斯 莫斯科 莫斯科 [Directive 
 socks5://38.60.195.175:8888 [[机房] 马来西亚 吉隆坡 吉隆坡 [Kaopu Cloud HK Limited]]
 socks5://185.51.76.119:1080 [[机房] 丹麦 中日德兰大区 [Network assigned to SSDVPS Customers]]
 socks5://185.51.76.160:1080 [[机房] 丹麦 中日德兰大区 [Network assigned to SSDVPS Customers]]
-socks5://185.51.76.159:1080 [[机房] 丹麦 中日德兰大区 [Network assigned to SSDVPS Customers]]
