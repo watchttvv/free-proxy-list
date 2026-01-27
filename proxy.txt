@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-27 19:20:02
+# 代理列表更新时间: 2026-01-27 11:28:05
 # 总计: 30 个代理
 
+socks5://93.183.124.28:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [Amsterdam, Netherlands]]
 socks5://93.183.78.82:1080 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [lease for Timeweb]]
 socks5://143.110.217.153:1080 [[机房] 加拿大 安大略 多伦多 — DigitalOcean [DigitalOcean, LLC]]
 socks5://92.46.80.234:8080 [[家宽] 哈萨克斯坦 阿斯塔纳市 阿斯塔纳市 [JSC Kazakhtelecom]]
@@ -30,4 +31,3 @@ socks5://165.22.110.253:1080 [[机房] 新加坡 新加坡 新加坡 — Digital
 socks5://66.112.213.88:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
 socks5://5.178.87.147:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [Selectel SPb]]
 socks5://14.155.223.88:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
-socks5://41.175.143.121:1080 [[机房] 南非 豪登省 Soshanguve [Liquid Telecommunications Operations Limited]]
