@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-01-27 09:00:02
+# 代理列表更新时间: 2026-01-27 09:20:02
 # 总计: 30 个代理
 
 socks5://41.175.143.121:1080 [[机房] 南非 豪登省 Soshanguve [Liquid Telecommunications Operations Limited]]
