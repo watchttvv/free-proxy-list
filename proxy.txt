@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-27 08:40:02
+# 代理列表更新时间: 2026-01-27 09:00:02
 # 总计: 30 个代理
 
+socks5://41.175.143.121:1080 [[机房] 南非 豪登省 Soshanguve [Liquid Telecommunications Operations Limited]]
 socks5://111.165.8.141:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
 socks5://125.107.122.36:1080 [[机房] 中国 香港 香港 [Akari Networks]]
 socks5://185.250.41.18:1080 [[机房] 德国 黑森州 法兰克福 — OVH [OVH GmbH]]
@@ -30,4 +31,3 @@ socks5://145.255.239.78:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [MEGA
 socks5://176.108.254.49:1080 [[家宽] 瑞典 斯德哥尔摩省 斯德哥尔摩 [Route64 Tunnelbroker Transport Networks Stockholm]]
 socks5://209.126.0.235:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc.]]
 socks5://209.126.81.231:1080 [[机房] 美国 密苏里州 圣路易斯 — Contabo [Contabo Inc.]]
-socks5://223.240.177.2:1111 [[机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]]
