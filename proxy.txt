@@ -1,6 +1,8 @@
-# 代理列表更新时间: 2026-01-28 03:20:02
+# 代理列表更新时间: 2026-01-28 03:40:03
 # 总计: 30 个代理
 
+socks5://45.76.104.45:1080 [[机房] 日本 神奈川县 川崎市 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
+socks5://45.76.101.252:1080 [[机房] 日本 神奈川县 川崎市 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://5.189.143.4:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://121.141.161.242:1080 [[机房] 韩国 首尔特别市 首尔特别市 [Korea Telecom]]
 socks5://5.22.217.132:3333 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
@@ -29,5 +31,3 @@ socks5://165.22.110.253:1080 [[机房] 新加坡 新加坡 新加坡 — Digital
 socks5://66.112.213.88:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
 socks5://5.178.87.147:1080 [[机房] 俄罗斯 圣彼得堡 圣彼得堡 [Selectel SPb]]
 socks5://14.155.223.88:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
-socks5://111.165.8.141:1080 [[机房] 美国 加州 洛杉矶 — 搬瓦工 [IT7 Networks Inc]]
-socks5://47.130.150.40:1080 [[机房] 新加坡 新加坡 新加坡 [HOME TEAM SCIENCE AND TECHNOLOGY AGENCY]]
