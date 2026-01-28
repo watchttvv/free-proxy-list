@@ -1,6 +1,7 @@
-# 代理列表更新时间: 2026-01-28 17:40:02
+# 代理列表更新时间: 2026-01-28 18:00:02
 # 总计: 30 个代理
 
+socks5://103.115.17.121:1234 [[机房] 韩国 首尔特别市 首尔特别市 — JustHost [Wuhan Heiyo Technologies Ltd]]
 socks5://155.248.182.7:1080 [[机房] 日本 东京都 东京 — 甲骨文云 Oracle [Oracle Public Cloud]]
 socks5://90.188.224.98:1080 [[家宽] 俄罗斯 伊尔库茨克州 伊爾庫茨克 [OJSC "Sibirtelecom"]]
 socks5://43.153.205.77:555 [[机房] 新加坡 新加坡 新加坡 — 腾讯云 [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
@@ -30,4 +31,3 @@ socks5://154.219.113.169:50161 [[机房] 中国 香港 香港 [Vapeline Technolo
 socks5://203.189.159.120:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://89.251.26.111:5555 [[机房] 中国 香港 香港 [ALICE NETWORKS LTD]]
 socks5://51.68.209.5:1080 [[机房] 英国 英格兰 伦敦 — OVH [OVH Ltd]]
-socks5://175.100.35.84:1080 [[家宽] 柬埔寨 金边 金边 [VIETTEL (CAMBODIA) PTE., LTD.]]
