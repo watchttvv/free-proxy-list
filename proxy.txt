@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-01-28 23:00:04
+# 代理列表更新时间: 2026-01-28 23:20:07
 # 总计: 30 个代理
 
 socks5://51.144.185.92:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 — 微软云 Azure [cloud]]
@@ -15,8 +15,6 @@ socks5://43.243.206.126:1080 [[家宽] 孟加拉国 达卡专区 达卡 [BDCOM O
 socks5://66.154.117.177:50161 [[机房] 美国 密苏里州 圣路易斯 [ASSERTIVENET]]
 socks5://44.225.218.148:1080 [[机房] 美国 俄勒冈州 波特兰 — 亚马逊云 Aws [Amazon.com, Inc.]]
 socks5://38.60.214.125:4444 [[机房] 中国 台湾 台北市 [Kaopu Cloud HK Limited]]
-socks5://45.76.104.45:1080 [[机房] 日本 神奈川县 川崎市 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
-socks5://45.76.101.252:1080 [[机房] 日本 神奈川县 川崎市 — Cloudflare CDN 节点 [Cloudflare, Inc.]]
 socks5://5.189.143.4:1080 [[机房] 法国 大东部大区 — Contabo [Contabo GmbH]]
 socks5://5.22.217.132:3333 [[机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Data Services Northern Virginia]]
 socks5://37.16.20.163:1080 [[机房] 新加坡 新加坡 新加坡]
@@ -31,3 +29,5 @@ socks5://77.73.233.88:1080 [[机房] 拉脱维亚 里加 里加 [LV BEGET]]
 socks5://202.44.211.152:9999 [[家宽] 泰国 曼谷 曼谷 [Internet Thailand Company Limited]]
 socks5://203.189.154.200:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
 socks5://154.219.113.169:50161 [[机房] 中国 香港 香港 [Vapeline Technology]]
+socks5://203.189.159.120:1080 [[家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://89.251.26.111:5555 [[机房] 中国 香港 香港 [ALICE NETWORKS LTD]]
