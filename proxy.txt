@@ -1,8 +1,11 @@
-# 代理列表更新时间: 2026-05-16 04:40:04
+# 代理列表更新时间: 2026-05-16 05:00:05
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
 
+socks5://77.39.X.83:1080      入库时间：2026-05-16 04:55 	 [机房] 俄罗斯 斯塔夫罗波尔边疆区 格奥尔吉耶夫斯克 [OJSC Rostelecom Macroregional Branch South]
+socks5://61.177.X.46:10808    入库时间：2026-05-16 04:53 	 [机房] 日本 东京都 东京 — 亚马逊云 Aws [Amazon.com, Inc.]
+socks5://38.247.X.233:8888    入库时间：2026-05-16 04:44 	 [机房] 美国 堪萨斯州 堪萨斯城 [Database Mart LLC]
 socks5://154.9.X.14:1080      入库时间：2026-05-16 03:52 	 [机房] 美国 加利福尼亚州 洛杉矶 [Cogent Communications, LLC]
 socks5://15.235.X.227:1080    入库时间：2026-05-16 02:53 	 [机房] 加拿大 魁北克省 博阿努瓦 — OVH [OVH Hosting, Inc.]
 socks5://74.48.X.29:1080      入库时间：2026-05-16 02:53 	 [机房] 美国 加利福尼亚州 洛杉矶 [MULTACOM CORPORATION]
@@ -10,9 +13,6 @@ socks5://35.221.X.135:1080    入库时间：2026-05-16 02:21 	 [机房] 中国 
 socks5://80.255.X.189:1080    入库时间：2026-05-16 02:02 	 [家宽] 德国 巴伐利亚州 纽伦堡 [Core-Backbone GmbH]
 socks5://80.255.X.188:1080    入库时间：2026-05-16 02:02 	 [家宽] 德国 巴伐利亚州 纽伦堡 [Core-Backbone GmbH]
 socks5://80.255.X.67:1080     入库时间：2026-05-16 02:02 	 [家宽] 德国 巴伐利亚州 纽伦堡 [Core-Backbone GmbH]
-socks5://80.255.X.68:1080     入库时间：2026-05-16 02:02 	 [家宽] 德国 巴伐利亚州 纽伦堡 [Core-Backbone GmbH]
-socks5://113.67.X.123:1081    入库时间：2026-05-16 01:42 	 [机房] 中国 香港 香港 [Eons Data Communications Limited]
-socks5://45.9.X.115:9999      入库时间：2026-05-16 01:20 	 [机房] 芬兰 新地区 赫尔辛基 [FIRST SERVER, SOCIEDAD LIMITADA]
 http://223.204.X.126:8080     入库时间：2026-05-16 04:33 	 [机房] 泰国 春武里府 邦拉蒙县 [Triple T Broadband Public Company Limited]
 http://223.204.X.97:8080      入库时间：2026-05-16 04:33 	 [机房] 泰国 武里南 巴冲猜 [3BB Broadband Internet service provider in Thailand]
 http://223.204.X.35:8080      入库时间：2026-05-16 04:33 	 [机房] 泰国 春武里府 邦拉蒙县 [Triple T Broadband Public Company Limited]
