@@ -1,18 +1,18 @@
-# 代理列表更新时间: 2026-05-16 22:00:10
+# 代理列表更新时间: 2026-05-16 22:20:06
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
 
+socks5://94.41.X.130:1080      入库时间：2026-05-16 22:18 	 [机房] 俄罗斯 巴什科尔托斯坦共和国 乌法 [JSC "Ufanet"]
 socks5://63.250.X.202:1080     入库时间：2026-05-16 21:58 	 [机房] 以色列 中央区 罗什哈阿因 [CLOUDWEBMANAGE IL PT]
 socks5://194.113.X.196:1080    入库时间：2026-05-16 21:58 	 [机房] 荷兰 北荷兰省 阿姆斯特丹 [Xorek.Cloud Helsinki]
-socks5://36.224.X.164:1081     入库时间：2026-05-16 21:34 	 [机房] 中国 台湾 台北 [Data Communication Business Group,]
-socks5://36.224.X.237:1081     入库时间：2026-05-16 21:34 	 [机房] 中国 台湾 台北 [Data Communication Business Group,]
-socks5://36.224.X.29:1081      入库时间：2026-05-16 21:34 	 [机房] 中国 台湾 台北 [Data Communication Business Group,]
-socks5://36.224.X.157:1081     入库时间：2026-05-16 21:34 	 [机房] 中国 台湾 台北 [Data Communication Business Group,]
+socks5://36.224.X.164:1081     入库时间：2026-05-16 21:34 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
+socks5://36.224.X.237:1081     入库时间：2026-05-16 21:34 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
+socks5://36.224.X.29:1081      入库时间：2026-05-16 21:34 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
+socks5://36.224.X.157:1081     入库时间：2026-05-16 21:34 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
 socks5://103.217.X.19:1080     入库时间：2026-05-16 20:44 	 [家宽] 乌克兰 哈尔科夫州 哈尔科夫 [UALAN]
 socks5://45.114.X.29:1080      入库时间：2026-05-16 20:42 	 [机房] 荷兰 北荷兰省 阿姆斯特丹 [CLODO CLOUD SERVICE CO. L.L.C]
 socks5://89.58.X.197:1080      入库时间：2026-05-16 20:41 	 [机房] 德国 巴伐利亚州 纽伦堡 [netcup GmbH]
-socks5://37.1.X.117:10808      入库时间：2026-05-16 19:19 	 [机房] 荷兰 北荷兰省 阿姆斯特丹 [SERVERS TECH FZCO]
 http://54.87.X.195:3128        入库时间：2026-05-16 21:48 	 [机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]
 http://23.254.X.149:3128       入库时间：2026-05-16 20:51 	 [机房] 美国 得克萨斯州 达拉斯 [HostPapa]
 http://121.174.X.199:8080      入库时间：2026-05-16 20:36 	 [家宽] 韩国 釜山广域市 釜山 [Korea Telecom]
