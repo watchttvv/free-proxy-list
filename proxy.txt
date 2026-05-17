@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-05-18 06:00:05
+# 代理列表更新时间: 2026-05-18 06:20:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
@@ -14,7 +14,7 @@ socks5://110.232.X.221:1080    入库时间：2026-05-18 03:40 	 [家宽] 印度
 socks5://202.62.X.167:1080     入库时间：2026-05-18 03:39 	 [家宽] 柬埔寨 金边 金边 [Cogetel Ltd, Online ISP, Cambodia]
 socks5://198.13.X.73:1080      入库时间：2026-05-18 03:39 	 [机房] 日本 东京 东京 — Vultr [Vultr Holdings, LLC]
 http://103.122.X.106:8080      入库时间：2026-05-18 05:43 	 [机房] 日本 东京都 东京 — Zenlayer [Quan Zhou Shi Qing Guo Wang Luo Ke Ji Co., Limited]
-http://45.32.X.95:18080        入库时间：2026-05-18 05:31 	 [机房] 英国 英格兰 伦敦 [Community Fibre Limited]
+http://45.32.X.95:18080        入库时间：2026-05-18 05:31 	 [家宽] 英国 英格兰 伦敦 [Community Fibre Limited]
 http://84.53.X.217:8080        入库时间：2026-05-18 05:03 	 [机房] 俄罗斯 弗拉基米尔州 弗拉基米尔 [OJSC Rostelecom, Vladimir branch]
 http://160.25.X.37:808         入库时间：2026-05-18 04:30 	 [机房] 越南 胡志明市 胡志明市 [CLOUDACE COMPANY LIMITED]
 http://160.25.X.141:808        入库时间：2026-05-18 04:30 	 [机房] 越南 胡志明市 胡志明市 [CLOUDACE COMPANY LIMITED]
