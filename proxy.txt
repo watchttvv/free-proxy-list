@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-05-17 19:40:04
+# 代理列表更新时间: 2026-05-17 20:00:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
 
+socks5://103.20.X.251:1080    入库时间：2026-05-17 19:45 	 [机房] 中国 香港 香港 [Statistics Server]
 socks5://43.198.X.6:1080      入库时间：2026-05-17 19:36 	 [机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon.com, Inc.]
 socks5://43.198.X.236:1080    入库时间：2026-05-17 19:36 	 [机房] 中国 香港 香港 — 亚马逊云 Aws [Amazon.com, Inc.]
 socks5://43.154.X.221:1080    入库时间：2026-05-17 19:17 	 [机房] 中国 香港 香港 — 腾讯云 [6 COLLYER QUAY]
@@ -12,17 +13,16 @@ socks5://112.49.X.5:10808     入库时间：2026-05-17 18:17 	 [机房] 美国 
 socks5://198.13.X.73:1080     入库时间：2026-05-17 17:51 	 [机房] 日本 东京 东京 — Vultr [Vultr Holdings, LLC]
 socks5://167.71.X.89:1080     入库时间：2026-05-17 17:42 	 [机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]
 socks5://167.71.X.51:1080     入库时间：2026-05-17 17:42 	 [机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]
-socks5://103.106.X.5:1080     入库时间：2026-05-17 17:41 	 [机房] 新加坡 新加坡 新加坡 [oneprovider.com - Singapore Infrastructure]
+http://220.87.X.73:8080       入库时间：2026-05-17 19:59 	 [机房] 韩国 全罗北道 群山 [Korea Telecom]
+http://34.242.X.225:1080      入库时间：2026-05-17 19:57 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
+http://34.242.X.43:1080       入库时间：2026-05-17 19:57 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
+http://65.109.X.201:3128      入库时间：2026-05-17 19:47 	 [机房] 芬兰 新地区 赫尔辛基 — Hetzner [Hetzner Online GmbH]
 http://107.172.X.202:3128     入库时间：2026-05-17 19:08 	 [机房] 美国 加利福尼亚州 洛杉矶 [Saswata Mukherjee]
 http://34.244.X.17:1080       入库时间：2026-05-17 18:19 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
 http://46.98.X.164:8080       入库时间：2026-05-17 17:58 	 [机房] 乌克兰 第聂伯罗彼得罗夫斯克州 第聂伯罗 [TRADITIONAL LLC]
 http://118.69.X.232:808       入库时间：2026-05-17 17:47 	 [家宽] 越南 海阳省 胡志明市 [FPT Telecom Company]
 http://124.248.X.7:8080       入库时间：2026-05-17 17:42 	 [家宽] 柬埔寨 金边 钟屋盖 [Cogetel Ltd, Online ISP, Cambodia]
 http://124.248.X.48:8080      入库时间：2026-05-17 17:42 	 [家宽] 柬埔寨 金边 钟屋盖 [Cogetel Ltd, Online ISP, Cambodia]
-http://45.42.X.211:8080       入库时间：2026-05-17 17:35 	 [家宽] 美国 伊利诺伊州 林肯 [Nextlink Broadband]
-http://182.53.X.140:8080      入库时间：2026-05-17 17:15 	 [家宽] 泰国 春武里府 邦拉蒙县 [TOT Public Company Limited]
-http://182.53.X.60:8080       入库时间：2026-05-17 17:15 	 [家宽] 泰国 彭世洛府 邦拉坎 [TOT Public Company Limited]
-http://182.53.X.5:8080        入库时间：2026-05-17 17:15 	 [家宽] 泰国 罗勇府 罗勇 [TOT Public Company Limited]
 https://38.57.X.162:443       入库时间：2026-05-17 18:22 	 [机房] 美国 佛罗里达州 坦帕 [Cogent Communications, LLC]
 https://185.15.X.140:443      入库时间：2026-05-17 16:42 	 [家宽] 丹麦 首都大区 哥本哈根 [Hiper A/S]
 https://3.64.X.152:443        入库时间：2026-05-17 15:51 	 [机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]
