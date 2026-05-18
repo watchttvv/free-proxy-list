@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-05-19 04:00:04
+# 代理列表更新时间: 2026-05-19 04:20:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
@@ -13,7 +13,7 @@ socks5://88.204.X.108:1080     入库时间：2026-05-19 01:00 	 [家宽] 哈萨
 socks5://36.95.X.5:1080        入库时间：2026-05-19 00:59 	 [家宽] 印度尼西亚 雅加达首都特区 雅加达 [Telekomunikasi Indonesia (PT)]
 socks5://176.126.X.127:1080    入库时间：2026-05-19 00:10 	 [机房] 俄罗斯 莫斯科 莫斯科 [Cloud Hosting Solutions, Limited.]
 socks5://116.232.X.68:1080     入库时间：2026-05-18 23:54 	 [机房] 马来西亚 雪兰莪州 赛城 [Casbay Sdn. Bhd.]
-http://189.157.X.152:8080      入库时间：2026-05-19 03:51 	 [机房] 墨西哥 圣路易斯波托西州 圣路易斯波托西 [Gestión de direccionamiento UniNet]
+http://189.157.X.152:8080      入库时间：2026-05-19 03:51 	 [家宽] 墨西哥 圣路易斯波托西州 圣路易斯波托西 [Gestión de direccionamiento UniNet]
 http://185.99.X.229:3128       入库时间：2026-05-19 02:53 	 [机房] 波黑 Federation of B&H Novi Travnik [Globalhost d.o.o. - Virtual Private Servers]
 http://185.99.X.141:3128       入库时间：2026-05-19 02:53 	 [机房] 波黑 Federation of B&H Novi Travnik [Globalhost d.o.o. - Virtual Private Servers]
 http://95.217.X.185:3128       入库时间：2026-05-19 02:11 	 [机房] 德国 巴伐利亚 纽伦堡 — Hetzner [HOS-2772355]
