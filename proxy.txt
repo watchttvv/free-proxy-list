@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-05-18 10:00:04
+# 代理列表更新时间: 2026-05-18 10:20:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
@@ -13,17 +13,17 @@ socks5://147.45.X.173:7777     入库时间：2026-05-18 08:11 	 [机房] 美国
 socks5://45.87.X.216:1080      入库时间：2026-05-18 08:07 	 [机房] 荷兰 上艾瑟尔省 兹沃勒 [Serverio technologijos MB]
 socks5://91.149.X.102:1080     入库时间：2026-05-18 06:44 	 [机房] 芬兰 新地区 赫尔辛基 — JustHost [Baxet Group Inc.]
 socks5://91.149.X.123:1080     入库时间：2026-05-18 06:42 	 [家宽] 乌克兰 基辅市 基辅 [STARLINK 94735829 FRNTDEU1 IPV4]
-http://162.43.X.202:3128       入库时间：2026-05-18 09:26 	 [机房] 日本 大阪府 大阪 [XSERVER Inc.]
+http://162.43.X.202:3128       入库时间：2026-05-18 09:26 	 [家宽] 日本 大阪府 大阪 [XSERVER Inc.]
 http://34.241.X.80:1080        入库时间：2026-05-18 09:22 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
 http://34.241.X.182:1080       入库时间：2026-05-18 09:22 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
 http://34.241.X.103:1080       入库时间：2026-05-18 09:22 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
-http://170.84.X.122:8080       入库时间：2026-05-18 09:18 	 [机房] 巴西 皮奥伊州 皮奥伊的阿松桑 [Bomfim E Sousa Ltda]
+http://170.84.X.122:8080       入库时间：2026-05-18 09:18 	 [家宽] 巴西 皮奥伊州 皮奥伊的阿松桑 [Bomfim E Sousa Ltda]
 http://1.20.X.38:8080          入库时间：2026-05-18 08:05 	 [家宽] 泰国 罗勇府 普卢克登 [TOT Mobile Co LTD]
 http://34.230.X.35:1080        入库时间：2026-05-18 07:28 	 [机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]
 http://77.73.X.62:8080         入库时间：2026-05-18 07:28 	 [家宽] 俄罗斯 莫斯科州 多罗霍沃 [FlexNet customers network]
 http://54.238.X.124:1080       入库时间：2026-05-18 07:07 	 [机房] 日本 东京都 东京 — 亚马逊云 Aws [Amazon Data Services Japan]
 http://116.99.X.28:8080        入库时间：2026-05-18 06:30 	 [家宽] 越南 河内 河内 [Viettel Group]
-https://202.39.X.175:443       入库时间：2026-05-18 09:10 	 [机房] 中国 台湾 Taoyuan City [Data Communication Business Group,]
+https://202.39.X.175:443       入库时间：2026-05-18 09:10 	 [家宽] 中国 台湾 Taoyuan City [Data Communication Business Group,]
 https://13.40.X.233:443        入库时间：2026-05-18 08:57 	 [机房] 英国 英格兰 伦敦 — 亚马逊云 Aws [Amazon Data Services UK]
 https://81.93.X.85:443         入库时间：2026-05-18 07:28 	 [机房] 法国 法兰西岛大区 巴黎 [Risc Convergence Dsl access]
 https://107.181.X.4:443        入库时间：2026-05-18 07:17 	 [机房] 美国 犹他州 盐湖城 [GorillaServers, Inc.]
