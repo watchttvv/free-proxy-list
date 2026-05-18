@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-05-18 12:20:03
+# 代理列表更新时间: 2026-05-18 12:40:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
@@ -13,16 +13,16 @@ socks5://103.113.X.5:1082      入库时间：2026-05-18 09:31 	 [机房] 美国
 socks5://35.89.X.70:1080       入库时间：2026-05-18 09:07 	 [机房] 美国 俄勒冈州 博德曼 — 亚马逊云 Aws [Amazon.com, Inc.]
 socks5://38.99.X.133:1080      入库时间：2026-05-18 08:36 	 [机房] 美国 加利福尼亚州 洛杉矶 [NTT America, Inc.]
 socks5://172.233.X.131:1080    入库时间：2026-05-18 08:12 	 [机房] 美国 伊利诺伊州 芝加哥 — Linode [Linode]
+http://223.204.X.93:8080       入库时间：2026-05-18 12:38 	 [机房] 泰国 大城府 班迈 [Triple T Broadband Public Company Limited]
+http://223.204.X.249:8080      入库时间：2026-05-18 12:35 	 [机房] 泰国 清迈府 清迈 [Triple T Broadband Public Company Limited]
+http://223.204.X.13:8080       入库时间：2026-05-18 12:32 	 [机房] 泰国 乌汶叻差他尼府 乌汶叻差他尼 [Triple T Broadband Public Company Limited]
+http://223.204.X.119:8080      入库时间：2026-05-18 12:31 	 [机房] 泰国 春武里府 芭堤雅 [Triple T Broadband Public Company Limited]
+http://223.204.X.171:8080      入库时间：2026-05-18 12:25 	 [机房] 泰国 春武里府 芭堤雅 [Triple T Broadband Public Company Limited]
 http://194.164.X.243:80        入库时间：2026-05-18 11:46 	 [机房] 西班牙 马德里自治区 马德里 [IONOS SE]
 http://103.149.X.251:8080      入库时间：2026-05-18 11:34 	 [机房] 印度尼西亚 雅加达首都特区 雅加达 [PT Goysen Solusi Teknologi]
 http://89.179.X.212:8080       入库时间：2026-05-18 11:09 	 [家宽] 俄罗斯 圣彼得堡 圣彼得堡 [PJSC "Vimpelcom"]
 http://119.2.X.144:8080        入库时间：2026-05-18 10:47 	 [家宽] 印度尼西亚 雅加达首都特区 雅加达 [PT. LAXO GLOBAL AKSES]
 http://123.20.X.188:8080       入库时间：2026-05-18 10:29 	 [家宽] 越南 胡志明市 胡志明市 [Vietnam Posts and Telecommunications Group]
-http://162.43.X.202:3128       入库时间：2026-05-18 09:26 	 [家宽] 日本 大阪府 大阪 [XSERVER Inc.]
-http://34.241.X.80:1080        入库时间：2026-05-18 09:22 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
-http://34.241.X.182:1080       入库时间：2026-05-18 09:22 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
-http://34.241.X.103:1080       入库时间：2026-05-18 09:22 	 [机房] 爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws [Amazon Data Services Ireland Limited]
-http://170.84.X.122:8080       入库时间：2026-05-18 09:18 	 [家宽] 巴西 皮奥伊州 皮奥伊的阿松桑 [Bomfim E Sousa Ltda]
 https://18.199.X.100:443       入库时间：2026-05-18 12:19 	 [机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]
 https://18.199.X.78:443        入库时间：2026-05-18 12:19 	 [机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]
 https://18.199.X.175:443       入库时间：2026-05-18 12:18 	 [机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]
