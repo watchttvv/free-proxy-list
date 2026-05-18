@@ -1,8 +1,10 @@
-# 代理列表更新时间: 2026-05-18 13:40:04
+# 代理列表更新时间: 2026-05-18 14:00:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
 
+socks5://103.193.X.150:1080    入库时间：2026-05-18 13:59 	 [机房] 新加坡 新加坡 新加坡 — Zenlayer [C3 Networks Inc - Hosting Customers]
+socks5://56.228.X.84:1080      入库时间：2026-05-18 13:59 	 [机房] 瑞典 斯德哥尔摩省 斯德哥尔摩 — 亚马逊云 Aws [Amazon Data Services Sweden]
 socks5://95.37.X.230:1080      入库时间：2026-05-18 13:38 	 [机房] 俄罗斯 下诺夫哥罗德州 下诺夫哥罗德 [Network for PPPoE clients terminations in]
 socks5://95.142.X.109:1081     入库时间：2026-05-18 13:38 	 [机房] 俄罗斯 莫斯科 莫斯科 — Cloudflare CDN 节点 [Cloudflare, Inc.]
 socks5://54.81.X.43:1080       入库时间：2026-05-18 13:04 	 [机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]
@@ -11,8 +13,8 @@ socks5://188.0.X.25:1080       入库时间：2026-05-18 10:52 	 [机房] 荷兰
 socks5://116.97.X.203:1080     入库时间：2026-05-18 10:28 	 [机房] 越南 宁平省 南定 [Viettel Group]
 socks5://116.97.X.3:1080       入库时间：2026-05-18 10:28 	 [机房] 越南 宁平省 南定 [Viettel Group]
 socks5://147.45.X.129:1080     入库时间：2026-05-18 09:46 	 [机房] 荷兰 北荷兰省 阿姆斯特丹 [Timeweb, LLP]
-socks5://180.172.X.252:1081    入库时间：2026-05-18 09:37 	 [机房] 中国 香港 香港 [BAGE CLOUD LLC]
-socks5://103.113.X.5:1082      入库时间：2026-05-18 09:31 	 [机房] 美国 新泽西州 锡考克斯 [WorkTitans B.V.]
+http://34.162.X.75:443         入库时间：2026-05-18 13:57 	 [机房] 美国 俄亥俄州 哥伦布 — 谷歌云 GCP [Google LLC]
+http://94.72.X.100:8080        入库时间：2026-05-18 13:53 	 [机房] 英国 英格兰 朴次茅斯 — Contabo [Contabo GmbH]
 http://110.77.X.75:8080        入库时间：2026-05-18 13:39 	 [机房] 泰国 春武里府 芭堤雅 [10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand]
 http://110.77.X.101:8080       入库时间：2026-05-18 13:39 	 [机房] 泰国 曼谷 曼谷 [10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand]
 http://110.77.X.62:8080        入库时间：2026-05-18 13:39 	 [机房] 泰国 碧差汶 碧差汶 [10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand]
@@ -21,8 +23,6 @@ http://178.252.X.213:8080      入库时间：2026-05-18 13:16 	 [机房] 伊朗
 http://103.142.X.34:8080       入库时间：2026-05-18 13:16 	 [机房] 印度尼西亚 东爪哇省 宗邦 [PT.CITRA BERDIKARI NUSANTARA]
 http://140.235.X.175:3128      入库时间：2026-05-18 13:14 	 [机房] 美国 得克萨斯州 达拉斯 [berrybyte]
 http://223.204.X.93:8080       入库时间：2026-05-18 12:38 	 [家宽] 泰国 大城府 班迈 [Triple T Broadband Public Company Limited]
-http://223.204.X.249:8080      入库时间：2026-05-18 12:35 	 [家宽] 泰国 清迈府 清迈 [Triple T Broadband Public Company Limited]
-http://223.204.X.13:8080       入库时间：2026-05-18 12:32 	 [家宽] 泰国 乌汶叻差他尼府 乌汶叻差他尼 [Triple T Broadband Public Company Limited]
 https://51.79.X.78:443         入库时间：2026-05-18 13:22 	 [机房] 加拿大 魁北克省 蒙特利尔 — OVH [OVH Hosting, Inc.]
 https://18.185.X.144:443       入库时间：2026-05-18 12:40 	 [机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]
 https://18.199.X.100:443       入库时间：2026-05-18 12:19 	 [机房] 德国 黑森州 法兰克福 — 亚马逊云 Aws [A100 ROW GmbH]
