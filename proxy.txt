@@ -1,8 +1,9 @@
-# 代理列表更新时间: 2026-05-19 15:00:04
+# 代理列表更新时间: 2026-05-19 15:20:05
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
 
+socks5://109.107.X.12:10801    入库时间：2026-05-19 15:18 	 [机房] 德国 黑森州 法兰克福 [AEZA GROUP LLC]
 socks5://80.64.X.79:1081       入库时间：2026-05-19 14:13 	 [机房] 俄罗斯 圣彼得堡 圣彼得堡 [Sprinthost LLC]
 socks5://144.76.X.120:1081     入库时间：2026-05-19 13:30 	 [机房] 英国 苏格兰 爱丁堡 [Hydra Communications Ltd]
 socks5://157.173.X.85:8081     入库时间：2026-05-19 13:29 	 [机房] 伊拉克 苏莱曼尼亚 苏莱曼尼亚 [I.Q Online for Internet Services and Communications LLC]
@@ -12,16 +13,15 @@ socks5://89.44.X.127:1080      入库时间：2026-05-19 12:47 	 [机房] 荷兰
 socks5://47.253.X.245:10808    入库时间：2026-05-19 12:10 	 [机房] 美国 弗吉尼亚州 弗吉尼亚比奇 — 阿里云 [Alibaba Cloud - US]
 socks5://47.97.X.38:1080       入库时间：2026-05-19 12:09 	 [机房] 中国 香港 香港 [Telescope Communications]
 socks5://107.175.X.223:1080    入库时间：2026-05-19 10:54 	 [机房] 美国 纽约州 布法罗 [HostPapa]
-socks5://31.59.X.244:1080      入库时间：2026-05-19 10:29 	 [机房] 阿拉伯联合酋长国 迪拜酋长国 迪拜 [ETERNITY INTERNATIONAL LIMITED]
 http://3.96.X.207:1080         入库时间：2026-05-19 14:45 	 [机房] 加拿大 魁北克省 蒙特利尔 — 亚马逊云 Aws [Amazon Data Services Canada]
-http://113.11.X.47:8080        入库时间：2026-05-19 14:44 	 [机房] 印度尼西亚 雅加达首都特区 雅加达 [BIZNET]
+http://113.11.X.47:8080        入库时间：2026-05-19 14:44 	 [家宽] 印度尼西亚 雅加达首都特区 雅加达 [BIZNET]
 http://103.137.X.165:8080      入库时间：2026-05-19 14:33 	 [机房] 印度尼西亚 东爪哇省 辛戈萨里 [PT. Capoeng Digital Nusantara]
 http://103.137.X.12:8080       入库时间：2026-05-19 14:33 	 [机房] 菲律宾 北棉兰老 伊利甘 [Southern CableVision Inc.]
 http://103.137.X.10:8080       入库时间：2026-05-19 14:33 	 [机房] 菲律宾 北棉兰老 伊利甘 [Southern CableVision Inc.]
 http://103.137.X.11:8080       入库时间：2026-05-19 14:32 	 [机房] 菲律宾 北棉兰老 伊利甘 [Southern CableVision Inc.]
 http://103.137.X.14:8080       入库时间：2026-05-19 14:32 	 [机房] 菲律宾 北棉兰老 伊利甘 [Southern CableVision Inc.]
 http://103.137.X.13:8080       入库时间：2026-05-19 14:32 	 [机房] 菲律宾 北棉兰老 伊利甘 [Southern CableVision Inc.]
-http://113.163.X.17:8080       入库时间：2026-05-19 14:07 	 [机房] 越南 河内 河内 [Vietnam Posts and Telecommunications Group]
+http://113.163.X.17:8080       入库时间：2026-05-19 14:07 	 [家宽] 越南 河内 河内 [Vietnam Posts and Telecommunications Group]
 http://13.215.X.251:1080       入库时间：2026-05-19 13:59 	 [机房] 新加坡 新加坡 新加坡 — 亚马逊云 Aws [Amazon Data Services Singapore]
 https://15.237.X.183:443       入库时间：2026-05-19 14:36 	 [机房] 法国 法兰西岛大区 巴黎 — 亚马逊云 Aws [Amazon Data Services France]
 https://15.237.X.50:443        入库时间：2026-05-19 14:36 	 [机房] 法国 法兰西岛大区 巴黎 — 亚马逊云 Aws [Amazon Data Services France]
