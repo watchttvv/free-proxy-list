@@ -1,8 +1,10 @@
-# 代理列表更新时间: 2026-05-20 12:40:04
+# 代理列表更新时间: 2026-05-20 13:00:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
 
+socks5://47.237.X.172:1080     入库时间：2026-05-20 12:54 	 [机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud LLC]
+socks5://45.157.X.37:10808     入库时间：2026-05-20 12:52 	 [机房] 美国 加利福尼亚州 弗里蒙特 [Huize Holdings LLC]
 socks5://31.57.X.161:1080      入库时间：2026-05-20 12:15 	 [机房] 芬兰 新地区 赫尔辛基 [CGI GLOBAL LIMITED]
 socks5://206.245.X.171:1080    入库时间：2026-05-20 11:58 	 [机房] 德国 柏林州 柏林 [Snowd Security OU]
 socks5://87.120.X.113:1080     入库时间：2026-05-20 11:33 	 [机房] 德国 黑森州 法兰克福 [PLAY2GO INTERNATIONAL LIMITED]
@@ -11,18 +13,16 @@ socks5://36.224.X.74:1081      入库时间：2026-05-20 11:33 	 [家宽] 中国
 socks5://36.224.X.165:1081     入库时间：2026-05-20 11:33 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
 socks5://36.224.X.62:1081      入库时间：2026-05-20 11:33 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
 socks5://36.224.X.10:1081      入库时间：2026-05-20 11:33 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
-socks5://82.146.X.184:1080     入库时间：2026-05-20 11:22 	 [机房] 新加坡 新加坡 新加坡 — 谷歌云 GCP [Google LLC]
-socks5://103.192.X.218:1080    入库时间：2026-05-20 11:13 	 [机房] 中国 香港 香港 [HostUS]
+http://171.4.X.9:8080          入库时间：2026-05-20 12:54 	 [机房] 泰国 罗勇府 罗勇 [Triple T Broadband Public Company Limited]
+http://171.4.X.218:8080        入库时间：2026-05-20 12:54 	 [机房] 泰国 罗勇府 罗勇 [Triple T Broadband Public Company Limited]
+http://103.117.X.58:8080       入库时间：2026-05-20 12:48 	 [机房] 孟加拉国 达卡专区 达卡 [I Link Internet Service (I.T)]
+http://103.117.X.238:8080      入库时间：2026-05-20 12:48 	 [机房] 孟加拉国 达卡专区 达卡 [DigiCon Telecommunication Ltd]
+http://103.189.X.210:8080      入库时间：2026-05-20 12:48 	 [机房] 印度尼西亚 东爪哇 帕特朗 [PT Tekling Media Telematika]
 http://18.232.X.41:9999        入库时间：2026-05-20 12:23 	 [机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]
 http://103.80.X.108:8080       入库时间：2026-05-20 12:20 	 [机房] 印度尼西亚 东爪哇 莫佐萨里 [PT Redi Revolusi Digital Solusi]
 http://49.49.X.79:8080         入库时间：2026-05-20 12:02 	 [家宽] 泰国 也拉府 也拉 [Triple T Broadband Public Company Limited]
 http://49.49.X.220:8080        入库时间：2026-05-20 12:02 	 [家宽] 泰国 清迈府 清迈 [Triple T Broadband Public Company Limited]
 http://49.49.X.38:8080         入库时间：2026-05-20 12:02 	 [家宽] 泰国 清迈府 清迈 [Triple T Broadband Public Company Limited]
-http://49.49.X.35:8080         入库时间：2026-05-20 12:01 	 [家宽] 泰国 北柳府 北柳 [Triple T Broadband Public Company Limited]
-http://49.49.X.189:8080        入库时间：2026-05-20 12:01 	 [家宽] 泰国 南邦府 南邦 [Triple T Broadband Public Company Limited]
-http://49.49.X.98:8080         入库时间：2026-05-20 12:01 	 [家宽] 泰国 曼谷 曼谷 [Triple T Broadband Public Company Limited]
-http://54.193.X.134:1080       入库时间：2026-05-20 11:59 	 [机房] 美国 加利福尼亚州 圣何塞 — 亚马逊云 Aws [Amazon.com, Inc.]
-http://54.193.X.255:1080       入库时间：2026-05-20 11:59 	 [机房] 美国 加利福尼亚州 圣何塞 — 亚马逊云 Aws [Amazon.com, Inc.]
 https://192.241.X.92:443       入库时间：2026-05-20 10:24 	 [机房] 美国 新泽西州 北卑尔根 — DigitalOcean [DigitalOcean, LLC]
 https://54.220.X.149:443       入库时间：2026-05-20 10:16 	 [机房] 爱尔兰 伦斯特 — 亚马逊云 Aws [Amazon.com, Inc.]
 https://60.54.X.67:8443        入库时间：2026-05-20 09:39 	 [家宽] 马来西亚 雪兰莪州 莎阿南 [TM TECHNOLOGY SERVICES SDN BHD]
