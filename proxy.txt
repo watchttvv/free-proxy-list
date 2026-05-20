@@ -1,4 +1,4 @@
-# 代理列表更新时间: 2026-05-20 13:00:04
+# 代理列表更新时间: 2026-05-20 13:20:04
 # 总计: 30 个代理
 # 实时抓取于免费公共代理池: https://tomcat1235.nyc.mn
 # 注意:经过实测,显示家宽并不一定是家宽,不过确实有不少显示家宽的可以不用登录youtube账号,就可以看视频,说明部分IP资源是纯净的(google的判断准则)
@@ -13,11 +13,11 @@ socks5://36.224.X.74:1081      入库时间：2026-05-20 11:33 	 [家宽] 中国
 socks5://36.224.X.165:1081     入库时间：2026-05-20 11:33 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
 socks5://36.224.X.62:1081      入库时间：2026-05-20 11:33 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
 socks5://36.224.X.10:1081      入库时间：2026-05-20 11:33 	 [家宽] 中国 台湾 台北 [Data Communication Business Group,]
-http://171.4.X.9:8080          入库时间：2026-05-20 12:54 	 [机房] 泰国 罗勇府 罗勇 [Triple T Broadband Public Company Limited]
-http://171.4.X.218:8080        入库时间：2026-05-20 12:54 	 [机房] 泰国 罗勇府 罗勇 [Triple T Broadband Public Company Limited]
-http://103.117.X.58:8080       入库时间：2026-05-20 12:48 	 [机房] 孟加拉国 达卡专区 达卡 [I Link Internet Service (I.T)]
-http://103.117.X.238:8080      入库时间：2026-05-20 12:48 	 [机房] 孟加拉国 达卡专区 达卡 [DigiCon Telecommunication Ltd]
-http://103.189.X.210:8080      入库时间：2026-05-20 12:48 	 [机房] 印度尼西亚 东爪哇 帕特朗 [PT Tekling Media Telematika]
+http://171.4.X.9:8080          入库时间：2026-05-20 12:54 	 [家宽] 泰国 罗勇府 罗勇 [Triple T Broadband Public Company Limited]
+http://171.4.X.218:8080        入库时间：2026-05-20 12:54 	 [家宽] 泰国 罗勇府 罗勇 [Triple T Broadband Public Company Limited]
+http://103.117.X.58:8080       入库时间：2026-05-20 12:48 	 [家宽] 孟加拉国 达卡专区 达卡 [I Link Internet Service (I.T)]
+http://103.117.X.238:8080      入库时间：2026-05-20 12:48 	 [家宽] 孟加拉国 达卡专区 达卡 [DigiCon Telecommunication Ltd]
+http://103.189.X.210:8080      入库时间：2026-05-20 12:48 	 [家宽] 印度尼西亚 东爪哇 帕特朗 [PT Tekling Media Telematika]
 http://18.232.X.41:9999        入库时间：2026-05-20 12:23 	 [机房] 美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws [Amazon Technologies Inc.]
 http://103.80.X.108:8080       入库时间：2026-05-20 12:20 	 [机房] 印度尼西亚 东爪哇 莫佐萨里 [PT Redi Revolusi Digital Solusi]
 http://49.49.X.79:8080         入库时间：2026-05-20 12:02 	 [家宽] 泰国 也拉府 也拉 [Triple T Broadband Public Company Limited]
