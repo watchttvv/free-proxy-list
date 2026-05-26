@@ -60,7 +60,7 @@ class ProxyListScraper:
             print(f"抓取错误: {e}")
             return []
     
-    def save_to_file(self, proxies, filename='proxy.txt'):
+    def save_to_file(self, proxies, filename: str='proxy.txt') -> bool:
         """保存代理列表到文件"""
         try:
             with open(filename, 'w', encoding='utf-8') as f:
@@ -79,7 +79,7 @@ class ProxyListScraper:
             print(f"保存文件错误: {e}")
             return False
 
-def main():
+def main() -> None:
     """主函数"""
     scraper = ProxyListScraper()
     
